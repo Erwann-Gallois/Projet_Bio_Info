@@ -1,0 +1,9 @@
+README module Projet Bioinformatique 2021-2022 Partie Projet
+NOM : GALLOIS
+PRENOM : Erwann
+
+***************************
+*  vendredi 05 avril 2024 *
+***************************
+travail du jour :
+- Bilan nombre de copies ET (Elements Transposables) par famille
