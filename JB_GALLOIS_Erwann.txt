@@ -23,6 +23,8 @@ Creation du fichier fasta : Athaliana_RepBase_EMBL.fasta
 makeblastdb -in Athaliana_RepBase_EMBL.fasta -parse_seqids -dbtype nucl
 
 # -------------------- Creation des fichiers de references ------------------- #
+blastdbcmd -db Athaliana_RepBase_EMBL.fasta -entry "nom_sequence"
+
 ATCOPIA32B 
 
 >ATCOPIA32B_I AC006570 Internal region of the ATCOPIA32B LTR retrotransposon.
@@ -441,3 +443,19 @@ grep "ATCOPIA32B" TAIR10_TE.fas | awk 'BEGIN {FS = "|"}; {print $1}' > identifia
 >AT5TE95130
 >AT5TE31975
 
+# ---------------------------------------------------------------------------- #
+#                              Mardi 09 avril 2024                             #
+# ---------------------------------------------------------------------------- #
+Creation de la base de données avec TAIR10_TE.fas
+    Problème : Identifiant trop long ( > à 50 caractères) 
+Omission des caractère "|" et on l'a remplacé par des " " 
+
+sed 's/|/ /g' TAIR10_TE.fas > new_TAIR10_TE.fasta
+
+#Code utilisé pour prendre les fichiers d'id et les compare à la base de données pour récupérer les séquenc
+fichier=$1
+while read LINE
+do 
+    set $LINE
+    blastdbcmd -db new_TAIR10_TE.fasta -entry $1
+done < $fichier
