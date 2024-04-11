@@ -1,0 +1,3602 @@
+########################################
+# Program: water
+# Rundate: Thu 11 Apr 2024 09:07:11
+# Commandline: water
+#    -asequence ref_VANDAL11.fasta
+#    -bsequence seq_ET_VANDAL11.fasta
+# Align_format: srspair
+# Report_file: vandal11.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT1TE52420
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 4328
+# Identity:    1882/4328 (43.5%)
+# Similarity:  1882/4328 (43.5%)
+# Gaps:        1897/4328 (43.8%)
+# Score: 3919.0
+# 
+#
+#=======================================
+
+VANDAL11        2336 CATT-TTTAAGAATAAAGAGGATTGTTCAACTAAGCTCGCTATTCATGCG   2384
+                     |||| ||.||||||||.||.||.||..|.||.||.||.||.||.|||.||
+AT1TE52420         1 CATTGTTCAAGAATAAGGAAGACTGCACGACAAAACTTGCAATACATCCG     50
+
+VANDAL11        2385 ATCCGGAGGAAGTTCCATTTCATTTACGTAAAGTCCGGGCCAAATGTTGT   2434
+                     ||.|||.|.||||||||.||||||||||..|||||..|.||.||..||||
+AT1TE52420        51 ATACGGCGAAAGTTCCACTTCATTTACGCCAAGTCTTGCCCTAACATTGT    100
+
+VANDAL11        2435 GGCGGCTGTGTGCGTCAGCCATACATGTCCATGGTGGGTTTATGCAACTA   2484
+                     ....|||.|||||||.|||||||||||.|..|||.|.||.||||||||..
+AT1TE52420       101 CTTCGCTATGTGCGTGAGCCATACATGCCTGTGGCGTGTCTATGCAACAG    150
+
+VANDAL11        2485 AGCTGCCAGATAGTGATACG-TTCGAGGTTA-----GGAGCACGACTTCA   2528
+                     ||||....||.|.||| .|| ||||||.|.|     |.|.|||.|||   
+AT1TE52420       151 AGCTAGAGGAAATTGA-CCGATTCGAGATAAAATGCGCAACACAACT---    196
+
+VANDAL11        2529 ACACACACGTGTAGCGTGGATGCTAAAGGG--GACTTCCACAAGCAAGCA   2576
+                       .|||||.||.||.||.||.||  |||||  |||||.|||||.||.|||
+AT1TE52420       197 --GCACACTTGCAGTGTTGACGC--AAGGGGAGACTTTCACAAACAGGCA    242
+
+VANDAL11        2577 TCAACGGCTGTGATTGGGAAGTTGATGGGAACTAAATACATAGGAGTGGG   2626
+                     ||.|..|||||||||||.||.|||.||.|.||.||||||.|.||.||.||
+AT1TE52420       243 TCTATAGCTGTGATTGGTAAATTGGTGCGGACCAAATACCTGGGGGTTGG    292
+
+VANDAL11        2627 CCGTGGACCTCGACCTAATGAGCTTAGAAGAATGTTACGCCAAGAGTTTA   2676
+                     ..|.||.||..|.|||||.|||.|.||||..|||.|.||..|.|||||.|
+AT1TE52420       293 TAGGGGTCCAAGGCCTAACGAGTTGAGAAAGATGCTCCGTGATGAGTTCA    342
+
+VANDAL11        2677 ACCTCAACGTCTCTTATTGGAAGGCATGGAGGACAAGAGAAATAGCGATG   2726
+                     ||||.||.||.||.||.|.|||||||||||||.|...|||||||||.|||
+AT1TE52420       343 ACCTAAATGTGTCGTACTTGAAGGCATGGAGGGCTCAAGAAATAGCTATG    392
+
+VANDAL11        2727 GACAATGCAATGGGGTCTGCTATGGGGAGTTACGCTCTAAACCAACCATA   2776
+                     ||.|||||.|||.|.||.||.|||||.||.|||.|..|.|..||.||.||
+AT1TE52420       393 GATAATGCCATGAGATCGGCAATGGGAAGCTACACATTGATTCAGCCTTA    442
+
+VANDAL11        2777 CTTTAAGCTGCTTTTGGAGACAAATCCCAACTCACTTGTGGCAATGGAAA   2826
+                     .||.||.||.|...|.||.||.||.||.|||||..|.||||||.|.||.|
+AT1TE52420       443 TTTCAAACTTCCACTAGAAACCAACCCTAACTCGTTAGTGGCACTTGATA    492
+
+VANDAL11        2827 CTGAAAAGGATGCTTCAGGGGTAGAGAGATTCAAGTACTTGTTTTTTACC   2876
+                     |.|||||..||.....|||.||.|||.|.||.|.||||||.|||||..|.
+AT1TE52420       493 CAGAAAAATATAACAAAGGTGTGGAGCGTTTTAGGTACTTATTTTTCGCT    542
+
+VANDAL11        2877 CTTCATGCCTG-TGTTCTAGGCTATCCTTACATGAGGAAGGTGATAGTTA   2925
+                     ||.|.|| ||| .||.|..||.|||.|.||.|||.|.|||||.||.||.|
+AT1TE52420       543 CTACCTG-CTGCAGTCCATGGTTATGCGTATATGCGAAAGGTCATGGTGA    591
+
+VANDAL11        2926 TCGACGGTACACACCTACGGGGACGATATGGGGGATGTTTAGTTGCAGCT   2975
+                     |.|..||.||.||..|..||||.|||||.||.||.||..||.|.|||||.
+AT1TE52420       592 TTGTTGGGACTCATTTGAGGGGCCGATACGGAGGCTGCCTAATAGCAGCA    641
+
+VANDAL11        2976 AGTGCGCAAGACGCCAATTTCCAAATATTCCCCATTGCATTTGGAATAGT   3025
+                     ||.||.|||||.||.|||||.|||.|.|||||||||.|.|||||.|||||
+AT1TE52420       642 AGCGCTCAAGATGCAAATTTTCAAGTGTTCCCCATTACTTTTGGGATAGT    691
+
+VANDAL11        3026 AAACAGCGAGAACGATGAGGCGTGGACTTGGTTCATGACTAAGCTGACGG   3075
+                     .|||||||||||.||.||.||||||||.|||||||||...|.|||.||.|
+AT1TE52420       692 GAACAGCGAGAATGACGATGCGTGGACATGGTTCATGGAGAGGCTAACAG    741
+
+VANDAL11        3076 AAGCTATTCCAGATGATCCCGAGTTGGTGTTTATGTCAGATAGGCATTCC   3125
+                     ||||.||.|||||||||||.||.|||||.||..|.|||||.|||||.||.
+AT1TE52420       742 AAGCCATACCAGATGATCCAGATTTGGTATTCGTTTCAGACAGGCACTCG    791
+
+VANDAL11        3126 TCTATTTATGCCAGCATCCGCAAGGTATGGAATTAATCT-----CTATGT   3170
+                     |||||.|||||.|||||.||||||||    ||||.||||     | |.||
+AT1TE52420       792 TCTATATATGCAAGCATACGCAAGGT----AATTTATCTGATAAC-AAGT    836
+
+VANDAL11        3171 TAT-------------------CCG-------ATAATGTGGGGTTTACCA   3194
+                     |||                   .||       |||||.|.|   |||.||
+AT1TE52420       837 TATATTTAGGAGATAACTTTAGTCGTGCAATAATAATTTAG---TTAGCA    883
+
+VANDAL11        3195 TC-----AGGCTTTTT--------------ATGTTTACATAAGCCTTTTT   3225
+                     ||     .||||||.|              |||||| |||||.|||..|.
+AT1TE52420       884 TCTAGTACGGCTTTGTTTATCATGGTAAAAATGTTT-CATAAACCTAATA    932
+
+VANDAL11        3226 GTACTGTAAC--------AGGTTTACCCCATGTCATCACATGCTGCTTGC   3267
+                     | |.|||.||        ||||||||||||||||.||.||.||.||||||
+AT1TE52420       933 G-ATTGTCACAAATCTCTAGGTTTACCCCATGTCTTCCCACGCAGCTTGC    981
+
+VANDAL11        3268 ATCGTCCACCTCAAGAGAAACATTGAGGCATACTTTAAAGT-CGAACAGT   3316
+                     .|..||||.||.|.|||.|||||.|...|| |..||.|||| ||||..||
+AT1TE52420       982 GTTATCCATCTAATGAGGAACATAGTATCA-ATGTTCAAGTCCGAAGGGT   1030
+
+VANDAL11        3317 TAAGTGCCTTGGTATCAAGTGCAGCTAGAGCTTATCGGCTAACTGACTTC   3366
+                     |.|||...|||||..|.||||||||..|.|||||.||||||||.|     
+AT1TE52420      1031 TGAGTTATTTGGTCGCCAGTGCAGCACGTGCTTACCGGCTAACAG-----   1075
+
+VANDAL11        3367 AACAAGATTTTTGCTGAAATTAAGGCTACGCATGGATCGTGCGCTGAGTA   3416
+                                    |.|||||||  |.|..|.|.|||            
+AT1TE52420      1076 ---------------GCAATTAAG--TTCAAACGTATC------------   1096
+
+VANDAL11        3417 CCTGGAAA--GTATAGGGTTCGA-ACATTGGACCAGGTCACATTTT--GT   3461
+                          |||  |||.|||...||| |||           ||.|||.|  ||
+AT1TE52420      1097 -----AAAACGTACAGGTAACGATACA-----------CAAATTCTGAGT   1130
+
+VANDAL11        3462 TGGGAATCGGTACAACTTCATGACGAGTAATATTGTCGAGTCGCTAAACA   3511
+                     |.|||     |.|||| .|..||| |.||.|||.||||||.||      |
+AT1TE52420      1131 TAGGA-----TGCAAC-ACCGGAC-AATATTATAGTCGAGACG------A   1167
+
+VANDAL11        3512 ATGTTTTAACGGC---AGCCCGAGATTATCCGGTAATCTCAATCTTAGAA   3558
+                     .|.||||.||..|   |.||.|||      |||.||..|||       ||
+AT1TE52420      1168 GTTTTTTCACTTCTTGATCCAGAG------CGGCAACATCA-------AA   1204
+
+VANDAL11        3559 TCTATCCAG----------ACAACCCTC--GTATCATGGTTTGCGTTTCG   3596
+                     |   |||||          ||  |||||  |.|.||||            
+AT1TE52420      1205 T---TCCAGGGATTCCTTAAC--CCCTCTGGCAGCATG------------   1237
+
+VANDAL11        3597 TAGGCAGGCAGCCCAGTTAGA-AGACAATATCTTGCCGCCTAAAGTACA-   3644
+                       .|||.|      |.||||| |.||       ||      ||||.||| 
+AT1TE52420      1238 --AGCATG------AATTAGATAAAC-------TG------AAAGCACAC   1266
+
+VANDAL11        3645 -------TAACATGGTTATCGAGAATTTTGAG-------AAGGGGGCGGG   3680
+                            .||||.||     .|||| ..||||       |.||||.|   
+AT1TE52420      1267 CGGAATCAAACAGGG-----AAGAA-CCTGAGGGATGTCATGGGGAC---   1307
+
+VANDAL11        3681 TTTTGTTGTGATAAAGATTGGGGATGGTCTCTATGAGGTTAGAGACAAAA   3730
+                              |||..||   .||||          .|||||..|| |||.|
+AT1TE52420      1308 ---------GATCCAG---CGGGA----------AAGGTTGCAG-CAAGA   1334
+
+VANDAL11        3731 GAGG-----CGGAGGGTTTGTAGTTAACCT-ATTGGAGAGAACATGTACA   3774
+                     .|||     |.||.|      ||||..||| .|||.||||     |||  
+AT1TE52420      1335 TAGGACCACCAGACG------AGTTGGCCTGTTTGAAGAG-----GTA--   1371
+
+VANDAL11        3775 TGCAGAGAGTTTAAGCTTCTAACGATTCCTTGCTCTCACGCAATAGTGGC   3824
+                        ||.||                               |||    ||||
+AT1TE52420      1372 ---AGGGA-------------------------------GCA----TGGC   1383
+
+VANDAL11        3825 GGCCATACAAGAAGGACTCCGAGTGGACACACTGGTTGGGGTTCATCACA   3874
+                     .||                          ||.|||.||..||||..||.|
+AT1TE52420      1384 TGC--------------------------CAATGGATGTAGTTCCGCATA   1407
+
+VANDAL11        3875 CCACGC-----CACAGCTACGGTTG--TGTTACCAAGCCCTAATAAT-GC   3916
+                     |.||||     |||..|.| .||||  |||| |.||.|   |||||| | 
+AT1TE52420      1408 CAACGCTGAGTCACGTCGA-AGTTGAATGTT-CGAATC---AATAATAG-   1451
+
+VANDAL11        3917 CGGTGCCTGACACGGAGACTCTTACTCCG--------TCACCAAACGATG   3958
+                            |||         ||||| |.||        |||.||.||.|||
+AT1TE52420      1452 -------TGA---------TCTTA-TGCGTCTTAAGATCAACACACAATG   1484
+
+VANDAL11        3959 TAGGGGGGGGAGAACTGGCTCCACCGTATGTTTCAAGGCCTCCGGGAAGA   4008
+                                         |||||..||||||                 
+AT1TE52420      1485 --------------------CCACCCAATGTTT-----------------   1497
+
+VANDAL11        4009 CCAAGGAAGCGATGTGAAAGCTTT----AAATTATTGAACGCTAATCAGG   4054
+                                          |||    ||   ||||||           
+AT1TE52420      1498 ---------------------TTTGTCGAA---ATTGAA-----------   1512
+
+VANDAL11        4055 ATATCTG--ATATACAATAACTATACAATAATAACTTCTGTTACTTTTGT   4102
+                          ||  ||||||       |||||||.||                  
+AT1TE52420      1513 -----TGGCATATAC-------ATACAATCAT------------------   1532
+
+VANDAL11        4103 AAAAGACTTCAAGGAAAAGATGTTCGCGCTGCAAGTCGTTGGGCCATAAC   4152
+                                              .|.||||||                
+AT1TE52420      1533 -------------------------CCTCTGCAA----------------   1541
+
+VANDAL11        4153 AGGGTAACCTGCAAT-GGACCAATAACGGTAAGAATTATAATATCGCGAT   4201
+                               .|||| ||||     |||||.|||.|.| ..||||.|   
+AT1TE52420      1542 ----------ACAATCGGAC-----ACGGTCAGACTCA-CCTATCCC---   1572
+
+VANDAL11        4202 TACATATATGTTACTTGATATTTAAAGGGTGGAATTGTACTGCAGGAGAC   4251
+                       ||||      |.|.|||....||           ||.||||||| || 
+AT1TE52420      1573 --CATA------AGTAGATCAACAA-----------GTGCTGCAGG-GA-   1601
+
+VANDAL11        4252 ATAAGAGA-----AGGGGAGGATCACG-TTTTTTTGCGCTGAAAGTTGTG   4295
+                     |||..|.|     |||       ||.| ||.||||| ||  |||.||   
+AT1TE52420      1602 ATATTAAATCCTCAGG-------CAGGCTTGTTTTG-GC--AAACTT---   1638
+
+VANDAL11        4296 GGATGGATGTTGCCAGGATTAACAGAATCT-GGCATGGCGATGTGAAATA   4344
+                                       |.||.|||.||| |.||    |.|||||||..
+AT1TE52420      1639 ------------------TGAAAAGAGTCTAGTCA----GTTGTGAAACG   1666
+
+VANDAL11        4345 AATAATACGGGGGAAGGGTTCAGA--AA-----ATTTTCATTGTACATGC   4387
+                     |  |.|.||.|..|||    ||.|  ||     |.||||  |...|||  
+AT1TE52420      1667 A--ACTTCGAGCCAAG----CACATCAACCCGCAGTTTC--TCACCAT--   1706
+
+VANDAL11        4388 GTATGACATCTGTTCCC----TAAATG--TA--AAATTATCGGTACGAAT   4429
+                     .||||.|.|||||  ||    ||.|||  ||  |||||            
+AT1TE52420      1707 CTATGCCGTCTGT--CCTTAGTAGATGCCTAGGAAATT------------   1742
+
+VANDAL11        4430 CCAACTATCATGA-AGTAATGTTTCAT--ATAA--TGGCAGTATGTGGTA   4474
+                            |.|||| ||        |||  ||||  |.||      |||  
+AT1TE52420      1743 -------TGATGAGAG--------CATCCATAACCTTGC------TGG--   1769
+
+VANDAL11        4475 TGTTTTTGTTTACTGAGTTATCTCTGACTTTAACCTACTAACTAAAGAAG   4524
+                                                  |.||||               
+AT1TE52420      1770 -----------------------------TGAACC---------------   1775
+
+VANDAL11        4525 ATAATACTAACCGGAAA--AAATCGCATCGAAATGATATCGTGATACAAA   4572
+                               ||.||||  |||.|...||     |||.||          
+AT1TE52420      1776 ----------CCAGAAACCAAACCTTTTC-----GATTTC----------   1800
+
+VANDAL11        4573 TCATGATAATCTATTAACTTTAGTTGATAAGCCTAATGTCGCGAAAATAA   4622
+                      ||..||.|.|..|.||.|||  |...|||.|| ||||       |||.|
+AT1TE52420      1801 -CAGCATCAACGCTCAAATTT--TCCGTAAACC-AATG-------AATCA   1839
+
+VANDAL11        4623 TGTAACGCCTGTCATTGGTATAATCACGATGTTGGTACTCCTAAAAGAAG   4672
+                     |     .|||.|.||            |||.||    |||          
+AT1TE52420      1840 T-----CCCTTTGAT------------GATCTT----CTC----------   1858
+
+VANDAL11        4673 ACAAG---GACACCT--AGTGGGTCGAGTTATTAAGGACATCAATCAGAA   4717
+                        ||   | |.|||  |||        ||||      |||||||||   
+AT1TE52420      1859 ---AGCTTG-CGCCTTCAGT--------TTAT------CATCAATCA---   1887
+
+VANDAL11        4718 TAATCATAACGCGTGTTATCTGATAACAAAAAAAAAACATAAATATGTAC   4767
+                                         ||     .|..|||||.||...||||.|| 
+AT1TE52420      1888 --------------------TG-----CAGGAAAAAGCAGGGATATCTA-   1911
+
+VANDAL11        4768 TTGTCCCCATACCGGGATAGA---TTCACTAGTGAATATTAACATAAATT   4814
+                        ||||   |||     |||   |||||                  .||
+AT1TE52420      1912 ---TCCC---ACC-----AGACCCTTCAC------------------CTT   1932
+
+VANDAL11        4815 TATTGCCCGGCTTTG-TAGGAGTTGCAATCAAAGCAATAAACACCCGAGT   4863
+                     |.|       |||.| |.|||.||                     ||   
+AT1TE52420      1933 TCT-------CTTCGATGGGACTT---------------------CG---   1951
+
+VANDAL11        4864 TGTTTTTACAAAAAAGT----AAAACAGCTATATTGTATAACTGATAATA   4909
+                      ||||||.|       |    |||.|||          ||.|||||    
+AT1TE52420      1952 -GTTTTTCC-------TTCTCAAACCAG----------TAGCTGAT----   1979
+
+VANDAL11        4910 ATAACATTACCTATACGCTGAATGTTACATATCTTCGGACCGAATCAAGT   4959
+                     .||.|||||              |||                        
+AT1TE52420      1980 CTAGCATTA--------------GTT------------------------   1991
+
+VANDAL11        4960 AAAAGGTTCGCTTTTTTAAATATATATCAGTATATTCATGTATCGG-CTA   5008
+                         |||  |||||..||                 .||     ||| |||
+AT1TE52420      1992 ----GGT--GCTTTCCTA-----------------CCA-----CGGACTA   2013
+
+VANDAL11        5009 ATTTACGTATCCGAGTTGATAAGAATATTTATAATTGTCACAACGTCTAA   5058
+                               ||   |||.|       |||         ||.||.|||  
+AT1TE52420      2014 ----------CC---TTGGT-------TTT---------ACCACCTCT--   2032
+
+VANDAL11        5059 TTGTCCCCAGATAGATATTACTTCGGTTTGGTTCATGAAGC--CGACAAA   5106
+                                         |||..|||| .|||  ||.||  |||||  
+AT1TE52420      2033 --------------------CTTTTGTTT-TTTC--GACGCAACGACA--   2057
+
+VANDAL11        5107 GAAACAGTGACC-CAGTCACAATGAAACCAAACCAAGCCGTACAGCTACA   5155
+                              ||| ||||     ||               |||    ||| 
+AT1TE52420      2058 ---------ACCTCAGT-----TG---------------GTA----TAC-   2073
+
+VANDAL11        5156 AATATAACCCGATAATTGCCGTGAGTATTCCAGGGTTATAATCCCCCAA-   5204
+                           |||||                               ||.|||| 
+AT1TE52420      2074 ------ACCCG-------------------------------CCACCAAA   2086
+
+VANDAL11        5205 -ATTAAAAACAGAAGAACCCTAATTTGGAACCAGAACCCGAAA----TTT   5249
+                      |||                |.|||             |||||    .||
+AT1TE52420      2087 CATT----------------TCATT-------------CGAAAAAGGCTT   2107
+
+VANDAL11        5250 GGAACCAAAATTCTTCGACAAAGGATGAGCAGTCTATCATCAAGTTCGAC   5299
+                     |   ||    |||.|||           |||.||| |||..|.||||   
+AT1TE52420      2108 G---CC----TTCCTCG-----------GCAATCT-TCACGATGTTC---   2135
+
+VANDAL11        5300 TGGATCTACAGGGCCGCGGGGTAAAGGTAAAGTTGTAGGAATACCGAAAA   5349
+                         ||.||                                  ||.||.|
+AT1TE52420      2136 ----TCGAC----------------------------------CCTAACA   2147
+
+VANDAL11        5350 T-ATGTTGGTGCGGGGAAGGAGTCGTGTCACTCAT-TTCAAAATCGGTTC   5397
+                     | ||.||             .||||| |||..||| ||  ||.||  |||
+AT1TE52420      2148 TCATCTT-------------TGTCGT-TCAACCATGTT--AAGTC--TTC   2179
+
+VANDAL11        5398 C---GAATCCTTGCCGGACATATTATCGGTGTGATTTTGCTGCAAAA-AA   5443
+                     |   |.||.|.|.|.|||      |||            |.|.|||| ||
+AT1TE52420      2180 CGCGGGATTCATCCAGGA------ATC------------CGGAAAAATAA   2211
+
+VANDAL11        5444 TAGG--GTAAATG---CTGC--TAATCTTGTTCATCTGATTATTCTATT-   5485
+                     ||||  .||.|||   ||||  .|||            |.|||.||||| 
+AT1TE52420      2212 TAGGATCTAGATGAGCCTGCAAGAAT------------AATATCCTATTA   2249
+
+VANDAL11        5486 --TCTTCAATTGCCATGTTTAATTCGCTGTTAATTTGGAAAATCTATGTT   5533
+                       .|||..||.||.||          |||||                   
+AT1TE52420      2250 GCCCTTATATCGCGAT----------CTGTT-------------------   2270
+
+VANDAL11        5534 AATACCTAGCTAAGAAACGACGACCACACTTTTAAATTGGTTGACGAAGC   5583
+                                           |||||.|||||.|          .||||
+AT1TE52420      2271 ----------------------ACCACCCTTTTCA----------TAAGC   2288
+
+VANDAL11        5584 TTTG----------CTCAATGAGATAGAGACATTGACAGCAAAGACACGA   5623
+                     .|||          |||||                               
+AT1TE52420      2289 ATTGTAATAACCCTCTCAA-------------------------------   2307
+
+VANDAL11        5624 GACATTGAGCAAGAGCTGAAAGATCTTCGGGGACAGAGGTCCGAGTTCGA   5673
+                                    |||.||.||||||                 |||  
+AT1TE52420      2308 ---------------CTGTAACATCTTC-----------------TTC--   2323
+
+VANDAL11        5674 AAAGATGGTTTACGAGAACGTGGAAATGAAGATAGAAAAAGAAGTGCTTA   5723
+                                                                       
+AT1TE52420      2323 --------------------------------------------------   2323
+
+VANDAL11        5724 CGAAAGTGGAAGAAGCTGTGTCTCAAACGAAAGCGAGCAGTAAGAGGTTG   5773
+                                                              |||      
+AT1TE52420      2324 -----------------------------------------AAG------   2326
+
+VANDAL11        5774 ATGATTGTGATGGTGTTAGGGTGTATGATCATACTTGGATACACCAAACT   5823
+                                                               ||||||| 
+AT1TE52420      2327 ------------------------------------------ACCAAAC-   2333
+
+VANDAL11        5824 TAAAGGGGAAGTAGTGTAGAATAATATTTACACTTTGTTGTAGTAGTCAG   5873
+                      ||||                       |||       ||||||||    
+AT1TE52420      2334 -AAAG-----------------------TAC-------TGTAGTAG----   2348
+
+VANDAL11        5874 CGGGATAATATTGTGTCTGCTAACC-----TTCGCTCT----------AG   5908
+                      ||.|          ||||||.|||     ||| ||||          ..
+AT1TE52420      2349 -GGCA----------TCTGCTTACCACCGGTTC-CTCTCTTCTTCTTCTT   2386
+
+VANDAL11        5909 TAGAATAATATAGGGACTATAGTGTATCTGCTAACGCTGCAATATAGACC   5958
+                     |.||           |||.|.|..|||.|||.|      |||...|||||
+AT1TE52420      2387 TTGA-----------ACTTTTGGATATTTGCCA------CAAGGAAGACC   2419
+
+VANDAL11        5959 AACGGTTGGAGTGAGATAA-AATCTCGAGAACTTGTTATTAAGATAAACG   6007
+                                   |.||| |||||                   |||||.
+AT1TE52420      2420 --------------GGTAACAATCT-------------------TAAACT   2436
+
+VANDAL11        6008 TTAGTAATTAAAATGTATTTGAAATCGA-CGTTGA-TAATGTAAGATAAC   6055
+                     ....|||..|||||          |.|| ||  || ||.|| ..||.|||
+AT1TE52420      2437 CCCTTAACGAAAAT----------TGGACCG--GAGTACTG-GCGAAAAC   2473
+
+VANDAL11        6056 AA--CAAA----------GTTAGCTAGTAACCTT---------TACGC--   6082
+                     ||  ||||          |||.||     |.|||         |||.|  
+AT1TE52420      2474 AACCCAAATCTCATGGGGGTTGGC-----AACTTCCAATTGCCTACTCAG   2518
+
+VANDAL11        6083 TGAAAAGGGATAATATAGTATCTACTACCGCAATCCTAATGCAACGATCC   6132
+                     |.|||||.|...|.|        |||  ||    ||.||   ||||  ||
+AT1TE52420      2519 TAAAAAGAGCCCAAA--------ACT--CG----CCGAA---AACG--CC   2549
+
+VANDAL11        6133 G----AGTCTGGTCAAAATCCACGAATTTTAAAA-----ACAATGAGTAA   6173
+                     |    |.||.||   |||||         |||||     .|||.||    
+AT1TE52420      2550 GGTTTATTCGGG---AAATC---------TAAAAGCCCCCCAAAGA----   2583
+
+VANDAL11        6174 CAATGATAACAACAATGTTAGCGAGAAAATCTCTAATATGGAATAATATT   6223
+                                  |.||||   ||||           |||.||       
+AT1TE52420      2584 -------------ACTGTT---GAGA-----------ATGAAA-------   2599
+
+VANDAL11        6224 GGGAT---AATAGTTAATCTGCTAACGCGAGTCGAATGCAACGATGATAA   6270
+                       |||   ..|.|||.|||     |.|||            ||.|.||| 
+AT1TE52420      2600 --GATCGCTCTTGTTCATC-----AAGCG------------CGTTTATA-   2629
+
+VANDAL11        6271 ATATCCC--ACAATGCTTACCGA------GATACTGCAACACTAACCATT   6312
+                       |||||  |||.||.||  .||      |.|||    |||.|||||.||
+AT1TE52420      2630 --ATCCCTGACAGTGTTT--TGATTTTGTGGTAC----ACATTAACCCTT   2671
+
+VANDAL11        6313 T---AAATCGGCTAATCTAATATCAGATAACTTATTATTATCTACTACCG   6359
+                     |   .||.|||||                 ||        |||.|.|.||
+AT1TE52420      2672 TTGCCAAGCGGCT-----------------CT--------TCTCCAAACG   2696
+
+VANDAL11        6360 CAATCTTAATGCAACGATCCAAGGCTGG   6387
+                     |||               ||||  |.||
+AT1TE52420      2697 CAA---------------CCAA--CCGG   2707
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT1TE54600
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 986
+# Identity:     651/986 (66.0%)
+# Similarity:   651/986 (66.0%)
+# Gaps:         102/986 (10.3%)
+# Score: 1958.5
+# 
+#
+#=======================================
+
+VANDAL11       12834 TACCGAGCATTTAGCATCCAGCTCCTTCGCATGCCCTAGCTTGAAAGCGA  12883
+                     ||||..||||||.|||||||..||.||.||||..||.|||||||      
+AT1TE54600         1 TACCTCGCATTTGGCATCCACATCTTTAGCATTGCCAAGCTTGA------     44
+
+VANDAL11       12884 CGGAATCACGAGGGGCCTCTTCGAAATTGTCTTCAGCCTCTTCTGATTTT  12933
+                                 ||||..||         ||||||.|...|||.|||   
+AT1TE54600        45 ------------GGGCGGCT---------TCTTCATCAGATTCAGAT---     70
+
+VANDAL11       12934 TGACTCAATGGT---------CTCACCAACTACAT-----GACCTTCTTG  12969
+                         |||   ||         ||||.|.||||.||     |.|||||.||
+AT1TE54600        71 ----TCA---GTACCAGCAACCTCATCTACTATATTTGAGGGCCTTCCTG    113
+
+VANDAL11       12970 AATAGATGGGGCTGCTTGTAATACCACCAACTGCAACGCGTACAACAGAC  13019
+                     .| .|..||||||||||..||.||.||.|..|.|||.|||||.|..||||
+AT1TE54600       114 GA-CGGCGGGGCTGCTTTCAAAACAACAAGGTACAAAGCGTATAGAAGAC    162
+
+VANDAL11       13020 CCTGAACAACAAAACAGGTACTAGCAAGTTGTTAAATTTCCCTCTCTTTA  13069
+                     |.|||||..|.|.|||.|||.|.||.||.||||.||.|||||||||||.|
+AT1TE54600       163 CTTGAACCGCCACACACGTAGTGGCGAGCTGTTCAAGTTCCCTCTCTTGA    212
+
+VANDAL11       13070 ATCGACTTTATCATCATCTCGAATGTGAAACGGCTTCATGGATAAGAGAG  13119
+                     ||.||..|.|.||||||||||||.|..|||||.|..|||||.|||||.||
+AT1TE54600       213 ATGGAAGTCAGCATCATCTCGAAAGACAAACGCCCCCATGGGTAAGACAG    262
+
+VANDAL11       13120 AAA----TGCTTCAACATCCTCAGCCATTTCAGCGTGAGCCTTAACAATC  13165
+                     |||    |||    |.|||||||||.|||||.||||||.|.||..|.||.
+AT1TE54600       263 AAACCCCTGC----AGATCCTCAGCTATTTCGGCGTGATCTTTCGCTATT    308
+
+VANDAL11       13166 TTGGGATAGTGCGAGGTAGG-GACAAGAAAGCCGTCGACAATGGCCAAAC  13214
+                     ||.|||||||..|||||||| .|||| |||.||.||.||||..|||||||
+AT1TE54600       309 TTTGGATAGTAAGAGGTAGGCAACAA-AAAACCATCCACAAGAGCCAAAC    357
+
+VANDAL11       13215 AAGCACATCTGATCCTCATGCCGGGATCTGAGATA--ATCCTTCTCTTCA  13262
+                     |||||.||||.|.|||.||..|...|||  ||.||  |.|||| |.||.|
+AT1TE54600       358 AAGCATATCTTAACCTTATTTCTCTATC--AGTTACCACCCTT-TTTTAA    404
+
+VANDAL11       13263 ACATTGTAATCACCCGGTCAACAGTTACATCTTCTTCAAGCCCAAACAGC  13312
+                     ||||.|||||.||....||||||||.||||.||||||.||.|||||||..
+AT1TE54600       405 ACATGGTAATAACTTTATCAACAGTAACATTTTCTTCGAGACCAAACAAG    454
+
+VANDAL11       13313 TTATTGTAAAATGGTATCCTCTTCCCCGCAGTGCCTTTCTTCCTCTTCAT  13362
+                     ..|||||||.|.||.|||..|||||..||.||.||||||||  |.||..|
+AT1TE54600       455 GAATTGTAATAAGGAATCTGCTTCCTAGCTGTCCCTTTCTT--TTTTTTT    502
+
+VANDAL11       13363 CTTCAA--GCTCGGATATTTTCCACACTGTAACCCGA-TAACTATCTTGA  13409
+                     .||..|  || |.||||.||||||||| |.||.|||| ||||.|.|||||
+AT1TE54600       503 TTTGGACCGC-CAGATACTTTCCACAC-GGAAGCCGAGTAACGAACTTGA    550
+
+VANDAL11       13410 ACTCTCTCAACGAAAAGCGAATAGGAGTGCCGGCAAATAAAACCCATATC  13459
+                     |||||||.|||.||||.||.|.||||||.||.||..|.|...||||.||.
+AT1TE54600       551 ACTCTCTTAACAAAAATCGGACAGGAGTACCAGCGTACACTTCCCAGATT    600
+
+VANDAL11       13460 TCATTCGGTTTCGCAACTTCCAACTGCCTACCCAGAATGAAAATT--CTA  13507
+                     |||||.||.||.|||||||||||.||||.||.|.|  |.|.||||  |.|
+AT1TE54600       601 TCATTAGGATTGGCAACTTCCAATTGCCGACTCCG--TAAGAATTGACCA    648
+
+VANDAL11       13508 AAGCTCGCGGACCA-CGCGAGTAGTTTGGGGAATTCCAACAAG-CGACCG  13555
+                     ||.|||||..|..| |.|||.|.| ||.||.||.||||| ||| ||.||.
+AT1TE54600       649 AAACTCGCAAAAAACCCCGACTTG-TTCGGAAACTCCAA-AAGCCGTCCC    696
+
+VANDAL11       13556 AAC-GAAGATCGAGCAATGAACTGCCGCTCTCCATCGTCTAGGGCATTGA  13604
+                     |.| .||.|||| .|||||||...|||||.|..|||.||.|.|.|.||.|
+AT1TE54600       697 AGCAAAATATCG-CCAATGAAGGACCGCTTTTGATCATCAAAGACGTTTA    745
+
+VANDAL11       13605 TAACACACCACATAAGGTTTTCATTTTCTGATACACGTTGACCCTCTCGT  13654
+                     ||  |..||.||||.||||||.|||||.||.|||||.|| |.|||||||.
+AT1TE54600       746 TA--ATGCCGCATAGGGTTTTGATTTTGTGGTACACATT-AACCTCTCGC    792
+
+VANDAL11       13655 CGTGTGGTTCTTCACGAAACGCAATCAGTCGGGGAGGGAGAGGGAGAGGC  13704
+                     ||.|.|.||||||.|.|||.|||||||.|||....||.|.|...|....|
+AT1TE54600       793 CGAGAGATTCTTCTCCAAAAGCAATCAATCGATTTGGTAAATCAACCTCC    842
+
+VANDAL11       13705 GCCATCTTCCTACAAAAGAAACAAACAAAGCCATTAGTCAACAAATGAAG  13754
+                     .||||.|.|.||.||.|.||| |||.||||   |||      |||..|..
+AT1TE54600       843 CCCATGTGCATATAATACAAA-AAAAAAAG---TTA------AAACCATT    882
+
+VANDAL11       13755 GACTGATGACAAA-----AAGAGGGGAAAAAATGAA  13785
+                     ||||||..|||||     ||||.|.|||.|.||.||
+AT1TE54600       883 GACTGACTACAAAAAACGAAGATGAGAACAGATAAA    918
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT2TE18195
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 162
+# Identity:     115/162 (71.0%)
+# Similarity:   115/162 (71.0%)
+# Gaps:           7/162 ( 4.3%)
+# Score: 364.0
+# 
+#
+#=======================================
+
+VANDAL11       12490 TGAAAA-TAAGACCCTGCTCAGCCAATATTAAAATATTATCGACTC-TCT  12537
+                     |||||| |||..||.|...||.|.||.||.|..||||||||.||.| ||.
+AT2TE18195         1 TGAAAAGTAATCCCTTTACCAACTAACATGACGATATTATCAACCCATCA     50
+
+VANDAL11       12538 CATCTTCATCGTCTTCAGACCACGACAAATCTTCCTCAGGGTCCAGATCA  12587
+                     |||||||.||.||.||||||||.|..||||||||.|..||||.||..||.
+AT2TE18195        51 CATCTTCCTCATCGTCAGACCAGGTTAAATCTTCTTTCGGGTTCATCTCC    100
+
+VANDAL11       12588 AGGTCAGGGCAAATAATAGTAGCAACACGAAC--CTGCAATAG-TGAATC  12634
+                     |.|||||||.||||.||||  ||..|||..||  ||||||.|| |.|||.
+AT2TE18195       101 ACGTCAGGGAAAATGATAG--GCTCCACATACGTCTGCAAAAGATTAATG    148
+
+VANDAL11       12635 CCGATAACAAAA  12646
+                     .||.||||||||
+AT2TE18195       149 ACGTTAACAAAA    160
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT2TE25410
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 935
+# Identity:     613/935 (65.6%)
+# Similarity:   613/935 (65.6%)
+# Gaps:         117/935 (12.5%)
+# Score: 1892.0
+# 
+#
+#=======================================
+
+VANDAL11       12780 GTGTTGAAACCAACTACTGTGTTAAACAATA--ACAAGTTTAATGAATA-  12826
+                     |||||  |||.||  |||||         ||  .|.||   ||||||.| 
+AT2TE25410         1 GTGTT--AACAAA--ACTGT---------TAGCGCTAG---AATGAAAAC     34
+
+VANDAL11       12827 ATAGTATTACCGAGCATTTAGCATCCAGCTCCTTCGCATGCCCTAGCTTG  12876
+                     |.||..|||||..||||||.|||||||..||.|..||||..||.||||||
+AT2TE25410        35 AAAGCGTTACCTCGCATTTTGCATCCACATCTTAAGCATTGCCGAGCTTG     84
+
+VANDAL11       12877 AAAGCGACGGAATCACGAGGGGCCTCTTCGAAATTG------TCTTCAGC  12920
+                     |..||.|||...|.||||||   ..||.|||.|..|      ||||||  
+AT2TE25410        85 AGGGCCACGACCTGACGAGG---ACCTACGACAACGGCGGGATCTTCA--    129
+
+VANDAL11       12921 CTCTTCTGATTTTTGACTCAATGGTCTCACCAACTACATGACCTTCTTGA  12970
+                         ||.|| .|..||..|||.|..||||.|.|.|..|.|.|||||.||.
+AT2TE25410       130 ----TCGGA-ATCAGAACCAACGACCTCATCTATTTGAGGGCCTTCCTGT    174
+
+VANDAL11       12971 ATAGATGGGGCTGCTTGTAATACCACCAACTGCAACGCGTACAACAGACC  13020
+                     |||...||.|||||||..||.||.|..|..|||||.|||||.|..|||||
+AT2TE25410       175 ATATCAGGTGCTGCTTCCAAGACAATGAGTTGCAATGCGTAAAGAAGACC    224
+
+VANDAL11       13021 CTGAACAACAAAACAGGTACTAGCAAGTTGTTAAATTTCCCTCTCTTTAA  13070
+                     .|||||..|.|..||.||..||||.||.||||.||.||||||||||||||
+AT2TE25410       225 TTGAACCGCCACGCAAGTGGTAGCGAGCTGTTTAACTTCCCTCTCTTTAA    274
+
+VANDAL11       13071 TCGACTTTATCATCATCTCGAATGTGAAACGGCTTCATGGATAAGAGAGA  13120
+                     |.||..|.|||||||||||.||.|..||.||....||.||.||....|||
+AT2TE25410       275 TGGAAGTCATCATCATCTCAAAAGACAATCGCACCCAAGGGTATTTCAGA    324
+
+VANDAL11       13121 AATGCTTCAAC--ATCCTCAGCCATTTCAGCGTGAGCCTTAACAATCTTG  13168
+                     |||  .||.||  |||.|||||||||||.||                   
+AT2TE25410       325 AAT--CTCTACAGATCATCAGCCATTTCGGC-------------------    353
+
+VANDAL11       13169 GGATAGTGCGAGGTAGG-GACAAGAAAGCCGTCGACAATGGCCAAACAAG  13217
+                                |||||| .|||| |||.||.||.||||..||||||||||
+AT2TE25410       354 -----------GGTAGGCAACAA-AAAACCATCCACAAGAGCCAAACAAG    391
+
+VANDAL11       13218 CACATCTGATCCTCA--TGCCGGGATCTGAGATAATCCTTC-TCTTCAAC  13264
+                     ||.||||.|.|||.|  |.||  ||||||..|..| ||||| ||||.|.|
+AT2TE25410       392 CATATCTTAACCTAATTTTCC--GATCTGTTACCA-CCTTCTTCTTAAGC    438
+
+VANDAL11       13265 ATTGTAATCACCCGGTCAACAGTTACATCTTCTTCAAGCCCAAACAGCTT  13314
+                     ||.||.||.||.|..||||.||||||.||||||||.||.|||||||....
+AT2TE25410       439 ATCGTTATAACTCTTTCAATAGTTACGTCTTCTTCGAGACCAAACAAGGA    488
+
+VANDAL11       13315 ATTGTAAAATGGTATCCTCTTCCCCGCAGTGCCTTTCTTCCTCTTCATCT  13364
+                     |.|||||.| ||.|||..||||||.||.||.|.|||||||.|||| ||.|
+AT2TE25410       489 ACTGTAATA-GGGATCTGCTTCCCAGCCGTCCTTTTCTTCTTCTT-ATTT    536
+
+VANDAL11       13365 TCAAGC-TCGGATATTTTCCACACTGTAACCCGATAACTATCTTGAACTC  13413
+                     ||.|.| |.|||||||||||||||.|.|..||..||||.|||||||||||
+AT2TE25410       537 TCTACCTTTGGATATTTTCCACACGGAAGGCCAGTAACAATCTTGAACTC    586
+
+VANDAL11       13414 TCTCAACGAAAAGCGAATAGGAGTGCCGGCAAATAAA--ACCCATATCTC  13461
+                     .||||||.||||.||.|.||||||.|..||  .||||  |||||.||.||
+AT2TE25410       587 CCTCAACAAAAATCGGACAGGAGTACTAGC--GTAAACTACCCAAATTTC    634
+
+VANDAL11       13462 ATTCGGTTTCGCAACTTCCAACTGCCTACCCAGAATGAAAATTCTAAAGC  13511
+                     ||.||||||.|||||||||||.|||||||.|||.|..|||||.|.|||||
+AT2TE25410       635 ATGCGGTTTGGCAACTTCCAATTGCCTACTCAGTAAAAAAATACCAAAGC    684
+
+VANDAL11       13512 TCGCGGACCACGC--GAGTAGTTTGGGGAATTCCAA-------CAAGCGA  13552
+                     ||||.||..||||  |..||  ||..|.||.|||||       |||||||
+AT2TE25410       685 TCGCAGAAAACGCCGGCTTA--TTCAGAAAATCCAAAAGTCCCCAAGCGA    732
+
+VANDAL11       13553 CC------GAACGAAGATCGAGCAATGAACTGCCGCTCTCCATCGTCTAG  13596
+                     .|      |.||||||          ||    |||||||.|||||||.||
+AT2TE25410       733 ACTATTAAGGACGAAG----------GA----CCGCTCTTCATCGTCAAG    768
+
+VANDAL11       13597 GGCATTGATAACACACCACATAAGGTTTTCATTTTCTGATACACGTTGAC  13646
+                     ||..||.|||  |..||.||||.|||||..|||||.|||||.||.||.||
+AT2TE25410       769 GGTGTTTATA--ATGCCGCATAGGGTTTCGATTTTGTGATAGACATTAAC    816
+
+VANDAL11       13647 CCTCTCGTCGTGTGGTTCTTCACGAAACGCAATCA  13681
+                     |||||||.||.|.||||||||.|.|||.|||||||
+AT2TE25410       817 CCTCTCGCCGAGAGGTTCTTCTCCAAAGGCAATCA    851
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT2TE13100
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 20
+# Identity:      17/20 (85.0%)
+# Similarity:    17/20 (85.0%)
+# Gaps:           0/20 ( 0.0%)
+# Score: 73.0
+# 
+#
+#=======================================
+
+VANDAL11        8596 GATAATTAAAATATTAGTAG   8615
+                     |.||||.||||||||||.||
+AT2TE13100         2 GCTAATAAAAATATTAGGAG     21
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT2TE13105
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1175
+# Identity:     638/1175 (54.3%)
+# Similarity:   638/1175 (54.3%)
+# Gaps:         305/1175 (26.0%)
+# Score: 1577.5
+# 
+#
+#=======================================
+
+VANDAL11        7197 GTAACCCCCACCAATATTAAGGCCGACACTAGCTTTTTAACTTC-ACACT   7245
+                     |.|||.|||..||||||||..|.|||.||.||.||||||||||| ||| |
+AT2TE13105         1 GCAACACCCGACAATATTATTGTCGAGACAAGTTTTTTAACTTCTACA-T     49
+
+VANDAL11        7246 GAAGACCGTCGACCTCAAATTCCACACATTCAGTGACACCACCTGTGGCG   7295
+                     ..||..|..|.||.|||||.||||..|||||...|||.||.||....||.
+AT2TE13105        50 CCAGCGCAACAACGTCAAACTCCATGCATTCCTCGACCCCTCCGACAGCA     99
+
+VANDAL11        7296 TGAGTGTGGATAAGGAATA--TAGAGAAGATGCCTGTATCGAGTGGGGAA   7343
+                     ||.|.||||||.|||||.|  .|.||||.|  ||.|.|||||..|||||.
+AT2TE13105       100 TGGGCGTGGATGAGGAAAACCGATAGAACA--CCGGAATCGAACGGGGAG    147
+
+VANDAL11        7344 GCAACCTGCGGGATGACTA-GTGGTCGCTCTA-TAGAAAACGGATCCATC   7391
+                     |.|||.|||||||| ||.| |.||.||.||.| .|| |||.||.|.||.|
+AT2TE13105       148 GAAACTTGCGGGAT-ACCATGCGGGCGATCAAGCAG-AAAGGGTTGCAGC    195
+
+VANDAL11        7392 GAACAGTTCCTCTTAGACGAATTGAAAGC-AGCCTGTTGGAAAAGGAATG   7440
+                     ||...||.||...||||       |.||| ||.||||.||||||||.|.|
+AT2TE13105       196 GAGATGTCCCCGCTAGA-------AGAGCTAGTCTGTCGGAAAAGGTAAG    238
+
+VANDAL11        7441 ACAACATTACCGCGAGTGGCATGATCTCGTCCTGAATA--GCAGAATCTT   7488
+                     ..|.|||..|.||.||.|||..||..|||.|.|  |||  ||.|.|||  
+AT2TE13105       239 GGAGCATGGCAGCCAGCGGCTGGAGTTCGGCAT--ATAACGCTGCATC--    284
+
+VANDAL11        7489 TGCGTCGT---TGAATGTTCGAATCCAAGACAGTTATCTT----------   7525
+                      .||||||   ||||||||.|||||.|.||..||.|||||          
+AT2TE13105       285 -ACGTCGTAGCTGAATGTTGGAATCGAGGATGGTAATCTTATGTGCCTTT    333
+
+VANDAL11        7526 ---TCGACAGTTCAAATCAACAGCTAAAGCCACCCAATGCTTCTTGTCAA   7572
+                        ||.|||         .|||||    |.|||||||||.||.|||||.|
+AT2TE13105       334 AGGTCCACA---------CACAGC----GACACCCAATGTTTTTTGTCGA    370
+
+VANDAL11        7573 AGTTAAATGGCAGGTACAGGAAATCAGCCTCCGTGAATAATTCGATATGA   7622
+                     ||||.||.||||..||||...||||||||||.|..||.||      |.||
+AT2TE13105       371 AGTTGAAAGGCATATACACACAATCAGCCTCAGCAAACAA------ACGA    414
+
+VANDAL11        7623 TCA-GGTT---CTC-----CACGGCCATTAAAG-AGATC-----AATCAG   7657
+                     .|| ||||   |||     |||  |.|||  || |||||     ||.|||
+AT2TE13105       415 ACACGGTTGGACTCACCAGCAC--CAATT--AGTAGATCAACTAAAGCAG    460
+
+VANDAL11        7658 ATGAGGTGGGAACTGAAAATCTT-----------GTTTAGAAGAGCATCG   7696
+                     |||    |..||.|| |||||||           ||||           .
+AT2TE13105       461 ATG----GAAAAATG-AAATCTTTGGGCGGCAAAGTTT-----------T    494
+
+VANDAL11        7697 AGAAAATTTGGGGAATAGACGGAACAATAGTGAGACGAACTTAGAATCAA   7746
+                     ||.|||.||.||.||.||.|....||...||||.|||||.||.||..|||
+AT2TE13105       495 AGCAAACTTCGGAAAGAGCCTCGTCAGCTGTGAAACGAATTTCGAGCCAA    544
+
+VANDAL11        7747 GGACATCGACACGAAGTTTATGACCATCGGCATCATCGGTTCTTAACAAA   7796
+                     |.|||||.||.|..||.||.|..|||||....||.||.||.|.|||.|.|
+AT2TE13105       545 GCACATCAACCCTGAGCTTCTCGCCATCAATGTCGTCTGTCCGTAAGAGA    594
+
+VANDAL11        7797 TGCCGACTAAACTTGATGAGAGCATCCATTACCTGGGTGATAAAGGAAAG   7846
+                     ||.|..||.||.|||||.|.|.|.|||||.||.|.|.|          ||
+AT2TE13105       595 TGTCTGCTGAATTTGATCAAAACGTCCATGACTTTGCT----------AG    634
+
+VANDAL11        7847 AGAAACACCCAACATATTACAAAACAATATGTTAAATCTTTAAGTATTCT   7896
+                     ||||                                              
+AT2TE13105       635 AGAA----------------------------------------------    638
+
+VANDAL11        7897 AATATATAATGACAGAACGTACCTTGCTTGTTAGATTCTTCTTCCGATCA   7946
+                                                .|||       ||||||||.|||
+AT2TE13105       639 ---------------------------GTGT-------TTCTTCCGCTCA    654
+
+VANDAL11        7947 GTCAAATCCAAAATTTCTTTATTGGTCAAAGCAACACCCCCACAAATGCT   7996
+                     .|.|..||.|||||.|||||.|.||..|.||.|.|..|.|||..||||||
+AT2TE13105       655 ATGATGTCGAAAATCTCTTTGTGGGAAAGAGAAGCTTCACCAACAATGCT    704
+
+VANDAL11        7997 AATTGACCTATTGC-AAACCAATACGTCGATAAAAG-----ATTACCAAT   8040
+                     |||.||.|   ||| |||.|||    |.||.|.|||     |||  |.|.
+AT2TE13105       705 AATCGAGC---TGCAAAATCAA----TTGAGAGAAGTTATAATT--CTAG    745
+
+VANDAL11        8041 TGCAAAA--ATAACAATATTTTATGTGCTAACAACAAAC---AAATGGGA   8085
+                     ||.||.|  |||| |.||.||               |||   .|||.|.|
+AT2TE13105       746 TGTAATATGATAA-ATTAGTT---------------AACCGGTAATTGCA    779
+
+VANDAL11        8086 TAAAGAATACCTTATCGCCTTAAGTTTCTTCATGGAGTTTTGAAATCGTT   8135
+                     |      ||||||.|..||||   |.|||||   |||   .||.||||||
+AT2TE13105       780 T------TACCTTTTTCCCTT---TATCTTC---GAG---AGAGATCGTT    814
+
+VANDAL11        8136 ---------CTTCTGTGTC----GACAA-----GGTCGTTGCCTTTATTG   8167
+                              ||||||..||    |.|||     .|.||    |||     
+AT2TE13105       815 GGTAACGCACTTCTGGATCAGATGCCAACTCCCCGACG----CTT-----    855
+
+VANDAL11        8168 ACAACAAGGGATGGATGACCCACTAAAATCTTGGTTTTCTTACCATACG-   8216
+                     |.||...|||||||.||||||||.|..|.|||.||||||||       | 
+AT2TE13105       856 AGAAATGGGGATGGGTGACCCACCAGTAACTTAGTTTTCTT-------GT    898
+
+VANDAL11        8217 CGAAG------CGACCATCTAGCTTGGTAGATAGAGTACGGAGACGCTT-   8259
+                     |||||      ||.|||||||.|||..||||.||.||        .||| 
+AT2TE13105       899 CGAAGTGAAACCGCCCATCTAACTTACTAGAAAGCGT--------CCTTG    940
+
+VANDAL11        8260 -ACTTCTTCTCCCACAAATTCCATC   8283
+                      .|||.|.|||       ||||.||
+AT2TE13105       941 GTCTTTTGCTC-------TTCCTTC    958
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT3TE61035
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 5143
+# Identity:    1813/5143 (35.3%)
+# Similarity:  1813/5143 (35.3%)
+# Gaps:        2824/5143 (54.9%)
+# Score: 3605.5
+# 
+#
+#=======================================
+
+VANDAL11        3238 GTTTACCCCATGTCATCACATGCTGCTTGCATCGTCCACCTCAAGAGAAA   3287
+                     ||.||.||||||||.||.|||||.|||||..|.||.||..|.||.|||||
+AT3TE61035         1 GTGTATCCCATGTCCTCGCATGCAGCTTGTGTGGTTCATTTGAAAAGAAA     50
+
+VANDAL11        3288 CATTGAGGCATACTTTAAAGTCGAACAGT----TAAGTGCCTTGGTATCA   3333
+                     ||||...||||.|||||||..|||| |.|    .||||   .|.||||||
+AT3TE61035        51 CATTATCGCATTCTTTAAAAACGAA-ACTATAGGAAGT---CTAGTATCA     96
+
+VANDAL11        3334 AGTGCAGCTAGAGCTTATCGGCTAACTGACTTCAACAAGATTTTTGCTGA   3383
+                     |...|.||.|||||.||.||..||.||||.||.|||||.||.|||.|.||
+AT3TE61035        97 ACCACGGCGAGAGCGTACCGCTTATCTGATTTTAACAAAATATTTACGGA    146
+
+VANDAL11        3384 AATTAAG-GCTACGCATGGATCGTGCGCTGAGTACCT----GGAAAGTAT   3428
+                     .| ||.| ||.|.|.|.||..|.||.|||||.||.||    |||    ||
+AT3TE61035       147 GA-TACGAGCAATGAACGGCCCATGTGCTGACTATCTAACCGGA----AT    191
+
+VANDAL11        3429 AGGGTTCGAACATTGGACCAGGTCACATTTTGTTGGGAATCGGTACAACT   3478
+                     .||.||.||.||||||||..|.||.||||||||.|||.|  ||.|.|||.
+AT3TE61035       192 TGGTTTTGAGCATTGGACACGATCTCATTTTGTAGGGGA--GGGATAACG    239
+
+VANDAL11        3479 TCATGACGAGTAATATTGTCGAGTCGCTAAACAATGTTTTAAC---GGCA   3525
+                     |||||||.||.||.||.|..|||||..|.|||||.||.||.||   |.||
+AT3TE61035       240 TCATGACAAGCAACATCGCAGAGTCTTTGAACAACGTGTTGACCATGTCA    289
+
+VANDAL11        3526 GCCCGAGATTATCCGGTAATCTCAATCTTAGAATCTATCCAG-ACAACCC   3574
+                        .||||.||||||||.|||||.|||.|||||||| |..|| |||||..
+AT3TE61035       290 ---AGAGACTATCCGGTGATCTCGATCCTAGAATCT-TGGAGAACAACTT    335
+
+VANDAL11        3575 TCGTATCATGGTTTGCGTTTCGTAGGCAGGCAGCCCAGTTAGAAGACAAT   3624
+                     |.|||.||||||||||..||||..||.|.|||||.|||.|.|||||.||.
+AT3TE61035       336 TGGTAACATGGTTTGCACTTCGATGGGAAGCAGCTCAGATGGAAGATAAC    385
+
+VANDAL11        3625 ATCTTGCCGCCTAAAG-TACATAACATGGTTATCGAGAATTTTGAGAAGG   3673
+                     ||.||.||.|| |||| ||.||.||||||||||.|||||.|||||.||.|
+AT3TE61035       386 ATATTACCTCC-AAAGATAAATGACATGGTTATAGAGAACTTTGAAAAAG    434
+
+VANDAL11        3674 GGGCGGGTTTTGTTGTGATAAAGATTGGGGATGGTCTCTATGAGGTTAGA   3723
+                     ||||.||||.||..||..|.||.||.||.||.|||||.||||||||||||
+AT3TE61035       435 GGGCAGGTTATGGAGTCTTGAAAATAGGCGACGGTCTATATGAGGTTAGA    484
+
+VANDAL11        3724 GACAAAAGAGGCG----GAGGGTTTGTAGTTAACCTATTGGAGAGAACAT   3769
+                     ||.|    .||.|    |.||||..|..||.||.||.|.|||.|||||.|
+AT3TE61035       485 GATA----TGGTGAATTGCGGGTACGCCGTAAATCTGTGGGAAAGAACGT    530
+
+VANDAL11        3770 GTACATGCAGAGAGTTTAAGCTTCTAACGATTCCTTGCTCTCACGCAATA   3819
+                     |.||||||.|..||||..||||.||.||.||.||.||.|||||.|||||.
+AT3TE61035       531 GCACATGCCGCCAGTTCCAGCTACTTACCATACCATGTTCTCATGCAATC    580
+
+VANDAL11        3820 GTGGCGGCCATACA-AGAAGGACTCCGAGTGGACACACTGGTTGGGGTTC   3868
+                     |..|||||.|| || ||||||..||..|||..||.||.||||||||||.|
+AT3TE61035       581 GCTGCGGCAAT-CAGAGAAGGGGTCAAAGTTAACTCAATGGTTGGGGTAC    629
+
+VANDAL11        3869 ATCACACCACG-CCACAGCTACGGTT-GTGTTACCAAGCCCTAATAATGC   3916
+                     |.|||||  || |||||.|||||.|| |.| |||.|||...|.||.||||
+AT3TE61035       630 ACCACAC--CGTCCACAACTACGTTTAGAG-TACAAAGAATTGATTATGC    676
+
+VANDAL11        3917 CGGTGCCTGACACGGAGACTCTTACTCCGTCACCAAACGATGTAGGGGGG   3966
+                     ..||.||.||.|.||..||.||..|.||.||||||||.|||||.|..||.
+AT3TE61035       677 TAGTACCAGATATGGCAACGCTAGCACCATCACCAAATGATGTCGAAGGA    726
+
+VANDAL11        3967 GGAGAACTGGCTCCACCGTATGT-TTCAAGGCCTCCGGGAAGACCAAGGA   4015
+                     |||.|.||.||.|||||.||||| ..|||  ||.|||||.||||||||||
+AT3TE61035       727 GGAAAGCTAGCACCACCCTATGTGAACAA--CCACCGGGGAGACCAAGGA    774
+
+VANDAL11        4016 AGCGATGTGAAAGCTTTAAATTATTGAACGCTAATCAGGATATCTGATAT   4065
+                     |                                                 
+AT3TE61035       775 A-------------------------------------------------    775
+
+VANDAL11        4066 ACAATAACTATACAATAATAACTTCTGTTACTTTTGTAAAAGACTTCAAG   4115
+                                                                       
+AT3TE61035       775 --------------------------------------------------    775
+
+VANDAL11        4116 GAAAAGATGTTCGCGCTGCAAGTCGTTGGGCCATAACAGGGTAACCTGCA   4165
+                                                                       
+AT3TE61035       775 --------------------------------------------------    775
+
+VANDAL11        4166 ATGGACCAATAACGGTAAGAATTATAATATCGCGATTACATATATGTTAC   4215
+                                     |||||                             
+AT3TE61035       776 ----------------AAGAA-----------------------------    780
+
+VANDAL11        4216 TTGATATTTAAAGGGTGGAATTGTACTGCAGGAGACATAAGAGAAGGGGA   4265
+                      .|||||||                                         
+AT3TE61035       781 -GGATATTT-----------------------------------------    788
+
+VANDAL11        4266 GGATCACGTTTTTTTGCGCTGAAAGTTGTGGGATGGATGTTGCCAGGATT   4315
+                        ||||||                                         
+AT3TE61035       789 ---TCACGT-----------------------------------------    794
+
+VANDAL11        4316 AACAGAATCTGGCATGGCGATGTGAAATAAATAATACGGGGGAAGGGTTC   4365
+                                                                       
+AT3TE61035       794 --------------------------------------------------    794
+
+VANDAL11        4366 AGAAAATTTTCATTGTACATGCGTATGACATCTGTTCCCTAAATGTAAAA   4415
+                                                                       
+AT3TE61035       794 --------------------------------------------------    794
+
+VANDAL11        4416 TTATCGGTACGAATCCAACTATCATGAAGTAATGTTTCATATAATGGCAG   4465
+                          |||  ||||.||         |.|||||                 
+AT3TE61035       795 -----GGT--GAATTCA---------AGGTAAT-----------------    811
+
+VANDAL11        4466 TATGTGGTATGTTTTTGTTTACTGAGTTATCTCTGACTTTAACCTACTAA   4515
+                                      |||||                            
+AT3TE61035       812 -----------------TTTAC----------------------------    816
+
+VANDAL11        4516 CTAAAGAAGATAATACTAACCGGAAAAAATCGCATCGAAATGATATCGTG   4565
+                                                                   ||| 
+AT3TE61035       817 ----------------------------------------------CGT-    819
+
+VANDAL11        4566 ATACAAATCATGATAATCTATTAACTTTAGTTGATAAGCCTAATGTCGCG   4615
+                      |||                                ||.||         
+AT3TE61035       820 -TAC--------------------------------AGGCT---------    827
+
+VANDAL11        4616 AAAATAATGTAACGCCTGTCATTGGTATAATCACGATGTTGGTACTCCTA   4665
+                       ||||||||              ||||                      
+AT3TE61035       828 --AATAATGT--------------GTAT----------------------    839
+
+VANDAL11        4666 AAAGAAGACAAGGACACCTAGTGGGTCGAGTTATTAAGGACATCAATCAG   4715
+                                                              ||||||   
+AT3TE61035       840 -----------------------------------------ATCAAT---    845
+
+VANDAL11        4716 AATAATCATAACGCGTGTTATCTGATAACAAAAAAAAAACATAAATATGT   4765
+                                                          |||||        
+AT3TE61035       846 -------------------------------------AACAT--------    850
+
+VANDAL11        4766 ACTTGTCCCCATACCGGGATAGATTCACTAGTGAATATTAACATAAATTT   4815
+                      ..|||        |||||||                             
+AT3TE61035       851 -GGTGT--------CGGGATA-----------------------------    862
+
+VANDAL11        4816 ATTGCCCGGCTTTGTAGGAGTTGCAATCAAAGCAATAAACACCCGAGTTG   4865
+                                                                       
+AT3TE61035       862 --------------------------------------------------    862
+
+VANDAL11        4866 TTTTTACAAAAAAGTAAAACAGCTATATTGTATAACTGATAATAATAACA   4915
+                      |||||||               |||.|||                    
+AT3TE61035       863 -TTTTACA---------------TATGTTG--------------------    876
+
+VANDAL11        4916 TTACCTATACGCTGAATGTTACATATCTTCGGACCGAATCAAGTAAAAGG   4965
+                                                                  |||| 
+AT3TE61035       877 ---------------------------------------------AAAG-    880
+
+VANDAL11        4966 TTCGCTTTTTTAAATATATATCAGTATATTCATGTATCGGCTAATTTACG   5015
+                          ||||.|.|||                                   
+AT3TE61035       881 -----TTTTGTGAAT-----------------------------------    890
+
+VANDAL11        5016 TATCCGAGTTGATAAGAATATTTATAATTGTCACAACGTCTAATTGTCCC   5065
+                                                                ||||   
+AT3TE61035       891 -------------------------------------------TTGT---    894
+
+VANDAL11        5066 CAGATAGATATTACTTCGGTTTGGTTCATGAAGCCGACAAAGAAACAGTG   5115
+                           |||                            ||.||||  ||| 
+AT3TE61035       895 ------GAT----------------------------CAGAGAA--AGT-    907
+
+VANDAL11        5116 ACCCAGTCACAATGAAACCAAACCAAGCCGTACAGCTACAAATATAACCC   5165
+                       |.|||                 ||||      |||.|       ||.|
+AT3TE61035       908 --CGAGT-----------------AAGC------GCTGC-------ACAC    925
+
+VANDAL11        5166 GATAATTGCCGTGAGTATTCCAGGGTTATAATCCCCCAAATTAAAAACAG   5215
+                     |    .||||||                                      
+AT3TE61035       926 G----CTGCCGT--------------------------------------    933
+
+VANDAL11        5216 AAGAACCCTAATTTGGAACCAGAACCCGAAATTTGGAACCAAAATTCTTC   5265
+                             |.|.||||  |||.||||                        
+AT3TE61035       934 --------TCAGTTGG--CCACAACC------------------------    949
+
+VANDAL11        5266 GACAAAGGATGAGCAGTCTATCAT-CAAGTTCGACTGGATCTACAGGGCC   5314
+                               ||||     |.||| ||||       |||.|.|       
+AT3TE61035       950 ----------GAGC-----AACATGCAAG-------GGACCAA-------    970
+
+VANDAL11        5315 GCGGGGTAAAGGTAAAGTTGTAGGAATAC-CGAAAATATGTTGGTGCGGG   5363
+                           |.|.||||          |.||| ||||||              
+AT3TE61035       971 ------TGACGGTA----------ACTACTCGAAAA--------------    990
+
+VANDAL11        5364 GAAGGAGTCGTGTCACTC-ATTTCAAAATCGGTTCCGAATCCTTGCCGGA   5412
+                                |.|||.| |.||  ||||                    |
+AT3TE61035       991 -----------GACACCCTACTT--AAAT--------------------A   1007
+
+VANDAL11        5413 CATATTATCGGTGTGATTTTGCTGCAAAAAATAGGGTAAATGCTGCTAAT   5462
+                     |||                       |||||.|                 
+AT3TE61035      1008 CAT-----------------------AAAAACA-----------------   1017
+
+VANDAL11        5463 CTTGTTCATCTGATTATTCTATTTCTTCAATTGCCATGTTTAATTCGCTG   5512
+                                                                  |.|.|
+AT3TE61035      1018 ---------------------------------------------CCCGG   1022
+
+VANDAL11        5513 TTAATTTGGAAAATCTATGTTAATACCT-AGCTAAGAAACGACGACCACA   5561
+                     ||          |.||.||.|||||||| ||.|||           ||||
+AT3TE61035      1023 TT----------ACCTTTGCTAATACCTAAGATAA-----------CACA   1051
+
+VANDAL11        5562 CTTTTAAATTGGTTGACGAAGCTTTGCTCAATGAGATAGAGACATTGACA   5611
+                     |              |.|||.|||.|   .||||                
+AT3TE61035      1052 C--------------ATGAACCTTAG---GATGA----------------   1068
+
+VANDAL11        5612 GCAAAGACACGAGACATTGAGCAAGAGCTGAAAGATCTTCGGGGACAGAG   5661
+                             |.|.||             .||.|||.|.||.||   |.|||
+AT3TE61035      1069 --------AGGGGA-------------ATGCAAGTTTTTTGG---CGGAG   1094
+
+VANDAL11        5662 GTCCGAGTTCGAAAA--GATGGTTTACGAGAACGTGGAAATGAAGATAGA   5709
+                     |         |||||  |||||                 ||||.|||.|.
+AT3TE61035      1095 G---------GAAAACGGATGG-----------------ATGACGATGGG   1118
+
+VANDAL11        5710 AAAAGAAGTGCTTACGAAAGTGGAAGAAGCTGTGTCTCAAACGAAAGCGA   5759
+                     .|||||                    ||||       |.|||        
+AT3TE61035      1119 CAAAGA--------------------AAGC-------CTAAC--------   1133
+
+VANDAL11        5760 GCAGTAAGAGGTTGATGATTGTGATGGTGTTAGGGTGTATGATCATACTT   5809
+                                                 ||.|||.|.|||          
+AT3TE61035      1134 ----------------------------GTGAGGTTTTAT----------   1145
+
+VANDAL11        5810 GGATACACCAAACTTAAAGGGGAAGTAGTG----TAGAATAATATTTACA   5855
+                              |||  |||   ||||  |.||    |.|.|.||||||    
+AT3TE61035      1146 ---------AAA--TAA---GGAA--AATGACGCTGGTAGAATATT----   1175
+
+VANDAL11        5856 CTTTG-TTGTAGTAGTCAGCGGGATAATATTGTGTCTGCTAACCTTCGCT   5904
+                      |||| |||||| ||...|| ||||..|||||               || 
+AT3TE61035      1176 -TTTGTTTGTAG-AGAATGC-GGATTCTATTG---------------GC-   1206
+
+VANDAL11        5905 CTAGTA-GAATAATATAGGGACTATAGTGTATCTGCTAACGCTGCAATAT   5953
+                     ||||.| |.|||||                      ||.||.|..|||| 
+AT3TE61035      1207 CTAGCATGTATAAT----------------------TATCGATTTAATA-   1233
+
+VANDAL11        5954 AGACCAACGGTTGGAGTGAGATA--AAATCTCGAGAACTTGTTATTAAGA   6001
+                     ||.||               |||  ||||            ||||| |||
+AT3TE61035      1234 AGCCC---------------ATAATAAAT------------TTATT-AGA   1255
+
+VANDAL11        6002 TAAACGTTAGTAATTAAAATGTATTTGAAATCGACGTTGATAATGTAAGA   6051
+                     |||  .|||  ||||   ||||.|   ||||                   
+AT3TE61035      1256 TAA--CTTA--AATT---ATGTCT---AAAT-------------------   1276
+
+VANDAL11        6052 TAACAACAAAGTTAGCTAGTAACCTTTACGCTGAAAAGGGATAATA--TA   6099
+                     |||| |||                       |.|||||||| ||||  ||
+AT3TE61035      1277 TAAC-ACA-----------------------TTAAAAGGGA-AATAATTA   1301
+
+VANDAL11        6100 GTATCTACTACCGCAATCCTAATGCAACGATCCGAGTCTGGTCAAAATCC   6149
+                     |             |||..|||                     |||||||
+AT3TE61035      1302 G-------------AATTATAA---------------------AAAATCC   1317
+
+VANDAL11        6150 ACGAATTTTAAAAACAATGAGTAACAATGATAACAACAATGTTAGCGAGA   6199
+                     ||          |||||     |||||  ||...|||||.||        
+AT3TE61035      1318 AC----------AACAA-----AACAA--ATTTAAACAAAGT--------   1342
+
+VANDAL11        6200 AAATCTCTAATATGGAATAATATTGGGATAATAGTTAATCTGCTAACGCG   6249
+                              ||..||||       ||||||  ||||.|     ||.||||
+AT3TE61035      1343 ---------ATTAGGAA-------GGGATA--AGTTTA-----TATCGCG   1369
+
+VANDAL11        6250 AGTCGAATGCAACGATGATAAATATCCCACAATGCTTACCGAGATACTGC   6299
+                     |                                                 
+AT3TE61035      1370 A-------------------------------------------------   1370
+
+VANDAL11        6300 AACACTAACCATTTAAATCGGCTAATCTAATATCAGATAACTTATTATTA   6349
+                                                |||||                 |
+AT3TE61035      1371 ---------------------------TAATA-----------------A   1376
+
+VANDAL11        6350 TCTACTACCGCAATCTTAATGCAACGATCCAAGGCTGGTCAAAATCCACG   6399
+                     ..||||                             ||||           
+AT3TE61035      1377 AGTACT-----------------------------TGGT-----------   1386
+
+VANDAL11        6400 AATTTTAACAACAATGAGAAGCAATGATAACAAAAACGTTAGCGAGGAAA   6449
+                                                                  ||   
+AT3TE61035      1387 ---------------------------------------------GG---   1388
+
+VANDAL11        6450 ATCTCTAATATAGATTAATATT-GGAATAATAGTATCTCTGCTAACGCGA   6498
+                                      ||||| ||||..|.|||                
+AT3TE61035      1389 -----------------ATATTAGGAACGAAAGT----------------   1405
+
+VANDAL11        6499 GTCGAATGCAACGATGATAAATATCCCACAATGCAACGATACTGCAAAAC   6548
+                                          |||      |||          |.|||||
+AT3TE61035      1406 ---------------------TAT------ATG----------GGAAAAC   1418
+
+VANDAL11        6549 TAACCATATATTATTAACTTAGTAGATAACTTATTATTAAGTAAATACAA   6598
+                     ||                                                
+AT3TE61035      1419 TA------------------------------------------------   1420
+
+VANDAL11        6599 ACGTTAGCTGCTAACAATATCGAGGTACACGACGTAAACAAAACAGAATC   6648
+                                           |||    .|.||          ||||| 
+AT3TE61035      1421 ----------------------AGG----GGGCG----------AGAAT-   1433
+
+VANDAL11        6649 GGATAACTAGGTGTAAGACAAAAGCTAAACGCAGTTAGAAAAACGCTGGG   6698
+                      ||     |||   .|||||.|||.|        ||              
+AT3TE61035      1434 -GA-----AGG---CAGACACAAGTT--------TT--------------   1452
+
+VANDAL11        6699 AAACAAAAAATTGTAAAG-TTGGGTGACAAAAAAGTTTGCTAGTAAAACG   6747
+                               |||    | ||||||..|||                    
+AT3TE61035      1453 ----------TTG----GTTTGGGTTTCAA--------------------   1468
+
+VANDAL11        6748 TTATTTAGTAATTCTGCGCTAAATCAACAATCCGAGTCTGGT-AAAATCC   6796
+                                   |||    |||||             ||| ||||  |
+AT3TE61035      1469 --------------TGC----AATCA-------------GGTGAAAA--C   1485
+
+VANDAL11        6797 TACAAAATGGTAATAATACATAACAATAATATTTTTTAAAAAGATATTGG   6846
+                     |.||    |..|.|.||.||||.||..||.|            ||||.||
+AT3TE61035      1486 TCCA----GACAGTCATCCATACCACCAACA------------ATATGGG   1519
+
+VANDAL11        6847 ATAACGTGATAACATTATATCTGATATTATTATTAGTGATACATGCGAAG   6896
+                                                              ||||     
+AT3TE61035      1520 -----------------------------------------CATG-----   1523
+
+VANDAL11        6897 ACAAAATCAACGAATTGAAAAAACTATTAAAAACAGAGATAAACGACAAA   6946
+                         |||||       |.||||                            
+AT3TE61035      1524 ----AATCA-------GGAAAA----------------------------   1534
+
+VANDAL11        6947 CGTTATCTGATAACAACGATGACAAATATACAACAATGCAACGAGAATAC   6996
+                            ||.|                                       
+AT3TE61035      1535 -------TGGT---------------------------------------   1538
+
+VANDAL11        6997 AACATTAAGCATTTAAAACGGCTAATCTTATATCAGATAACGT-AATATT   7045
+                       |||.||||                       |||    ||| ||.|| 
+AT3TE61035      1539 --CATCAAGC-----------------------CAG----CGTCAACAT-   1558
+
+VANDAL11        7046 AGGTTAATAACAAAGTTATATACTAAACAATATCGAGGTGCTAAACGTAC   7095
+                      |||.|||.||                          .||||        
+AT3TE61035      1559 -GGTCAATCAC--------------------------TTGCT--------   1573
+
+VANDAL11        7096 ACAAACAGATTCGGATAACTAAGACTACGACAAAAGCTTCACGCAATTAG   7145
+                                 ||||                          |||     
+AT3TE61035      1574 ------------GGAT--------------------------GCA-----   1580
+
+VANDAL11        7146 AAAACGGTTGGAAACAAACATTGTAAAGAAGGGTAACAACAGAGTTAGCT   7195
+                                            ||||||                     
+AT3TE61035      1581 -----------------------TAAAGA---------------------   1586
+
+VANDAL11        7196 AGTAACCCCCACCAATATTAAGGCCGACACTAGCTTTTTAACTTCACACT   7245
+                                                      |.|||.||||       
+AT3TE61035      1587 ---------------------------------CCTTTCAACT-------   1596
+
+VANDAL11        7246 GAAGACCGTCGACCTCAAATTCCACACATTCAGTGACACCACCTGTGGCG   7295
+                                                                       
+AT3TE61035      1596 --------------------------------------------------   1596
+
+VANDAL11        7296 TGAGTGTGGATAAGGAATATAGAGAAGATGCCTGTATCGAGTGGGGAAGC   7345
+                                               ||     ||||.||||.||.||| 
+AT3TE61035      1597 --------------------------GA-----GTATGGAGTAGGTAAG-   1614
+
+VANDAL11        7346 AACCTGCGGGATGACTAGTGGTCGCTCTATAGAAAACGGATCCATCGAAC   7395
+                      |.|||.|..|||                                     
+AT3TE61035      1615 -AGCTGAGTCATG-------------------------------------   1626
+
+VANDAL11        7396 AGTTCCTCTTAGACGAATTGAAAGCAGCCTGTTGGAAAAGGAAT--GACA   7443
+                      |||          |.|||||.|||.|.||||..|||.| ||||  || |
+AT3TE61035      1627 -GTT----------GGATTGAGAGCCGACTGTCTGAACA-GAATAGGA-A   1663
+
+VANDAL11        7444 ACATTACCGCGAGTGG--CATGATCTCGTCCTGA--ATAGCAGAATCTTT   7489
+                     .|||..|.|.||||||  |..||.| ||||.|||  .|.||   |||..|
+AT3TE61035      1664 GCATCCCGGAGAGTGGTTCGAGAGC-CGTCTTGAGGCTGGC---ATCAAT   1709
+
+VANDAL11        7490 GCGTCGTTGAATGTTCGAATCCAAGACAGTTATCTTTCGACAGTTCAAAT   7539
+                     |||....||||||||..|.||.|..||..|||||||...|||.||.|.||
+AT3TE61035      1710 GCGCAAATGAATGTTACAGTCGAGAACCATTATCTTAGCACAATTGAGAT   1759
+
+VANDAL11        7540 CAACAGCTAAAGCCACCCAATG--CTTCTTGTCAAAGTTAAATGGCAGGT   7587
+                     |||||..|||.||.||||||||  .||.||.||.||.|..|||||||..|
+AT3TE61035      1760 CAACACATAAGGCTACCCAATGTTTTTTTTATCGAAATGGAATGGCAAAT   1809
+
+VANDAL11        7588 ACAGGAAATCAGCCTCCGTGAA---------------TAATTCGATATGA   7622
+                     |.|.|.|||||.|.||||||||               .||.|||..||.|
+AT3TE61035      1810 AGAAGTAATCAACATCCGTGAAAAGCTGAAGGCGGTCAAAGTCGCCATCA   1859
+
+VANDAL11        7623 TCAGGT-TCTCCACGGCCATTAAAGAGATCAATCAGATGAGGT-GGGAAC   7670
+                     .|||.| ||.|                |||||.|| |.||.|| |..|||
+AT3TE61035      1860 CCAGCTATCGC----------------ATCAACCA-ACGACGTAGTAAAC   1892
+
+VANDAL11        7671 TGAAAATCTTGTTTAGAAGAGCATCGAG------AAAATTTGGGGAATAG   7714
+                     ||||||||||     ||.||.||| |||      ||||.|||||..|.||
+AT3TE61035      1893 TGAAAATCTT-----GAGGAACAT-GAGCTTTGCAAAACTTGGGATACAG   1936
+
+VANDAL11        7715 ACGGAACAATAGTGAGACGAACTTAGAATCAAGGACATCGACACGAAGTT   7764
+                     ..||.|.|.|.|.||||..|||||.|.||||||.|||||.||||||||||
+AT3TE61035      1937 GTGGCATAGTTGAGAGATAAACTTGGCATCAAGAACATCCACACGAAGTT   1986
+
+VANDAL11        7765 TATGACCATCGGCATCATCGGTTCT-TAACAAATGCCGACTAAACTTGAT   7813
+                     |.|..||||||.|.|||.|.| ||| .|..|.|||||..|||||.||.|.
+AT3TE61035      1987 TGTTGCCATCGACCTCACCTG-TCTGGAGGACATGCCTGCTAAATTTTAA   2035
+
+VANDAL11        7814 GAGAGCATCCATTACCTGGGTGATAAAGGAAAGAGAAACACCCAACATAT   7863
+                     .|.|.|.|||||.|||||   .|..||||            ||||.|.||
+AT3TE61035      2036 CAAACCGTCCATCACCTG---CAATAAGG------------CCAAGACAT   2070
+
+VANDAL11        7864 TACAAAACAAT--ATGTTAAATCTTTAAGTATT-----------CTAATA   7900
+                     .||||.|...|  |||||||   |.|||..|||           ||.|.|
+AT3TE61035      2071 CACAATATTGTCGATGTTAA---TATAAAAATTATCTGGTAACACTGAGA   2117
+
+VANDAL11        7901 TATAAT--GACAGAACGTACCTTGCTTGT-TAGATTCTTCTTCCGATCAG   7947
+                      |||.|  ||.|| ||| ||||||.|.|| .||.||.||||        |
+AT3TE61035      2118 -ATAGTGCGATAG-ACG-ACCTTGTTAGTAAAGGTTTTTCT--------G   2156
+
+VANDAL11        7948 TC----AAATCCAAAATTTCTTTATTGGTCAAAGCAACA-CCCCCACAAA   7992
+                     ||    ||.||||..||.||.||.||..|||.||.|||| |.||.||.|.
+AT3TE61035      2157 TCAACAAACTCCAGGATATCCTTGTTATTCATAGTAACATCACCGACGAG   2206
+
+VANDAL11        7993 TGCTAATTGACCTATTGCAA------ACCA--------ATACGTC---GA   8025
+                     .|| .|||||.||||   ||      ||||        |||.|||   ||
+AT3TE61035      2207 AGC-GATTGAACTAT---AAAACGGTACCAAAATTGTTATATGTCATTGA   2252
+
+VANDAL11        8026 TAA----------------AAG--ATTACCAATTGCAAAA-ATAACAATA   8056
+                     |||                |||  .|||.||    ||||| |.|.|    
+AT3TE61035      2253 TAAGTGGGAAGGACGAGATAAGTAGTTAACA----CAAAAGAGACC----   2294
+
+VANDAL11        8057 TTTTATGTGCTAACAACAAACA--AATGGGATAAAGAATACCTTATCGCC   8104
+                                  |||||||||  ||...||.||| |||||||.||.||.
+AT3TE61035      2295 -------------CAACAAACAGTAAGCCGAGAAA-AATACCTGATTGCT   2330
+
+VANDAL11        8105 TTAAGTTTCTTCATGG---AGTTTTGAAATCGTTCTTCTGTGTCGACAAG   8151
+                     |||||||||||.|..|   ||||   |||.||.||||..|..||.| |||
+AT3TE61035      2331 TTAAGTTTCTTTAATGAACAGTT---AAAACGCTCTTTAGGATCTA-AAG   2376
+
+VANDAL11        8152 --GTCGTTGCCTTTATTGACAACAAGG-GATGGATGACCCACTAAAATCT   8198
+                       |..|||||    ||||       || ||||||||.||.||.||.|.||
+AT3TE61035      2377 ATGCAGTTGC----ATTG-------GGAGATGGATGCCCTACCAACAACT   2415
+
+VANDAL11        8199 TGGTTTTCTTACCATACGCGAAGCGACCATCTAGCTTGGTAGA   8241
+                     ||||||||||..||.||..|||.|||.||||.||.|||.||||
+AT3TE61035      2416 TGGTTTTCTTGTCAAACTGGAACCGAGCATCCAGTTTGCTAGA   2458
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT3TE54725
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 168
+# Identity:     100/168 (59.5%)
+# Similarity:   100/168 (59.5%)
+# Gaps:          38/168 (22.6%)
+# Score: 266.0
+# 
+#
+#=======================================
+
+VANDAL11       13248 TAATCCTTC-TCTTCAACATTGTAATCACCCGGTCAACAGTTACATCTTC  13296
+                     ||| |.||| ||||.|.|||.||.||.||.||..|||||||.|||||...
+AT3TE54725         1 TAA-CTTTCTTCTTAAGCATGGTGATAACACGCGCAACAGTAACATCCGA     49
+
+VANDAL11       13297 TTCAAGCCCAAACAGCTTATTGTAAAATGGTAT---------CCTCTTCC  13337
+                     .||||.||||||          ||||.||.|||         .||| |||
+AT3TE54725        50 CTCAAACCCAAA----------TAAAGTGCTATAAAACAAAATCTC-TCC     88
+
+VANDAL11       13338 CCGCA---GTGCCTTTCTTCCTCTTCATCTTCAAGCTCGGATATTTTCCA  13384
+                     ||| |   ||.||   |||||| ||..|||.||.|...||||||...|||
+AT3TE54725        89 CCG-AGGGGTCCC---CTTCCT-TTTTTCTGCACGGCAGGATATCGGCCA    133
+
+VANDAL11       13385 CA--------CTGTAACC  13394
+                     ||        |.||||||
+AT3TE54725       134 CAAGCAAGTCCGGTAACC    151
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT4TE21900
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 14213
+# Identity:   14165/14213 (99.7%)
+# Similarity: 14165/14213 (99.7%)
+# Gaps:          48/14213 ( 0.3%)
+# Score: 70791.5
+# 
+#
+#=======================================
+
+VANDAL11           2 ATTTTAATTTCTATGCTCAGTCGAACCGAAAATAAAAGAAGTAAGCATGA     51
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900         1 ATTTTAATTTCTATGCTCAGTCGAACCGAAAATAAAAGAAGTAAGCATGA     50
+
+VANDAL11          52 TAAGTTAGAAATTAGCTTCTCTCTTGTGTGACATATTTTTGTACCAAAAA    101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900        51 TAAGTTAGAAATTAGCTTCTCTCTTGTGTGACATATTTTTGTACCAAAAA    100
+
+VANDAL11         102 TATCCCTATAACCCGGAGTAAACGATAACTAATTGTAGCGTAGCTGTTTA    151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       101 TATCCCTATAACCCGGAGTAAACGATAACTAATTGTAGCGTAGCTGTTTA    150
+
+VANDAL11         152 AGCATTTAACGCCGTAGAGATTTACGAAGATTCACTCGCCGATTTTGGAA    201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       151 AGCATTTAACGCCGTAGAGATTTACGAAGATTCACTCGCCGATTTTGGAA    200
+
+VANDAL11         202 ACATAAAATATATTGGGGGAAAATATTGTGATCATTACAAATATATTTCG    251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       201 ACATAAAATATATTGGGGGAAAATATTGTGATCATTACAAATATATTTCG    250
+
+VANDAL11         252 AGTTGCGGGAATATCAGCCATATACATTGGGTTATCCTATTTATTACCGT    301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       251 AGTTGCGGGAATATCAGCCATATACATTGGGTTATCCTATTTATTACCGT    300
+
+VANDAL11         302 TGTACTAACTTCAACCAACAAAAAACTAGCAGACTAACAACTTAAATTTC    351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       301 TGTACTAACTTCAACCAACAAAAAACTAGCAGACTAACAACTTAAATTTC    350
+
+VANDAL11         352 CGATAATTTTAATGCAAGCAAAAGCTAGGAACCCAGAAAATTCAAAGCAG    401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       351 CGATAATTTTAATGCAAGCAAAAGCTAGGAACCCAGAAAATTCAAAGCAG    400
+
+VANDAL11         402 AGACGTAAAAGTAAAAGATCCAAGTATTTTGTAACTGATAGTTAAATGTT    451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       401 AGACGTAAAAGTAAAAGATCCAAGTATTTTGTAACTGATAGTTAAATGTT    450
+
+VANDAL11         452 TGGAAGCTACTTTTTTTACCTTAGGGTTTGCAAGATTATAATAGAAACCG    501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       451 TGGAAGCTACTTTTTTTACCTTAGGGTTTGCAAGATTATAATAGAAACCG    500
+
+VANDAL11         502 ATAACTAACTTGTTATTTCTGAAACTATTTCAGGTACAAATGGCGTTCGT    551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       501 ATAACTAACTTGTTATTTCTGAAACTATTTCAGGTACAAATGGCGTTCGT    550
+
+VANDAL11         552 GGTGAGATTGATACCTGGGGAGTGGAAAAGAGATGAAAACGGAATTTTCG    601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       551 GGTGAGATTGATACCTGGGGAGTGGAAAAGAGATGAAAACGGAATTTTCG    600
+
+VANDAL11         602 AACACATCTCGCATGTAGATGGGTTTGAATTCGGAGTCCGACTGCGTGAG    651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       601 AACACATCTCGCATGTAGATGGGTTTGAATTCGGAGTCCGACTGCGTGAG    650
+
+VANDAL11         652 AGAGATAGTTTTGCGAAGATTGTTATGGCGGGAAAAGATAGATTAGCGTT    701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       651 AGAGATAGTTTTGCGAAGATTGTTATGGCGGGAAAAGATAGATTAGCGTT    700
+
+VANDAL11         702 AGGGCCAGATGACGATATCGAGTTAACGTACCAGTGGCCACAGTGGATGC    751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       701 AGGGCCAGATGACGATATCGAGTTAACGTACCAGTGGCCACAGTGGATGC    750
+
+VANDAL11         752 TCGGTCCTGATTGGAAACGAGCGAACCCAATTGACATATTGGATGACGAA    801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       751 TCGGTCCTGATTGGAAACGAGCGAACCCAATTGACATATTGGATGACGAA    800
+
+VANDAL11         802 GATACGACACTGTTCGTGGCTATTAGGGCATATCTGGATGAAGTGCATCT    851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       801 GATACGACACTGTTCGTGGCTATTAGGGCATATCTGGATGAAGTGCATCT    850
+
+VANDAL11         852 GCTAGTGAAGATTATACGAGGTGGAAATGTTCGAAACGTTAATAGTTACC    901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       851 GCTAGTGAAGATTATACGAGGTGGAAATGTTCGAAACGTTAATAGTTACC    900
+
+VANDAL11         902 GCAGTAACATGGATCTAAGCGGTTTGAGTTCGAAAGAAATATCGGATAAA    951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       901 GCAGTAACATGGATCTAAGCGGTTTGAGTTCGAAAGAAATATCGGATAAA    950
+
+VANDAL11         952 TACTAAAATTGTGCGGAAACAAGAGCTGTATGGGGTACCGCGTTAACCAG   1001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900       951 TACTAAAATTGTGCGGAAACAAGAGCTGTATGGGGTACCGCGTTAACCAG   1000
+
+VANDAL11        1002 AATGCTGTTGCGTAACCTCTCGGGTAAACCTCAAAACCACGTTAATGATA   1051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1001 AATGCTGTTGCGTAACCTCTCGGGTAAACCTCAAAACCACGTTAATGATA   1050
+
+VANDAL11        1052 ATATTTAAGTTATCAAATAAGTTGGATATCTGTTAATAATATTTAGATTT   1101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1051 ATATTTAAGTTATCAAATAAGTTGGATATCTGTTAATAATATTTAGATTT   1100
+
+VANDAL11        1102 CAGGAGACGGACAAGATATAGCAACCATGGGGGACACCAACGACGTCGGC   1151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1101 CAGGAGACGGACAAGATATAGCAACCATGGGGGACACCAACGACGTCGGC   1150
+
+VANDAL11        1152 ATACGTAAAGAGATTGAATAACACAACCCGTATGGAGGTGTCATCATAAG   1201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1151 ATACGTAAAGAGATTGAATAACACAACCCGTATGGAGGTGTCATCATAAG   1200
+
+VANDAL11        1202 GGAAAACACGGAGATTGCAGCGGAGACTAGCGAGACGCCATCGAAAGTAC   1251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1201 GGAAAACACGGAGATTGCAGCGGAGACTAGCGAGACGCCATCGAAAGTAC   1250
+
+VANDAL11        1252 CACAACCAGGGGCAATTACAAGTTTGAAAGGCAAAGAGAAGGTTATAGAT   1301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1251 CACAACCAGGGGCAATTACAAGTTTGAAAGGCAAAGAGAAGGTTATAGAT   1300
+
+VANDAL11        1302 GACGATGAGAGAGAAAAAGATCGTTTATTCGAGGTGTGGAGAACAAATCA   1351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1301 GACGATGAGAGAGAAAAAGATCGTTTATTCGAGGTGTGGAGAACAAATCA   1350
+
+VANDAL11        1352 ACAAGAAGCAATGTTGCGTGAAATGTGTTCAAGAGAAATGTCGCTAAAAG   1401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1351 ACAAGAAGCAATGTTGCGTGAAATGTGTTCAAGAGAAATGTCGCTAAAAG   1400
+
+VANDAL11        1402 GGAGTCAACCGAGTGAAACAAACGGATGCGATAAAGAGAAGACAGCGAGA   1451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1401 GGAGTCAACCGAGTGAAACAAACGGATGCGATAAAGAGAAGACAGCGAGA   1450
+
+VANDAL11        1452 GCACTAGACTTCGGAAGTACATATCATGCAAACGACAATGAAATTGAAAA   1501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1451 GCACTAGACTTCGGAAGTACATATCATGCAAACGACAATGAAATTGAAAA   1500
+
+VANDAL11        1502 TTTGCATTTGACCCTTGTAGGGGCAGAATCGCAAGCTGTTGGACCACAAA   1551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1501 TTTGCATTTGACCCTTGTAGGGGCAGAATCGCAAGCTGTTGGACCACAAA   1550
+
+VANDAL11        1552 TAGTCGCATTGTCTTCAAGTGATTCAACCTTCGGGACGCCAACTTCGATA   1601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1551 TAGTCGCATTGTCTTCAAGTGATTCAACCTTCGGGACGCCAACTTCGATA   1600
+
+VANDAL11        1602 TCAACGAGCGTTTCTTTCTGCAGCGAAGACCTAATGGATGATACTGACTC   1651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1601 TCAACGAGCGTTTCTTTCTGCAGCGAAGACCTAATGGATGATACTGACTC   1650
+
+VANDAL11        1652 TTCCGACAGCCTTAGCGTATCGGTGATAGGTTTGTTAACAAATAACATGT   1701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1651 TTCCGACAGCCTTAGCGTATCGGTGATAGGTTTGTTAACAAATAACATGT   1700
+
+VANDAL11        1702 TTGGTAACTGATAAGTTTTTAAACTGTTACTCGCATTTATCGACTAACGT   1751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1701 TTGGTAACTGATAAGTTTTTAAACTGTTACTCGCATTTATCGACTAACGT   1750
+
+VANDAL11        1752 GTTTCGTAATGTAGGTGATGAGACTCTGTCCCACTTTTATTCTGACGCCG   1801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1751 GTTTCGTAATGTAGGTGATGAGACTCTGTCCCACTTTTATTCTGACGCCG   1800
+
+VANDAL11        1802 ATGGCCCACTCATTGAAAATCCTCAACCCATCACCATGAGGGATAAAGGA   1851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1801 ATGGCCCACTCATTGAAAATCCTCAACCCATCACCATGAGGGATAAAGGA   1850
+
+VANDAL11        1852 AAAGATATCATGATAGAGAATGCCTTACCGAGTGAAGTTGTTGGATTGGT   1901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1851 AAAGATATCATGATAGAGAATGCCTTACCGAGTGAAGTTGTTGGATTGGT   1900
+
+VANDAL11        1902 CTCCAATACCTCAAGAGTATTGGAGATGTAGAGAAATGCAATGACCGTAA   1951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1901 CTCCAATACCTCAAGAGTATTGGAGATGTAGAGAAATGCAATGACCGTAA   1950
+
+VANDAL11        1952 AGGATATAGCGGTTGCGACGGTCTTGTATGACCGAGATGCTCCGCCATAT   2001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      1951 AGGATATAGCGGTTGCGACGGTCTTGTATGACCGAGATGCTCCGCCATAT   2000
+
+VANDAL11        2002 TTTGACGATCAAGGGAAGGAAGGTAAAAAAAAAAATCAACTTGCTAAATA   2051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2001 TTTGACGATCAAGGGAAGGAAGGTAAAAAAAAAAATCAACTTGCTAAATA   2050
+
+VANDAL11        2052 TATTGTTAGATAGCTACAACTGTTGTTATCGTCAGGAAAGCAAGAAGTTA   2101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2051 TATTGTTAGATAGCTACAACTGTTGTTATCGTCAGGAAAGCAAGAAGTTA   2100
+
+VANDAL11        2102 AAAGTATATCTATATATTATCATACATATAGAAGAGTATGTGTTTATCGT   2151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2101 AAAGTATATCTATATATTATCATACATATAGAAGAGTATGTGTTTATCGT   2150
+
+VANDAL11        2152 TAGCGACAGATAACAACATTAATAAAAGAAAACTTTATCTTCAACTTTCT   2201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2151 TAGCGACAGATAACAACATTAATAAAAGAAAACTTTATCTTCAACTTTCT   2200
+
+VANDAL11        2202 ATATCTCTCTAGTAATAATATTATCGAATGCATTAACATATCGTTAACGC   2251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2201 ATATCTCTCTAGTAATAATATTATCGAATGCATTAACATATCGTTAACGC   2250
+
+VANDAL11        2252 CTGATTCGTTGATTGACTTGCAGATGCCCTTCAGCGAGCCCTGAAGGATG   2301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2251 CTGATTCGTTGATTGACTTGCAGATGCCCTTCAGCGAGCCCTGAAGGATG   2300
+
+VANDAL11        2302 CTGATTACGAGGGGGGTGACATTTACATCAGCCGCATTTTTAAGAATAAA   2351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2301 CTGATTACGAGGGGGGTGACATTTACATCAGCCGCATTTTTAAGAATAAA   2350
+
+VANDAL11        2352 GAGGATTGTTCAACTAAGCTCGCTATTCATGCGATCCGGAGGAAGTTCCA   2401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2351 GAGGATTGTTCAACTAAGCTCGCTATTCATGCGATCCGGAGGAAGTTCCA   2400
+
+VANDAL11        2402 TTTCATTTACGTAAAGTCCGGGCCAAATGTTGTGGCGGCTGTGTGCGTCA   2451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2401 TTTCATTTACGTAAAGTCCGGGCCAAATGTTGTGGCGGCTGTGTGCGTCA   2450
+
+VANDAL11        2452 GCCATACATGTCCATGGTGGGTTTATGCAACTAAGCTGCCAGATAGTGAT   2501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2451 GCCATACATGTCCATGGTGGGTTTATGCAACTAAGCTGCCAGATAGTGAT   2500
+
+VANDAL11        2502 ACGTTCGAGGTTAGGAGCACGACTTCAACACACACGTGTAGCGTGGATGC   2551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2501 ACGTTCGAGGTTAGGAGCACGACTTCAACACACACGTGTAGCGTGGATGC   2550
+
+VANDAL11        2552 TAAAGGGGACTTCCACAAGCAAGCATCAACGGCTGTGATTGGGAAGTTGA   2601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2551 TAAAGGGGACTTCCACAAGCAAGCATCAACGGCTGTGATTGGGAAGTTGA   2600
+
+VANDAL11        2602 TGGGAACTAAATACATAGGAGTGGGCCGTGGACCTCGACCTAATGAGCTT   2651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2601 TGGGAACTAAATACATAGGAGTGGGCCGTGGACCTCGACCTAATGAGCTT   2650
+
+VANDAL11        2652 AGAAGAATGTTACGCCAAGAGTTTAACCTCAACGTCTCTTATTGGAAGGC   2701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2651 AGAAGAATGTTACGCCAAGAGTTTAACCTCAACGTCTCTTATTGGAAGGC   2700
+
+VANDAL11        2702 ATGGAGGACAAGAGAAATAGCGATGGACAATGCAATGGGGTCTGCTATGG   2751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2701 ATGGAGGACAAGAGAAATAGCGATGGACAATGCAATGGGGTCTGCTATGG   2750
+
+VANDAL11        2752 GGAGTTACGCTCTAAACCAACCATACTTTAAGCTGCTTTTGGAGACAAAT   2801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2751 GGAGTTACGCTCTAAACCAACCATACTTTAAGCTGCTTTTGGAGACAAAT   2800
+
+VANDAL11        2802 CCCAACTCACTTGTGGCAATGGAAACTGAAAAGGATGCTTCAGGGGTAGA   2851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2801 CCCAACTCACTTGTGGCAATGGAAACTGAAAAGGATGCTTCAGGGGTAGA   2850
+
+VANDAL11        2852 GAGATTCAAGTACTTGTTTTTTACCCTTCATGCCTGTGTTCTAGGCTATC   2901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2851 GAGATTCAAGTACTTGTTTTTTACCCTTCATGCCTGTGTTCTAGGCTATC   2900
+
+VANDAL11        2902 CTTACATGAGGAAGGTGATAGTTATCGACGGTACACACCTACGGGGACGA   2951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2901 CTTACATGAGGAAGGTGATAGTTATCGACGGTACACACCTACGGGGACGA   2950
+
+VANDAL11        2952 TATGGGGGATGTTTAGTTGCAGCTAGTGCGCAAGACGCCAATTTCCAAAT   3001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      2951 TATGGGGGATGTTTAGTTGCAGCTAGTGCGCAAGACGCCAATTTCCAAAT   3000
+
+VANDAL11        3002 ATTCCCCATTGCATTTGGAATAGTAAACAGCGAGAACGATGAGGCGTGGA   3051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3001 ATTCCCCATTGCATTTGGAATAGTAAACAGCGAGAACGATGAGGCGTGGA   3050
+
+VANDAL11        3052 CTTGGTTCATGACTAAGCTGACGGAAGCTATTCCAGATGATCCCGAGTTG   3101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3051 CTTGGTTCATGACTAAGCTGACGGAAGCTATTCCAGATGATCCCGAGTTG   3100
+
+VANDAL11        3102 GTGTTTATGTCAGATAGGCATTCCTCTATTTATGCCAGCATCCGCAAGGT   3151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3101 GTGTTTATGTCAGATAGGCATTCCTCTATTTATGCCAGCATCCGCAAGGT   3150
+
+VANDAL11        3152 ATGGAATTAATCTCTATGTTATCCGATAATGTGGGGTTTACCATCAGGCT   3201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3151 ATGGAATTAATCTCTATGTTATCCGATAATGTGGGGTTTACCATCAGGCT   3200
+
+VANDAL11        3202 TTTTATGTTTACATAAGCCTTTTTGTACTGTAACAGGTTTACCCCATGTC   3251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3201 TTTTATGTTTACATAAGCCTTTTTGTACTGTAACAGGTTTACCCCATGTC   3250
+
+VANDAL11        3252 ATCACATGCTGCTTGCATCGTCCACCTCAAGAGAAACATTGAGGCATACT   3301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3251 ATCACATGCTGCTTGCATCGTCCACCTCAAGAGAAACATTGAGGCATACT   3300
+
+VANDAL11        3302 TTAAAGTCGAACAGTTAAGTGCCTTGGTATCAAGTGCAGCTAGAGCTTAT   3351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3301 TTAAAGTCGAACAGTTAAGTGCCTTGGTATCAAGTGCAGCTAGAGCTTAT   3350
+
+VANDAL11        3352 CGGCTAACTGACTTCAACAAGATTTTTGCTGAAATTAAGGCTACGCATGG   3401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3351 CGGCTAACTGACTTCAACAAGATTTTTGCTGAAATTAAGGCTACGCATGG   3400
+
+VANDAL11        3402 ATCGTGCGCTGAGTACCTGGAAAGTATAGGGTTCGAACATTGGACCAGGT   3451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3401 ATCGTGCGCTGAGTACCTGGAAAGTATAGGGTTCGAACATTGGACCAGGT   3450
+
+VANDAL11        3452 CACATTTTGTTGGGAATCGGTACAACTTCATGACGAGTAATATTGTCGAG   3501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3451 CACATTTTGTTGGGAATCGGTACAACTTCATGACGAGTAATATTGTCGAG   3500
+
+VANDAL11        3502 TCGCTAAACAATGTTTTAACGGCAGCCCGAGATTATCCGGTAATCTCAAT   3551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3501 TCGCTAAACAATGTTTTAACGGCAGCCCGAGATTATCCGGTAATCTCAAT   3550
+
+VANDAL11        3552 CTTAGAATCTATCCAGACAACCCTCGTATCATGGTTTGCGTTTCGTAGGC   3601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3551 CTTAGAATCTATCCAGACAACCCTCGTATCATGGTTTGCGTTTCGTAGGC   3600
+
+VANDAL11        3602 AGGCAGCCCAGTTAGAAGACAATATCTTGCCGCCTAAAGTACATAACATG   3651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3601 AGGCAGCCCAGTTAGAAGACAATATCTTGCCGCCTAAAGTACATAACATG   3650
+
+VANDAL11        3652 GTTATCGAGAATTTTGAGAAGGGGGCGGGTTTTGTTGTGATAAAGATTGG   3701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3651 GTTATCGAGAATTTTGAGAAGGGGGCGGGTTTTGTTGTGATAAAGATTGG   3700
+
+VANDAL11        3702 GGATGGTCTCTATGAGGTTAGAGACAAAAGAGGCGGAGGGTTTGTAGTTA   3751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3701 GGATGGTCTCTATGAGGTTAGAGACAAAAGAGGCGGAGGGTTTGTAGTTA   3750
+
+VANDAL11        3752 ACCTATTGGAGAGAACATGTACATGCAGAGAGTTTAAGCTTCTAACGATT   3801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3751 ACCTATTGGAGAGAACATGTACATGCAGAGAGTTTAAGCTTCTAACGATT   3800
+
+VANDAL11        3802 CCTTGCTCTCACGCAATAGTGGCGGCCATACAAGAAGGACTCCGAGTGGA   3851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3801 CCTTGCTCTCACGCAATAGTGGCGGCCATACAAGAAGGACTCCGAGTGGA   3850
+
+VANDAL11        3852 CACACTGGTTGGGGTTCATCACACCACGCCACAGCTACGGTTGTGTTACC   3901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3851 CACACTGGTTGGGGTTCATCACACCACGCCACAGCTACGGTTGTGTTACC   3900
+
+VANDAL11        3902 AAGCCCTAATAATGCCGGTGCCTGACACGGAGACTCTTACTCCGTCACCA   3951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3901 AAGCCCTAATAATGCCGGTGCCTGACACGGAGACTCTTACTCCGTCACCA   3950
+
+VANDAL11        3952 AACGATGTAGGGGGGGGAGAACTGGCTCCACCGTATGTTTCAAGGCCTCC   4001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      3951 AACGATGTAGGGGGGGGAGAACTGGCTCCACCGTATGTTTCAAGGCCTCC   4000
+
+VANDAL11        4002 GGGAAGACCAAGGAAGCGATGTGAAAGCTTTAAATTATTGAACGCTAATC   4051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4001 GGGAAGACCAAGGAAGCGATGTGAAAGCTTTAAATTATTGAACGCTAATC   4050
+
+VANDAL11        4052 AGGATATCTGATATACAATAACTATACAATAATAACTTCTGTTACTTTTG   4101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4051 AGGATATCTGATATACAATAACTATACAATAATAACTTCTGTTACTTTTG   4100
+
+VANDAL11        4102 TAAAAGACTTCAAGGAAAAGATGTTCGCGCTGCAAGTCGTTGGGCCATAA   4151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4101 TAAAAGACTTCAAGGAAAAGATGTTCGCGCTGCAAGTCGTTGGGCCATAA   4150
+
+VANDAL11        4152 CAGGGTAACCTGCAATGGACCAATAACGGTAAGAATTATAATATCGCGAT   4201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4151 CAGGGTAACCTGCAATGGACCAATAACGGTAAGAATTATAATATCGCGAT   4200
+
+VANDAL11        4202 TACATATATGTTACTTGATATTTAAAGGGTGGAATTGTACTGCAGGAGAC   4251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4201 TACATATATGTTACTTGATATTTAAAGGGTGGAATTGTACTGCAGGAGAC   4250
+
+VANDAL11        4252 ATAAGAGAAGGGGAGGATCACGTTTTTTTGCGCTGAAAGTTGTGGGATGG   4301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4251 ATAAGAGAAGGGGAGGATCACGTTTTTTTGCGCTGAAAGTTGTGGGATGG   4300
+
+VANDAL11        4302 ATGTTGCCAGGATTAACAGAATCTGGCATGGCGATGTGAAATAAATAATA   4351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4301 ATGTTGCCAGGATTAACAGAATCTGGCATGGCGATGTGAAATAAATAATA   4350
+
+VANDAL11        4352 CGGGGGAAGGGTTCAGAAAATTTTCATTGTACATGCGTATGACATCTGTT   4401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4351 CGGGGGAAGGGTTCAGAAAATTTTCATTGTACATGCGTATGACATCTGTT   4400
+
+VANDAL11        4402 CCCTAAATGTAAAATTATCGGTACGAATCCAACTATCATGAAGTAATGTT   4451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4401 CCCTAAATGTAAAATTATCGGTACGAATCCAACTATCATGAAGTAATGTT   4450
+
+VANDAL11        4452 TCATATAATGGCAGTATGTGGTATGTTTTTGTTTACTGAGTTATCTCTGA   4501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4451 TCATATAATGGCAGTATGTGGTATGTTTTTGTTTACTGAGTTATCTCTGA   4500
+
+VANDAL11        4502 CTTTAACCTACTAACTAAAGAAGATAATACTAACCGGAAAAAATCGCATC   4551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4501 CTTTAACCTACTAACTAAAGAAGATAATACTAACCGGAAAAAATCGCATC   4550
+
+VANDAL11        4552 GAAATGATATCGTGATACAAATCATGATAATCTATTAACTTTAGTTGATA   4601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4551 GAAATGATATCGTGATACAAATCATGATAATCTATTAACTTTAGTTGATA   4600
+
+VANDAL11        4602 AGCCTAATGTCGCGAAAATAATGTAACGCCTGTCATTGGTATAATCACGA   4651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4601 AGCCTAATGTCGCGAAAATAATGTAACGCCTGTCATTGGTATAATCACGA   4650
+
+VANDAL11        4652 TGTTGGTACTCCTAAAAGAAGACAAGGACACCTAGTGGGTCGAGTTATTA   4701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4651 TGTTGGTACTCCTAAAAGAAGACAAGGACACCTAGTGGGTCGAGTTATTA   4700
+
+VANDAL11        4702 AGGACATCAATCAGAATAATCATAACGCGTGTTATCTGATAACAAAAAAA   4751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4701 AGGACATCAATCAGAATAATCATAACGCGTGTTATCTGATAACAAAAAAA   4750
+
+VANDAL11        4752 AAACATAAATATGTACTTGTCCCCATACCGGGATAGATTCACTAGTGAAT   4801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4751 AAACATAAATATGTACTTGTCCCCATACCGGGATAGATTCACTAGTGAAT   4800
+
+VANDAL11        4802 ATTAACATAAATTTATTGCCCGGCTTTGTAGGAGTTGCAATCAAAGCAAT   4851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4801 ATTAACATAAATTTATTGCCCGGCTTTGTAGGAGTTGCAATCAAAGCAAT   4850
+
+VANDAL11        4852 AAACACCCGAGTTGTTTTTACAAAAAAGTAAAACAGCTATATTGTATAAC   4901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4851 AAACACCCGAGTTGTTTTTACAAAAAAGTAAAACAGCTATATTGTATAAC   4900
+
+VANDAL11        4902 TGATAATAATAACATTACCTATACGCTGAATGTTACATATCTTCGGACCG   4951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4901 TGATAATAATAACATTACCTATACGCTGAATGTTACATATCTTCGGACCG   4950
+
+VANDAL11        4952 AATCAAGTAAAAGGTTCGCTTTTTTAAATATATATCAGTATATTCATGTA   5001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      4951 AATCAAGTAAAAGGTTCGCTTTTTTAAATATATATCAGTATATTCATGTA   5000
+
+VANDAL11        5002 TCGGCTAATTTACGTATCCGAGTTGATAAGAATATTTATAATTGTCACAA   5051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5001 TCGGCTAATTTACGTATCCGAGTTGATAAGAATATTTATAATTGTCACAA   5050
+
+VANDAL11        5052 CGTCTAATTGTCCCCAGATAGATATTACTTCGGTTTGGTTCATGAAGCCG   5101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5051 CGTCTAATTGTCCCCAGATAGATATTACTTCGGTTTGGTTCATGAAGCCG   5100
+
+VANDAL11        5102 ACAAAGAAACAGTGACCCAGTCACAATGAAACCAAACCAAGCCGTACAGC   5151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5101 ACAAAGAAACAGTGACCCAGTCACAATGAAACCAAACCAAGCCGTACAGC   5150
+
+VANDAL11        5152 TACAAATATAACCCGATAATTGCCGTGAGTATTCCAGGGTTATAATCCCC   5201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5151 TACAAATATAACCCGATAATTGCCGTGAGTATTCCAGGGTTATAATCCCC   5200
+
+VANDAL11        5202 CAAATTAAAAACAGAAGAACCCTAATTTGGAACCAGAACCCGAAATTTGG   5251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5201 CAAATTAAAAACAGAAGAACCCTAATTTGGAACCAGAACCCGAAATTTGG   5250
+
+VANDAL11        5252 AACCAAAATTCTTCGACAAAGGATGAGCAGTCTATCATCAAGTTCGACTG   5301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5251 AACCAAAATTCTTCGACAAAGGATGAGCAGTCTATCATCAAGTTCGACTG   5300
+
+VANDAL11        5302 GATCTACAGGGCCGCGGGGTAAAGGTAAAGTTGTAGGAATACCGAAAATA   5351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5301 GATCTACAGGGCCGCGGGGTAAAGGTAAAGTTGTAGGAATACCGAAAATA   5350
+
+VANDAL11        5352 TGTTGGTGCGGGGAAGGAGTCGTGTCACTCATTTCAAAATCGGTTCCGAA   5401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5351 TGTTGGTGCGGGGAAGGAGTCGTGTCACTCATTTCAAAATCGGTTCCGAA   5400
+
+VANDAL11        5402 TCCTTGCCGGACATATTATCGGTGTGATTTTGCTGCAAAAAATAGGGTAA   5451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5401 TCCTTGCCGGACATATTATCGGTGTGATTTTGCTGCAAAAAATAGGGTAA   5450
+
+VANDAL11        5452 ATGCTGCTAATCTTGTTCATCTGATTATTCTATTTCTTCAATTGCCATGT   5501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5451 ATGCTGCTAATCTTGTTCATCTGATTATTCTATTTCTTCAATTGCCATGT   5500
+
+VANDAL11        5502 TTAATTCGCTGTTAATTTGGAAAATCTATGTTAATACCTAGCTAAGAAAC   5551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5501 TTAATTCGCTGTTAATTTGGAAAATCTATGTTAATACCTAGCTAAGAAAC   5550
+
+VANDAL11        5552 GACGACCACACTTTTAAATTGGTTGACGAAGCTTTGCTCAATGAGATAGA   5601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5551 GACGACCACACTTTTAAATTGGTTGACGAAGCTTTGCTCAATGAGATAGA   5600
+
+VANDAL11        5602 GACATTGACAGCAAAGACACGAGACATTGAGCAAGAGCTGAAAGATCTTC   5651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5601 GACATTGACAGCAAAGACACGAGACATTGAGCAAGAGCTGAAAGATCTTC   5650
+
+VANDAL11        5652 GGGGACAGAGGTCCGAGTTCGAAAAGATGGTTTACGAGAACGTGGAAATG   5701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5651 GGGGACAGAGGTCCGAGTTCGAAAAGATGGTTTACGAGAACGTGGAAATG   5700
+
+VANDAL11        5702 AAGATAGAAAAAGAAGTGCTTACGAAAGTGGAAGAAGCTGTGTCTCAAAC   5751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5701 AAGATAGAAAAAGAAGTGCTTACGAAAGTGGAAGAAGCTGTGTCTCAAAC   5750
+
+VANDAL11        5752 GAAAGCGAGCAGTAAGAGGTTGATGATTGTGATGGTGTTAGGGTGTATGA   5801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5751 GAAAGCGAGCAGTAAGAGGTTGATGATTGTGATGGTGTTAGGGTGTATGA   5800
+
+VANDAL11        5802 TCATACTTGGATACACCAAACTTAAAGGGGAAGTAGTGTAGAATAATATT   5851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5801 TCATACTTGGATACACCAAACTTAAAGGGGAAGTAGTGTAGAATAATATT   5850
+
+VANDAL11        5852 TACACTTTGTTGTAGTAGTCAGCGGGATAATATTGTGTCTGCTAACCTTC   5901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5851 TACACTTTGTTGTAGTAGTCAGCGGGATAATATTGTGTCTGCTAACCTTC   5900
+
+VANDAL11        5902 GCTCTAGTAGAATAATATAGGGACTATAGTGTATCTGCTAACGCTGCAAT   5951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5901 GCTCTAGTAGAATAATATAGGGACTATAGTGTATCTGCTAACGCTGCAAT   5950
+
+VANDAL11        5952 ATAGACCAACGGTTGGAGTGAGATAAAATCTCGAGAACTTGTTATTAAGA   6001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      5951 ATAGACCAACGGTTGGAGTGAGATAAAATCTCGAGAACTTGTTATTAAGA   6000
+
+VANDAL11        6002 TAAACGTTAGTAATTAAAATGTATTTGAAATCGACGTTGATAATGTAAGA   6051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6001 TAAACGTTAGTAATTAAAATGTATTTGAAATCGACGTTGATAATGTAAGA   6050
+
+VANDAL11        6052 TAACAACAAAGTTAGCTAGTAACCTTTACGCTGAAAAGGGATAATATAGT   6101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6051 TAACAACAAAGTTAGCTAGTAACCTTTACGCTGAAAAGGGATAATATAGT   6100
+
+VANDAL11        6102 ATCTACTACCGCAATCCTAATGCAACGATCCGAGTCTGGTCAAAATCCAC   6151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6101 ATCTACTACCGCAATCCTAATGCAACGATCCGAGTCTGGTCAAAATCCAC   6150
+
+VANDAL11        6152 GAATTTTAAAAACAATGAGTAACAATGATAACAACAATGTTAGCGAGAAA   6201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6151 GAATTTTAAAAACAATGAGTAACAATGATAACAACAATGTTAGCGAGAAA   6200
+
+VANDAL11        6202 ATCTCTAATATGGAATAATATTGGGATAATAGTTAATCTGCTAACGCGAG   6251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6201 ATCTCTAATATGGAATAATATTGGGATAATAGTTAATCTGCTAACGCGAG   6250
+
+VANDAL11        6252 TCGAATGCAACGATGATAAATATCCCACAATGCTTACCGAGATACTGCAA   6301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6251 TCGAATGCAACGATGATAAATATCCCACAATGCTTACCGAGATACTGCAA   6300
+
+VANDAL11        6302 CACTAACCATTTAAATCGGCTAATCTAATATCAGATAACTTATTATTATC   6351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6301 CACTAACCATTTAAATCGGCTAATCTAATATCAGATAACTTATTATTATC   6350
+
+VANDAL11        6352 TACTACCGCAATCTTAATGCAACGATCCAAGGCTGGTCAAAATCCACGAA   6401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6351 TACTACCGCAATCTTAATGCAACGATCCAAGGCTGGTCAAAATCCACGAA   6400
+
+VANDAL11        6402 TTTTAACAACAATGAGAAGCAATGATAACAAAAACGTTAGCGAGGAAAAT   6451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6401 TTTTAACAACAATGAGAAGCAATGATAACAAAAACGTTAGCGAGGAAAAT   6450
+
+VANDAL11        6452 CTCTAATATAGATTAATATTGGAATAATAGTATCTCTGCTAACGCGAGTC   6501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6451 CTCTAATATAGATTAATATTGGAATAATAGTATCTCTGCTAACGCGAGTC   6500
+
+VANDAL11        6502 GAATGCAACGATGATAAATATCCCACAATGCAACGATACTGCAAAACTAA   6551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6501 GAATGCAACGATGATAAATATCCCACAATGCAACGATACTGCAAAACTAA   6550
+
+VANDAL11        6552 CCATATATTATTAACTTAGTAGATAACTTATTATTAAGTAAATACAAACG   6601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6551 CCATATATTATTAACTTAGTAGATAACTTATTATTAAGTAAATACAAACG   6600
+
+VANDAL11        6602 TTAGCTGCTAACAATATCGAGGTACACGACGTAAACAAAACAGAATCGGA   6651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6601 TTAGCTGCTAACAATATCGAGGTACACGACGTAAACAAAACAGAATCGGA   6650
+
+VANDAL11        6652 TAACTAGGTGTAAGACAAAAGCTAAACGCAGTTAGAAAAACGCTGGGAAA   6701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6651 TAACTAGGTGTAAGACAAAAGCTAAACGCAGTTAGAAAAACGCTGGGAAA   6700
+
+VANDAL11        6702 CAAAAAATTGTAAAGTTGGGTGACAAAAAAGTTTGCTAGTAAAACGTTAT   6751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6701 CAAAAAATTGTAAAGTTGGGTGACAAAAAAGTTTGCTAGTAAAACGTTAT   6750
+
+VANDAL11        6752 TTAGTAATTCTGCGCTAAATCAACAATCCGAGTCTGGTAAAATCCTACAA   6801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6751 TTAGTAATTCTGCGCTAAATCAACAATCCGAGTCTGGTAAAATCCTACAA   6800
+
+VANDAL11        6802 AATGGTAATAATACATAACAATAATATTTTTTAAAAAGATATTGGATAAC   6851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6801 AATGGTAATAATACATAACAATAATATTTTTTAAAAAGATATTGGATAAC   6850
+
+VANDAL11        6852 GTGATAACATTATATCTGATATTATTATTAGTGATACATGCGAAGACAAA   6901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6851 GTGATAACATTATATCTGATATTATTATTAGTGATACATGCGAAGACAAA   6900
+
+VANDAL11        6902 ATCAACGAATTGAAAAAACTATTAAAAACAGAGATAAACGACAAACGTTA   6951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6901 ATCAACGAATTGAAAAAACTATTAAAAACAGAGATAAACGACAAACGTTA   6950
+
+VANDAL11        6952 TCTGATAACAACGATGACAAATATACAACAATGCAACGAGAATACAACAT   7001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      6951 TCTGATAACAACGATGACAAATATACAACAATGCAACGAGAATACAACAT   7000
+
+VANDAL11        7002 TAAGCATTTAAAACGGCTAATCTTATATCAGATAACGTAATATTAGGTTA   7051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7001 TAAGCATTTAAAACGGCTAATCTTATATCAGATAACGTAATATTAGGTTA   7050
+
+VANDAL11        7052 ATAACAAAGTTATATACTAAACAATATCGAGGTGCTAAACGTACACAAAC   7101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7051 ATAACAAAGTTATATACTAAACAATATCGAGGTGCTAAACGTACACAAAC   7100
+
+VANDAL11        7102 AGATTCGGATAACTAAGACTACGACAAAAGCTTCACGCAATTAGAAAACG   7151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7101 AGATTCGGATAACTAAGACTACGACAAAAGCTTCACGCAATTAGAAAACG   7150
+
+VANDAL11        7152 GTTGGAAACAAACATTGTAAAGAAGGGTAACAACAGAGTTAGCTAGTAAC   7201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7151 GTTGGAAACAAACATTGTAAAGAAGGGTAACAACAGAGTTAGCTAGTAAC   7200
+
+VANDAL11        7202 CCCCACCAATATTAAGGCCGACACTAGCTTTTTAACTTCACACTGAAGAC   7251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7201 CCCCACCAATATTAAGGCCGACACTAGCTTTTTAACTTCACACTGAAGAC   7250
+
+VANDAL11        7252 CGTCGACCTCAAATTCCACACATTCAGTGACACCACCTGTGGCGTGAGTG   7301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7251 CGTCGACCTCAAATTCCACACATTCAGTGACACCACCTGTGGCGTGAGTG   7300
+
+VANDAL11        7302 TGGATAAGGAATATAGAGAAGATGCCTGTATCGAGTGGGGAAGCAACCTG   7351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7301 TGGATAAGGAATATAGAGAAGATGCCTGTATCGAGTGGGGAAGCAACCTG   7350
+
+VANDAL11        7352 CGGGATGACTAGTGGTCGCTCTATAGAAAACGGATCCATCGAACAGTTCC   7401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7351 CGGGATGACTAGTGGTCGCTCTATAGAAAACGGATCCATCGAACAGTTCC   7400
+
+VANDAL11        7402 TCTTAGACGAATTGAAAGCAGCCTGTTGGAAAAGGAATGACAACATTACC   7451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7401 TCTTAGACGAATTGAAAGCAGCCTGTTGGAAAAGGAATGACAACATTACC   7450
+
+VANDAL11        7452 GCGAGTGGCATGATCTCGTCCTGAATAGCAGAATCTTTGCGTCGTTGAAT   7501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7451 GCGAGTGGCATGATCTCGTCCTGAATAGCAGAATCTTTGCGTCGTTGAAT   7500
+
+VANDAL11        7502 GTTCGAATCCAAGACAGTTATCTTTCGACAGTTCAAATCAACAGCTAAAG   7551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7501 GTTCGAATCCAAGACAGTTATCTTTCGACAGTTCAAATCAACAGCTAAAG   7550
+
+VANDAL11        7552 CCACCCAATGCTTCTTGTCAAAGTTAAATGGCAGGTACAGGAAATCAGCC   7601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7551 CCACCCAATGCTTCTTGTCAAAGTTAAATGGCAGGTACAGGAAATCAGCC   7600
+
+VANDAL11        7602 TCCGTGAATAATTCGATATGATCAGGTTCTCCACGGCCATTAAAGAGATC   7651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7601 TCCGTGAATAATTCGATATGATCAGGTTCTCCACGGCCATTAAAGAGATC   7650
+
+VANDAL11        7652 AATCAGATGAGGTGGGAACTGAAAATCTTGTTTAGAAGAGCATCGAGAAA   7701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7651 AATCAGATGAGGTGGGAACTGAAAATCTTGTTTAGAAGAGCATCGAGAAA   7700
+
+VANDAL11        7702 ATTTGGGGAATAGACGGAACAATAGTGAGACGAACTTAGAATCAAGGACA   7751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7701 ATTTGGGGAATAGACGGAACAATAGTGAGACGAACTTAGAATCAAGGACA   7750
+
+VANDAL11        7752 TCGACACGAAGTTTATGACCATCGGCATCATCGGTTCTTAACAAATGCCG   7801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7751 TCGACACGAAGTTTATGACCATCGGCATCATCGGTTCTTAACAAATGCCG   7800
+
+VANDAL11        7802 ACTAAACTTGATGAGAGCATCCATTACCTGGGTGATAAAGGAAAGAGAAA   7851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7801 ACTAAACTTGATGAGAGCATCCATTACCTGGGTGATAAAGGAAAGAGAAA   7850
+
+VANDAL11        7852 CACCCAACATATTACAAAACAATATGTTAAATCTTTAAGTATTCTAATAT   7901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7851 CACCCAACATATTACAAAACAATATGTTAAATCTTTAAGTATTCTAATAT   7900
+
+VANDAL11        7902 ATAATGACAGAACGTACCTTGCTTGTTAGATTCTTCTTCCGATCAGTCAA   7951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7901 ATAATGACAGAACGTACCTTGCTTGTTAGATTCTTCTTCCGATCAGTCAA   7950
+
+VANDAL11        7952 ATCCAAAATTTCTTTATTGGTCAAAGCAACACCCCCACAAATGCTAATTG   8001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      7951 ATCCAAAATTTCTTTATTGGTCAAAGCAACACCCCCACAAATGCTAATTG   8000
+
+VANDAL11        8002 ACCTATTGCAAACCAATACGTCGATAAAAGATTACCAATTGCAAAAATAA   8051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8001 ACCTATTGCAAACCAATACGTCGATAAAAGATTACCAATTGCAAAAATAA   8050
+
+VANDAL11        8052 CAATATTTTATGTGCTAACAACAAACAAATGGGATAAAGAATACCTTATC   8101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8051 CAATATTTTATGTGCTAACAACAAACAAATGGGATAAAGAATACCTTATC   8100
+
+VANDAL11        8102 GCCTTAAGTTTCTTCATGGAGTTTTGAAATCGTTCTTCTGTGTCGACAAG   8151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8101 GCCTTAAGTTTCTTCATGGAGTTTTGAAATCGTTCTTCTGTGTCGACAAG   8150
+
+VANDAL11        8152 GTCGTTGCCTTTATTGACAACAAGGGATGGATGACCCACTAAAATCTTGG   8201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8151 GTCGTTGCCTTTATTGACAACAAGGGATGGATGACCCACTAAAATCTTGG   8200
+
+VANDAL11        8202 TTTTCTTACCATACGCGAAGCGACCATCTAGCTTGGTAGATAGAGTACGG   8251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8201 TTTTCTTACCATACGCGAAGCGACCATCTAGCTTGGTAGATAGAGTACGG   8250
+
+VANDAL11        8252 AGACGCTTACTTCTTCTCCCACAAATTCCATCAGCGTTGTTAGCATTCAT   8301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8251 AGACGCTTACTTCTTCTCCCACAAATTCCATCAGCGTTGTTAGCATTCAT   8300
+
+VANDAL11        8302 ATCATCCTGCTACTAACTGGCATTATTAATAAAAGGTGGCAAATCATATT   8351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8301 ATCATCCTGCTACTAACTGGCATTATTAATAAAAGGTGGCAAATCATATT   8350
+
+VANDAL11        8352 TAGGTTACAAAAAAAAAATTACAGTTGACGAGATATGCATGGGTTAAGAT   8401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8351 TAGGTTACAAAAAAAAAATTACAGTTGACGAGATATGCATGGGTTAAGAT   8400
+
+VANDAL11        8402 CTTAGCCTCTTTTGAAGGAGGGAGGGGTGGTGGTAAAATCCTAAAAGATT   8451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8401 CTTAGCCTCTTTTGAAGGAGGGAGGGGTGGTGGTAAAATCCTAAAAGATT   8450
+
+VANDAL11        8452 AAGCATATTAAAGTAAACATGTAACCAATATTATATCAGATATACAATTA   8501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8451 AAGCATATTAAAGTAAACATGTAACCAATATTATATCAGATATACAATTA   8500
+
+VANDAL11        8502 GGGGATATACCTCGGGGATATACCTCATCTGAATCCGGTGCAGAACGAGT   8551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8501 GGGGATATACCTCGGGGATATACCTCATCTGAATCCGGTGCAGAACGAGT   8550
+
+VANDAL11        8552 CAATTGAATAAAAAGTAAGAATTAGATAGTTATAGCAATTAGGAGATAAT   8601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8551 CAATTGAATAAAAAGTAAGAATTAGATAGTTATAGCAATTAGGAGATAAT   8600
+
+VANDAL11        8602 TAAAATATTAGTAGGAAACAAAACCCAAACACCTTGAGGATAGAAGACAC   8651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8601 TAAAATATTAGTAGGAAACAAAACCCAAACACCTTGAGGATAGAAGACAC   8650
+
+VANDAL11        8652 AACTGAGGGGGTGCCCCTGCCAACATCCTGTCAAAACAGTTCAAAAATGA   8701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8651 AACTGAGGGGGTGCCCCTGCCAACATCCTGTCAAAACAGTTCAAAAATGA   8700
+
+VANDAL11        8702 GAATTACCGATAAAAAAACTTATGGAAATAATAACATACGATGTGTAGTT   8751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8701 GAATTACCGATAAAAAAACTTATGGAAATAATAACATACGATGTGTAGTT   8750
+
+VANDAL11        8752 ACACATTAACCTGTTCATAAAATCTCTTAATAGGGTCACGACCGTCGCCG   8801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8751 ACACATTAACCTGTTCATAAAATCTCTTAATAGGGTCACGACCGTCGCCG   8800
+
+VANDAL11        8802 GTATAACAATCGTTACCGCCATATTCCTGATACAATACAACGGTTCCACA   8851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8801 GTATAACAATCGTTACCGCCATATTCCTGATACAATACAACGGTTCCACA   8850
+
+VANDAL11        8852 AAATACAACTTACTGTAAAAGGGGAGATGAAACTTTGAAATCAAAAGTGT   8901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8851 AAATACAACTTACTGTAAAAGGGGAGATGAAACTTTGAAATCAAAAGTGT   8900
+
+VANDAL11        8902 TTTGCGTAACCATAACACGACCGCAACAGAACTAGCATCCAAATACAATG   8951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8901 TTTGCGTAACCATAACACGACCGCAACAGAACTAGCATCCAAATACAATG   8950
+
+VANDAL11        8952 TTATAACACTAATGATGGCATGTAGTAACTTCCAAACAATAACAACACAA   9001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      8951 TTATAACACTAATGATGGCATGTAGTAACTTCCAAACAATAACAACACAA   9000
+
+VANDAL11        9002 CAACATGATAGACTCTGAGACAAATTAAAACTGAGCATAAATTAAAAAAA   9051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9001 CAACATGATAGACTCTGAGACAAATTAAAACTGAGCATAAATTAAAAAAA   9050
+
+VANDAL11        9052 CGATTAATTTTAATTTTATTTGCCGGTGGTTGGTTTACCACTCATGGTTT   9101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9051 CGATTAATTTTAATTTTATTTGCCGGTGGTTGGTTTACCACTCATGGTTT   9100
+
+VANDAL11        9102 TTATTTTAAAATTATAAACGATCTACTCAGTAATAAAGCATTTGCCCAAC   9151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9101 TTATTTTAAAATTATAAACGATCTACTCAGTAATAAAGCATTTGCCCAAC   9150
+
+VANDAL11        9152 TTAAAGACTGAACATAAATAGAACTCAAATTCCAAACTAAAAAAAGGTTT   9201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9151 TTAAAGACTGAACATAAATAGAACTCAAATTCCAAACTAAAAAAAGGTTT   9200
+
+VANDAL11        9202 ACTTAACTCCTAACATCGCTATCATTGAAAACTTAATCTTTACAAGTAGA   9251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9201 ACTTAACTCCTAACATCGCTATCATTGAAAACTTAATCTTTACAAGTAGA   9250
+
+VANDAL11        9252 AGAGTAGGTAAACGCTGGAGAAAAGCGTAAGGAGGTAACAACATTATGGG   9301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9251 AGAGTAGGTAAACGCTGGAGAAAAGCGTAAGGAGGTAACAACATTATGGG   9300
+
+VANDAL11        9302 TGCTAGTTTAGCTGCTAACCAAAATATCCGGAAACTCCGCGGTCACATCA   9351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9301 TGCTAGTTTAGCTGCTAACCAAAATATCCGGAAACTCCGCGGTCACATCA   9350
+
+VANDAL11        9352 ACACCAACCATTCCATCATCAGTCGCGGGGGCAACCTAATCGACGATGAG   9401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9351 ACACCAACCATTCCATCATCAGTCGCGGGGGCAACCTAATCGACGATGAG   9400
+
+VANDAL11        9402 TTCAAATAGTGAAGCCAGATTCAAACACATAAAAACCGTGCTAGTATGAA   9451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9401 TTCAAATAGTGAAGCCAGATTCAAACACATAAAAACCGTGCTAGTATGAA   9450
+
+VANDAL11        9452 ATAGACGTGTTACCTGGCCATCTTCTCCAGCATTCGTCAATTGGCTTACA   9501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9451 ATAGACGTGTTACCTGGCCATCTTCTCCAGCATTCGTCAATTGGCTTACA   9500
+
+VANDAL11        9502 GAACCACCTGCAGGCTGGGAACATTGAACCTAGCGCATGAAACAACACAA   9551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9501 GAACCACCTGCAGGCTGGGAACATTGAACCTAGCGCATGAAACAACACAA   9550
+
+VANDAL11        9552 CTTTGGATAAAACAACCGACAGAGCAAAATACGGCATTATGAGGATAATA   9601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9551 CTTTGGATAAAACAACCGACAGAGCAAAATACGGCATTATGAGGATAATA   9600
+
+VANDAL11        9602 TCTACGCCGCTAACTTCCACGTTATCGAGAGATTCCTCTACGTTATCGAG   9651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9601 TCTACGCCGCTAACTTCCACGTTATCGAGAGATTCCTCTACGTTATCGAG   9650
+
+VANDAL11        9652 AGATTCCTCTGGGTTTACAACCGTTTCATTGGATGAAACCTTGTAACCAG   9701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9651 AGATTCCTCTGGGTTTACAACCGTTTCATTGGATGAAACCTTGTAACCAG   9700
+
+VANDAL11        9702 ACTTTTAAACATATGAAAAATATGTAATCAACAGGATTCAACAAGGGAGT   9751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9701 ACTTTTAAACATATGAAAAATATGTAATCAACAGGATTCAACAAGGGAGT   9750
+
+VANDAL11        9752 ATGTAAAGCAGAATTACAATTAAAAAGAGAAATTCAGTTTAATGTTTCTT   9801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9751 ATGTAAAGCAGAATTACAATTAAAAAGAGAAATTCAGTTTAATGTTTCTT   9800
+
+VANDAL11        9802 TATAAAACAAACCTCATTACACACCACTGCAGGGGGGATGTCGTCTACCA   9851
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9801 TATAAAACAAACCTCATTACACACCACTGCAGGGGGGATGTCGTCTACCA   9850
+
+VANDAL11        9852 CGAAATCAGTATTAGCGTCCTACAAAGATATTTTTTCCAACATTAGGGTC   9901
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9851 CGAAATCAGTATTAGCGTCCTACAAAGATATTTTTTCCAACATTAGGGTC   9900
+
+VANDAL11        9902 GGGATAATAGAGAGAAATGCAATTCGTTGAAACACTAATCACAATACTAA   9951
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9901 GGGATAATAGAGAGAAATGCAATTCGTTGAAACACTAATCACAATACTAA   9950
+
+VANDAL11        9952 GATCTTAACTCCTTACCTCTGGCGTATCTTTATCCGCATCAACGTTGACT  10001
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900      9951 GATCTTAACTCCTTACCTCTGGCGTATCTTTATCCGCATCAACGTTGACT  10000
+
+VANDAL11       10002 ACGTCAGCAACAACTCGATTTGGTGCCTACAGCACAAATGAACACATTAA  10051
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10001 ACGTCAGCAACAACTCGATTTGGTGCCTACAGCACAAATGAACACATTAA  10050
+
+VANDAL11       10052 CAGCTACCCAACTCATTATCTGCTATGTTACATTACCTAATCCATAAAAT  10101
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10051 CAGCTACCCAACTCATTATCTGCTATGTTACATTACCTAATCCATAAAAT  10100
+
+VANDAL11       10102 GTTTGGAGTAATCAAAGTGTATTTAAATATAATTAATTGCTATCCAACAC  10151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10101 GTTTGGAGTAATCAAAGTGTATTTAAATATAATTAATTGCTATCCAACAC  10150
+
+VANDAL11       10152 ATCTCATTGCCCTCCAGATTGGGGGGGAGTCCGTCAACACATGAATCTAT  10201
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10151 ATCTCATTGCCCTCCAGATTGGGGGGGAGTCCGTCAACACATGAATCTAT  10200
+
+VANDAL11       10202 GTTATTTGGCTAATAACAAATTACGACAACGGTTATTGTCAAGGCAACGT  10251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10201 GTTATTTGGCTAATAACAAATTACGACAACGGTTATTGTCAAGGCAACGT  10250
+
+VANDAL11       10252 AATCGAAATACAATTCGTTAACAACCCATTTGACATGCTAAGAGACATAT  10301
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10251 AATCGAAATACAATTCGTTAACAACCCATTTGACATGCTAAGAGACATAT  10300
+
+VANDAL11       10302 CAGCTAACCTCTTGACTTCCACCGTCACCAAAGTTTGTACCAAAATCAGC  10351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10301 CAGCTAACCTCTTGACTTCCACCGTCACCAAAGTTTGTACCAAAATCAGC  10350
+
+VANDAL11       10352 TCCTACAAAGACTGGGCCCTACAAAACCAAAATAACAACAAAATTATAAT  10401
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10351 TCCTACAAAGACTGGGCCCTACAAAACCAAAATAACAACAAAATTATAAT  10400
+
+VANDAL11       10402 CCCCCAGTTGCGTTAGTGGCTAATATAACTGTTAAACATGTAAGTGACAT  10451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10401 CCCCCAGTTGCGTTAGTGGCTAATATAACTGTTAAACATGTAAGTGACAT  10450
+
+VANDAL11       10452 AATGATTACTATAATTACTGACTAGTGACTTCACTTCCGTTGGAAAAGGT  10501
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10451 AATGATTACTATAATTACTGACTAGTGACTTCACTTCCGTTGGAAAAGGT  10500
+
+VANDAL11       10502 CTCACCTCGGAATCGTGAATCACGTCAGCCTCGGCTAGTTGATCTTCCGC  10551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10501 CTCACCTCGGAATCGTGAATCACGTCAGCCTCGGCTAGTTGATCTTCCGC  10550
+
+VANDAL11       10552 TACAGCATCAGATGAGACGTTTTCTTCTACCTGTACCCATAAGAAAAAAA  10601
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10551 TACAGCATCAGATGAGACGTTTTCTTCTACCTGTACCCATAAGAAAAAAA  10600
+
+VANDAL11       10602 AACGATGTGAAAAGATGACACCGCAATGATTGAGTAAACCAGAAACACCT  10651
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10601 AACGATGTGAAAAGATGACACCGCAATGATTGAGTAAACCAGAAACACCT  10650
+
+VANDAL11       10652 AGAGCAGTTTAAGAAACTGCAATCCACAAAAATAATTATACACTAAAAAA  10701
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10651 AGAGCAGTTTAAGAAACTGCAATCCACAAAAATAATTATACACTAAAAAA  10700
+
+VANDAL11       10702 AAGATTATCGTCAATTACCATTTTCTCAGTAGGATCAGAGGCATCTGTGA  10751
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10701 AAGATTATCGTCAATTACCATTTTCTCAGTAGGATCAGAGGCATCTGTGA  10750
+
+VANDAL11       10752 CATCATTAACGCCCTGCAAAACAATTAAGGCGATTGTTTGTAATATTCAT  10801
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10751 CATCATTAACGCCCTGCAAAACAATTAAGGCGATTGTTTGTAATATTCAT  10800
+
+VANDAL11       10802 AAGCATCATAATCCA-----------------------------------  10816
+                     |||||||||||||||                                   
+AT4TE21900     10801 AAGCATCATAATCCACAAAAACAATTATACCACCAAAAAACGTAATTATG  10850
+
+VANDAL11       10817 -------------TACACTAAAAAATAGATTATCATCGATTACCATTTTT  10853
+                                  |||||||||||||||||||||||||||||||||||||
+AT4TE21900     10851 ATTCCTTTATCTCTACACTAAAAAATAGATTATCATCGATTACCATTTTT  10900
+
+VANDAL11       10854 TCGGTAGGGCCAGAGGCATCCGTAACATCGTTAGCGCCCGGCAAAACAAT  10903
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10901 TCGGTAGGGCCAGAGGCATCCGTAACATCGTTAGCGCCCGGCAAAACAAT  10950
+
+VANDAL11       10904 TAAGGCGATTGTTTGTAATATCCATGAGCATCACAATCCAAACCCCTCCC  10953
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     10951 TAAGGCGATTGTTTGTAATATCCATGAGCATCACAATCCAAACCCCTCCC  11000
+
+VANDAL11       10954 CCCAATGGATATTTAATAGATATGGGAACAGTTAGTCACTAAATAAAATA  11003
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11001 CCCAATGGATATTTAATAGATATGGGAACAGTTAGTCACTAAATAAAATA  11050
+
+VANDAL11       11004 ACGCCTAACAATTTAATTAACTTAAACAAACTAACCACCAAAACCCAAGT  11053
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11051 ACGCCTAACAATTTAATTAACTTAAACAAACTAACCACCAAAACCCAAGT  11100
+
+VANDAL11       11054 TTAAGTAACTACAGTCCACAAAAACAATTATCCATTAAAAACGAGATTAT  11103
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11101 TTAAGTAACTACAGTCCACAAAAACAATTATCCATTAAAAACGAGATTAT  11150
+
+VANDAL11       11104 ACACCATTACCACTTTATCGGTTGGATCAGAGACATCCGTAACGTCCTTG  11153
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11151 ACACCATTACCACTTTATCGGTTGGATCAGAGACATCCGTAACGTCCTTG  11200
+
+VANDAL11       11154 GCGCCCTGAAAAAAAAAAATAAAGCGCACATGAATATTTTATAGATATGC  11203
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11201 GCGCCCTGAAAAAAAAAAATAAAGCGCACATGAATATTTTATAGATATGC  11250
+
+VANDAL11       11204 TAACAGTTAGTAACTACATAAAATGACGCTTAAGAAGTTAATAAACTTAA  11253
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11251 TAACAGTTAGTAACTACATAAAATGACGCTTAAGAAGTTAATAAACTTAA  11300
+
+VANDAL11       11254 ACAAACCAACCCACCAATACGTGCGGGCTCAATTGGACCTCGGATCGGAT  11303
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11301 ACAAACCAACCCACCAATACGTGCGGGCTCAATTGGACCTCGGATCGGAT  11350
+
+VANDAL11       11304 ATGGTCTTCCATTGGAGCAACGTTGTCACGCTAAGAAAAAACGAAAAAAA  11353
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11351 ATGGTCTTCCATTGGAGCAACGTTGTCACGCTAAGAAAAAACGAAAAAAA  11400
+
+VANDAL11       11354 TTCTCAGAATTATAACTCAAAACAATCATTGCCTTGATAACAATTTGTAA  11403
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11401 TTCTCAGAATTATAACTCAAAACAATCATTGCCTTGATAACAATTTGTAA  11450
+
+VANDAL11       11404 AAAAAGTTAGGTGAAGTCATCAACGCAATCATGGCAGAAAAAGACAACAG  11453
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11451 AAAAAGTTAGGTGAAGTCATCAACGCAATCATGGCAGAAAAAGACAACAG  11500
+
+VANDAL11       11454 ATAAGACAGTTTAAAAAGACTACAATCAAAAAAAAAGAAAAAAGAAAAAC  11503
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11501 ATAAGACAGTTTAAAAAGACTACAATCAAAAAAAAAGAAAAAAGAAAAAC  11550
+
+VANDAL11       11504 TCACGCCAGGGTTATCTTCGGATTCCATTATATCAAAAGTAGCAGGCCCC  11553
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11551 TCACGCCAGGGTTATCTTCGGATTCCATTATATCAAAAGTAGCAGGCCCC  11600
+
+VANDAL11       11554 TCTCTAACATTGTTAGCAGCCTGCACAACAATAGAAGATAATAATTTTCA  11603
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11601 TCTCTAACATTGTTAGCAGCCTGCACAACAATAGAAGATAATAATTTTCA  11650
+
+VANDAL11       11604 ACTATTTAAAATAACAACTAAAAGATGAGTTAACTGCTACAAAAAAACTA  11653
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11651 ACTATTTAAAATAACAACTAAAAGATGAGTTAACTGCTACAAAAAAACTA  11700
+
+VANDAL11       11654 ACTGATGGGTTTGGACTCATGTCACCTGAGGATCGAACATCATCTCCCAC  11703
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11701 ACTGATGGGTTTGGACTCATGTCACCTGAGGATCGAACATCATCTCCCAC  11750
+
+VANDAL11       11704 TGGCTCAACATTGTCGCGCTAATAACCACAAATAACACCCGCTTGATATT  11753
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11751 TGGCTCAACATTGTCGCGCTAATAACCACAAATAACACCCGCTTGATATT  11800
+
+VANDAL11       11754 ATACATATATTGTGCCAGTTATGAACTATTTAGAATAACACCTTAGTAGT  11803
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11801 ATACATATATTGTGCCAGTTATGAACTATTTAGAATAACACCTTAGTAGT  11850
+
+VANDAL11       11804 AATTTATCGGGAAAAAAACCTACCTGCACGTTCGGGCTCAAGCCGCCAGC  11853
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11851 AATTTATCGGGAAAAAAACCTACCTGCACGTTCGGGCTCAAGCCGCCAGC  11900
+
+VANDAL11       11854 AGATCGAACATCGTCTTCCACTAGCTCTACAATATCGCGCTAAAAACCCA  11903
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11901 AGATCGAACATCGTCTTCCACTAGCTCTACAATATCGCGCTAAAAACCCA  11950
+
+VANDAL11       11904 AGAACAAAAATAAACTGAGGACATATCCAGCAAAAAAATTTCATATGTTG  11953
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     11951 AGAACAAAAATAAACTGAGGACATATCCAGCAAAAAAATTTCATATGTTG  12000
+
+VANDAL11       11954 TAAGTGACTTCCCAAAATTACCTCCGACACGTTGAGCCCAACACCACTTG  12003
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12001 TAAGTGACTTCCCAAAATTACCTCCGACACGTTGAGCCCAACACCACTTG  12050
+
+VANDAL11       12004 GAACCTTGTCTGTGTAGTAAGACAAAATCTCATCCACACTAGACTGAACA  12053
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12051 GAACCTTGTCTGTGTAGTAAGACAAAATCTCATCCACACTAGACTGAACA  12100
+
+VANDAL11       12054 TTCGAATTCCTTTGACGGCCATTAGAACCAACATTAGAAGATGGCCGGCG  12103
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12101 TTCGAATTCCTTTGACGGCCATTAGAACCAACATTAGAAGATGGCCGGCG  12150
+
+VANDAL11       12104 GAGAGCATCAAACCCAAAATCATCATTGGGCTCATTCCGACCCACCTCTT  12153
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12151 GAGAGCATCAAACCCAAAATCATCATTGGGCTCATTCCGACCCACCTCTT  12200
+
+VANDAL11       12154 CAGGATTAGAAACACCCCCACTAGCCGGATCTTTGGAAAGTCCACCTTCA  12203
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12201 CAGGATTAGAAACACCCCCACTAGCCGGATCTTTGGAAAGTCCACCTTCA  12250
+
+VANDAL11       12204 ATGACAATGTTTATAATGAACCAATCCATAAGCGCAACAATGATTAATTT  12253
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12251 ATGACAATGTTTATAATGAACCAATCCATAAGCGCAACAATGATTAATTT  12300
+
+VANDAL11       12254 CCCCTGCGCTTCAAGCTTTTTGTCCAACAAACGGGAAATAGAATCCATAG  12303
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12301 CCCCTGCGCTTCAAGCTTTTTGTCCAACAAACGGGAAATAGAATCCATAG  12350
+
+VANDAL11       12304 AAACGGTCCCTGAACTACTACCTTCCTCTGGAACGGGTCTTTGATGTTTG  12353
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12351 AAACGGTCCCTGAACTACTACCTTCCTCTGGAACGGGTCTTTGATGTTTG  12400
+
+VANDAL11       12354 GTCCTGACCCTACTAGTGTTCTTTGATGGTTTGCCTTTCCTGTTCCGACC  12403
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12401 GTCCTGACCCTACTAGTGTTCTTTGATGGTTTGCCTTTCCTGTTCCGACC  12450
+
+VANDAL11       12404 ACCATTTGACTTAACACACCTTTTTTGTTTTTTGGAAGCCAATTGCATCT  12453
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12451 ACCATTTGACTTAACACACCTTTTTTGTTTTTTGGAAGCCAATTGCATCT  12500
+
+VANDAL11       12454 GTGATGGGAAACATCCACCACCAAACATATCATTCTTGAAAATAAGACCC  12503
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12501 GTGATGGGAAACATCCACCACCAAACATATCATTCTTGAAAATAAGACCC  12550
+
+VANDAL11       12504 TGCTCAGCCAATATTAAAATATTATCGACTCTCTCATCTTCATCGTCTTC  12553
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12551 TGCTCAGCCAATATTAAAATATTATCGACTCTCTCATCTTCATCGTCTTC  12600
+
+VANDAL11       12554 AGACCACGACAAATCTTCCTCAGGGTCCAGATCAAGGTCAGGGCAAATAA  12603
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12601 AGACCACGACAAATCTTCCTCAGGGTCCAGATCAAGGTCAGGGCAAATAA  12650
+
+VANDAL11       12604 TAGTAGCAACACGAACCTGCAATAGTGAATCCCGATAACAAAATCAGTCA  12653
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12651 TAGTAGCAACACGAACCTGCAATAGTGAATCCCGATAACAAAATCAGTCA  12700
+
+VANDAL11       12654 GATAACTTGATTAATGGTGAGCACGCTTAGTGGTTAACTATGAAGATGTC  12703
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12701 GATAACTTGATTAATGGTGAGCACGCTTAGTGGTTAACTATGAAGATGTC  12750
+
+VANDAL11       12704 ACCATTGCTAACAGATAACAAAATAACCGACAATACTATTATCGAGTTTT  12753
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12751 ACCATTGCTAACAGATAACAAAATAACCGACAATACTATTATCGAGTTTT  12800
+
+VANDAL11       12754 ACTAATAGACCATTGTATGGTCTCGCGTGTTGAAACCAACTACTGTGTTA  12803
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12801 ACTAATAGACCATTGTATGGTCTCGCGTGTTGAAACCAACTACTGTGTTA  12850
+
+VANDAL11       12804 AACAATAACAAGTTTAATGAATAATAGTATTACCGAGCATTTAGCATCCA  12853
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12851 AACAATAACAAGTTTAATGAATAATAGTATTACCGAGCATTTAGCATCCA  12900
+
+VANDAL11       12854 GCTCCTTCGCATGCCCTAGCTTGAAAGCGACGGAATCACGAGGGGCCTCT  12903
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12901 GCTCCTTCGCATGCCCTAGCTTGAAAGCGACGGAATCACGAGGGGCCTCT  12950
+
+VANDAL11       12904 TCGAAATTGTCTTCAGCCTCTTCTGATTTTTGACTCAATGGTCTCACCAA  12953
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     12951 TCGAAATTGTCTTCAGCCTCTTCTGATTTTTGACTCAATGGTCTCACCAA  13000
+
+VANDAL11       12954 CTACATGACCTTCTTGAATAGATGGGGCTGCTTGTAATACCACCAACTGC  13003
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13001 CTACATGACCTTCTTGAATAGATGGGGCTGCTTGTAATACCACCAACTGC  13050
+
+VANDAL11       13004 AACGCGTACAACAGACCCTGAACAACAAAACAGGTACTAGCAAGTTGTTA  13053
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13051 AACGCGTACAACAGACCCTGAACAACAAAACAGGTACTAGCAAGTTGTTA  13100
+
+VANDAL11       13054 AATTTCCCTCTCTTTAATCGACTTTATCATCATCTCGAATGTGAAACGGC  13103
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13101 AATTTCCCTCTCTTTAATCGACTTTATCATCATCTCGAATGTGAAACGGC  13150
+
+VANDAL11       13104 TTCATGGATAAGAGAGAAATGCTTCAACATCCTCAGCCATTTCAGCGTGA  13153
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13151 TTCATGGATAAGAGAGAAATGCTTCAACATCCTCAGCCATTTCAGCGTGA  13200
+
+VANDAL11       13154 GCCTTAACAATCTTGGGATAGTGCGAGGTAGGGACAAGAAAGCCGTCGAC  13203
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13201 GCCTTAACAATCTTGGGATAGTGCGAGGTAGGGACAAGAAAGCCGTCGAC  13250
+
+VANDAL11       13204 AATGGCCAAACAAGCACATCTGATCCTCATGCCGGGATCTGAGATAATCC  13253
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13251 AATGGCCAAACAAGCACATCTGATCCTCATGCCGGGATCTGAGATAATCC  13300
+
+VANDAL11       13254 TTCTCTTCAACATTGTAATCACCCGGTCAACAGTTACATCTTCTTCAAGC  13303
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13301 TTCTCTTCAACATTGTAATCACCCGGTCAACAGTTACATCTTCTTCAAGC  13350
+
+VANDAL11       13304 CCAAACAGCTTATTGTAAAATGGTATCCTCTTCCCCGCAGTGCCTTTCTT  13353
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13351 CCAAACAGCTTATTGTAAAATGGTATCCTCTTCCCCGCAGTGCCTTTCTT  13400
+
+VANDAL11       13354 CCTCTTCATCTTCAAGCTCGGATATTTTCCACACTGTAACCCGATAACTA  13403
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13401 CCTCTTCATCTTCAAGCTCGGATATTTTCCACACTGTAACCCGATAACTA  13450
+
+VANDAL11       13404 TCTTGAACTCTCTCAACGAAAAGCGAATAGGAGTGCCGGCAAATAAAACC  13453
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13451 TCTTGAACTCTCTCAACGAAAAGCGAATAGGAGTGCCGGCAAATAAAACC  13500
+
+VANDAL11       13454 CATATCTCATTCGGTTTCGCAACTTCCAACTGCCTACCCAGAATGAAAAT  13503
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13501 CATATCTCATTCGGTTTCGCAACTTCCAACTGCCTACCCAGAATGAAAAT  13550
+
+VANDAL11       13504 TCTAAAGCTCGCGGACCACGCGAGTAGTTTGGGGAATTCCAACAAGCGAC  13553
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13551 TCTAAAGCTCGCGGACCACGCGAGTAGTTTGGGGAATTCCAACAAGCGAC  13600
+
+VANDAL11       13554 CGAACGAAGATCGAGCAATGAACTGCCGCTCTCCATCGTCTAGGGCATTG  13603
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13601 CGAACGAAGATCGAGCAATGAACTGCCGCTCTCCATCGTCTAGGGCATTG  13650
+
+VANDAL11       13604 ATAACACACCACATAAGGTTTTCATTTTCTGATACACGTTGACCCTCTCG  13653
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13651 ATAACACACCACATAAGGTTTTCATTTTCTGATACACGTTGACCCTCTCG  13700
+
+VANDAL11       13654 TCGTGTGGTTCTTCACGAAACGCAATCAGTCGGGGAGGGAGAGGGAGAGG  13703
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13701 TCGTGTGGTTCTTCACGAAACGCAATCAGTCGGGGAGGGAGAGGGAGAGG  13750
+
+VANDAL11       13704 CGCCATCTTCCTACAAAAGAAACAAACAAAGCCATTAGTCAACAAATGAA  13753
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13751 CGCCATCTTCCTACAAAAGAAACAAACAAAGCCATTAGTCAACAAATGAA  13800
+
+VANDAL11       13754 GGACTGATGACAAAAAGAGGGGAAAAAATGAACTTACTATAACGTTTGTC  13803
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13801 GGACTGATGACAAAAAGAGGGGAAAAAATGAACTTACTATAACGTTTGTC  13850
+
+VANDAL11       13804 AGGAAAAATCCCAGATCTGAGAGACGAGTTGATGATCGAAAATAAAAACT  13853
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13851 AGGAAAAATCCCAGATCTGAGAGACGAGTTGATGATCGAAAATAAAAACT  13900
+
+VANDAL11       13854 GCCGAAAAAGCTAATTTTTGGGAAAGTTGCTCTGATGATTTCTTCCGCCT  13903
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13901 GCCGAAAAAGCTAATTTTTGGGAAAGTTGCTCTGATGATTTCTTCCGCCT  13950
+
+VANDAL11       13904 CCAAACCGTCATTCATGATATATAAACTTGAAAAGTAGCGACCGTTCGAT  13953
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     13951 CCAAACCGTCATTCATGATATATAAACTTGAAAAGTAGCGACCGTTCGAT  14000
+
+VANDAL11       13954 AACAAGCTAATTAAAAAAAAACATCACACCTCCCCAAAAAAATCTAGAGA  14003
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     14001 AACAAGCTAATTAAAAAAAAACATCACACCTCCCCAAAAAAATCTAGAGA  14050
+
+VANDAL11       14004 GAATCAACTCCTACACTCTAGCAATAATATCGTCTACGCTCTACTCCTCT  14053
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     14051 GAATCAACTCCTACACTCTAGCAATAATATCGTCTACGCTCTACTCCTCT  14100
+
+VANDAL11       14054 CGATATCGAAATCATAGGGGTACATGCGTAATCTTTGAGTTAACAGTAGC  14103
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     14101 CGATATCGAAATCATAGGGGTACATGCGTAATCTTTGAGTTAACAGTAGC  14150
+
+VANDAL11       14104 TGGGGAACTGTTAAGAAAAATGCGACCTAAATAATGAATCCTCTGGGCAT  14153
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+AT4TE21900     14151 TGGGGAACTGTTAAGAAAAATGCGACCTAAATAATGAATCCTCTGGGCAT  14200
+
+VANDAL11       14154 ACGCAATGATATT  14166
+                     |||||||||||||
+AT4TE21900     14201 ACGCAATGATATT  14213
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT4TE07405
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 202
+# Identity:     119/202 (58.9%)
+# Similarity:   119/202 (58.9%)
+# Gaps:          49/202 (24.3%)
+# Score: 311.0
+# 
+#
+#=======================================
+
+VANDAL11        5061 GTCCCCAGATAGAT-----ATTACTTCGGTTTGGTTCATGAAGCCGACAA   5105
+                     ||||||     |||     |||.|.||||||||||.|.|.||.||||.|.
+AT4TE07405         1 GTCCCC-----GATTCAAAATTTCGTCGGTTTGGTGCGTAAACCCGAGAT     45
+
+VANDAL11        5106 AGAAACAGTGACCCAGTCACAA--TGAAACCAAACCAAGC-----CGTAC   5148
+                     ||||.|| ||...|.||| .||  |.||||||||..||.|     |||  
+AT4TE07405        46 AGAACCA-TGTTTCGGTC-GAAGCTTAAACCAAAAAAATCCTCTTCGT--     91
+
+VANDAL11        5149 AGCTACAAATATAACCCGA-TAATTGCCGTGAGTATTC-CAGGGTTATAA   5196
+                        ||.|   ||||||||| ..||||.|||   |.||| ||         
+AT4TE07405        92 ---TATA---ATAACCCGACCCATTGTCGT---TGTTCACA---------    123
+
+VANDAL11        5197 TCCCCCAAATTAAAAACAGAAGAACCCTAATTTGGAACC---AGAACCCG   5243
+                          ||||.|.|||||..||.||.||.||.|||.||.|   |||||||.
+AT4TE07405       124 -----CAAAATCAAAACCTAAAAATCCCAAATTGAAATCTTAAGAACCCT    168
+
+VANDAL11        5244 AA   5245
+                     ||
+AT4TE07405       169 AA    170
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT4TE11460
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 26
+# Identity:      21/26 (80.8%)
+# Similarity:    21/26 (80.8%)
+# Gaps:           3/26 (11.5%)
+# Score: 67.0
+# 
+#
+#=======================================
+
+VANDAL11        4908 TAATAACATTACCTAT-ACGCTGAAT   4932
+                     |.||||||||| .||| ||||| |||
+AT4TE11460         1 TGATAACATTA-GTATCACGCT-AAT     24
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT4TE10185
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 4628
+# Identity:    2311/4628 (49.9%)
+# Similarity:  2311/4628 (49.9%)
+# Gaps:        1626/4628 (35.1%)
+# Score: 5565.0
+# 
+#
+#=======================================
+
+VANDAL11        2236 AACATAT--CGTTAACGCCTGATTCGT-------TGATTGACTTGCAGAT   2276
+                     |||||||  ||||||.|   |.||.||       |.|||||    |||||
+AT4TE10185         1 AACATATCGCGTTAATG---GTTTTGTGTTTTTGTCATTGA----CAGAT     43
+
+VANDAL11        2277 GCCCTTCAGCGAGCCCTGAAGGATGCTGATTACGAGGGGGGTGACATTTA   2326
+                     ||.||.||||||||..|.||.||||||.|.|||||.||||.|||.||||.
+AT4TE10185        44 GCTCTCCAGCGAGCGATTAAAGATGCTAACTACGAAGGGGATGATATTTT     93
+
+VANDAL11        2327 CATCAGCCGCATT-TTTAAGAATAAAGAGGATTGTTCAACTAAGCTCGCT   2375
+                     |.|..|..| ||| ||.||.||.|||||.||.||||..||.||.||.||.
+AT4TE10185        94 CGTGGGAAG-ATTGTTCAAAAACAAAGACGACTGTTGCACAAAACTAGCA    142
+
+VANDAL11        2376 ATTCATGCGATCCGGAGGAAGTTCCATTTCATTTACGTAAAGTCCGGGCC   2425
+                     ||.|||||.|||||..|.||||||||.|||||..|.|..|||||..|.||
+AT4TE10185       143 ATACATGCTATCCGACGAAAGTTCCACTTCATACATGCCAAGTCGTGTCC    192
+
+VANDAL11        2426 AAATGTTGTGGCGGCTGTGTGCGTCAGCCATACATGTCCATGGTGGGTTT   2475
+                     ||.|.|.|||...|||||.||||||.||...||.||.||||||.|.||||
+AT4TE10185       193 AACTATGGTGATAGCTGTTTGCGTCGGCACCACGTGCCCATGGCGAGTTT    242
+
+VANDAL11        2476 ATGCAACTAAGCTGCCAGATAGTGATAC------GTTCGAGGTTAGGA--   2517
+                     |||||||.|||.|   |||   ||||||      |||.||.||.||||  
+AT4TE10185       243 ATGCAACAAAGTT---AGA---TGATACTGAACGGTTTGAAGTGAGGACG    286
+
+VANDAL11        2518 GCACGACTTCAACACACACGTGTAGCGTGGATGCTAAAGGGGACTTCCAC   2567
+                     ||...|||.||  .|||||.||.||||||.|.||.|..||||||||||||
+AT4TE10185       287 GCGATACTGCA--GCACACCTGCAGCGTGTACGCCAGGGGGGACTTCCAC    334
+
+VANDAL11        2568 AAGCAAGCATCAACGGCTGTGATTGGGAAGTTGATGGGAACTAAATACAT   2617
+                     |||||||||||.||.||..|.||.||||||.|||||.|.||.||.||..|
+AT4TE10185       335 AAGCAAGCATCGACCGCGATTATAGGGAAGGTGATGTGCACCAAGTATCT    384
+
+VANDAL11        2618 AGGAGTGGGCCGTGGACCTCGACCTAATGAGCTTAGAAGAATG-TTACGC   2666
+                     .||.|.|||..|.||.|||.|||||||||||||..|||||||| ||| |.
+AT4TE10185       385 TGGTGGGGGTAGAGGGCCTAGACCTAATGAGCTGCGAAGAATGCTTA-GG    433
+
+VANDAL11        2667 CAAGAGTTTAACCTCAACGTCTCTTATTGGAAGGCATGGAGGACAAGAGA   2716
+                     ||.|||||.|.||||||.||.||.||.|.|||.||.|||||..|.|||||
+AT4TE10185       434 CAGGAGTTCAGCCTCAATGTTTCGTACTAGAAAGCGTGGAGAGCGAGAGA    483
+
+VANDAL11        2717 AATAGCGATGGACAATGCAATGGGGTCTGCTATGGGGAGTTACGCTCTAA   2766
+                     .|||||.||.||||||||.||||||||.|||||||||||||..||..|||
+AT4TE10185       484 CATAGCCATAGACAATGCTATGGGGTCCGCTATGGGGAGTTTTGCATTAA    533
+
+VANDAL11        2767 ACCAACCATACTTTAAGCTGCTTTTGGAGACAAATCCCAACTCACTTGTG   2816
+                     .|||.|||||.||.||.||.||..|||..||||||.|.|||||..||...
+AT4TE10185       534 TCCAGCCATATTTCAAACTCCTAATGGCAACAAATTCAAACTCCATTACC    583
+
+VANDAL11        2817 GCAATGGAAACTGAAAAGGATGCTTCAGGGGTAGAGA---GATTCAAGTA   2863
+                     ||..|.||.|||||||.||||  ..||.||| ||..|   |.|||||.||
+AT4TE10185       584 GCGTTAGAGACTGAAACGGAT--AACACGGG-AGTTATTCGTTTCAAATA    630
+
+VANDAL11        2864 CTTGTTTTTTACCCTTCATGCCTGTGTTCTAGGCTATCCTTACATGAGGA   2913
+                     ..|.||.||..|.|||||..|.|.|.|...|||.|||.||||||||||.|
+AT4TE10185       631 TCTATTCTTCGCACTTCACACATCTATCAAAGGGTATGCTTACATGAGAA    680
+
+VANDAL11        2914 AGGTGATAGTTATCGACGGTACACACCTACGGGGACGATATGGGGGATGT   2963
+                     ||||..|.||.|||||.||.||.|||.||.|.|||||.||.||.||.|||
+AT4TE10185       681 AGGTTGTTGTCATCGATGGAACGCACTTAAGAGGACGGTACGGAGGGTGT    730
+
+VANDAL11        2964 TTAGTTGCAGCTAGTGCGCAAGACGCCAATTTCCAAATATTCCCCATTGC   3013
+                     .|.||.||.||.||.||.|||||.||.|||||||||.|.|||||..|.||
+AT4TE10185       731 CTTGTAGCTGCAAGCGCCCAAGATGCGAATTTCCAAGTTTTCCCACTAGC    780
+
+VANDAL11        3014 ATTTGGAATAGTAAACAGCGAGAACGATGAGGCGTGGACTTGGTTCATGA   3063
+                     .|||||.||.||.||.||.||.||||||||||||||.||.||||||||||
+AT4TE10185       781 CTTTGGGATTGTTAATAGTGAAAACGATGAGGCGTGAACCTGGTTCATGA    830
+
+VANDAL11        3064 CTAAGCTGACGGAAGCTATTCCAGATGATCCCGAGTTGGTGTTTATGTCA   3113
+                     ..|||||.||.||||.|.||.||||.||.||.||..|.|||||..|.|||
+AT4TE10185       831 ACAAGCTAACCGAAGTTGTTTCAGACGAGCCAGACCTAGTGTTCGTCTCA    880
+
+VANDAL11        3114 GATAGGCATTCCTCTATTTATGCCAGCATCCGCAAGGTATGGAATTAATC   3163
+                     ||..|.|||.|.||.||.||          ||||||              
+AT4TE10185       881 GACCGACATGCTTCCATCTA----------CGCAAG--------------    906
+
+VANDAL11        3164 TCTATGTTATCCGATAATGTGGGGTTTACCATCAGGCTTTTTATGTTTAC   3213
+                            |||.|||                                    
+AT4TE10185       907 -------TATTCGA------------------------------------    913
+
+VANDAL11        3214 ATAAGCCTTTTTGTACTGTAACAGGTTTACCCCATGTCATCACATGCTGC   3263
+                       |||                  |||.||.||.|||||.|||||.||.||
+AT4TE10185       914 --AAG------------------GGTGTATCCAATGTCCTCACACGCGGC    943
+
+VANDAL11        3264 TTGCATCGTCCACCTCAAGAGAAACATTGAGGCAT-AC----TTTAAAGT   3308
+                     ||||.|.||.||..|.||.||.||||||     || ||    ||.|||..
+AT4TE10185       944 TTGCGTGGTTCATTTGAAAAGGAACATT-----ATCACCATATTCAAAAA    988
+
+VANDAL11        3309 CGAACAGTT----AAGTGCCTTGGTATCAAGTGCAGCTAGAGCTTATCGG   3354
+                     |||| .|||    ||||   ||.||.||||..|||||..||||.||.||.
+AT4TE10185       989 CGAA-GGTTTAGGAAGT---TTAGTTTCAATGGCAGCACGAGCCTACCGC   1034
+
+VANDAL11        3355 CTAACTGACTTCAACAAGATTTTTGCTGAAATTAAGGCTACG-------C   3397
+                     ||||.|||||||||.|||||.|||||.||       |.||||       .
+AT4TE10185      1035 CTAAGTGACTTCAATAAGATATTTGCGGA-------GATACGAGCAGTTA   1077
+
+VANDAL11        3398 ATGGATCGTGCGCTGAGTACCT----GGAAAGTATAGGGTTCGAACATTG   3443
+                     |.||..|.||.||.||.|||||    |||    ||||||||.|||.||||
+AT4TE10185      1078 ACGGTCCATGTGCAGACTACCTAACCGGA----ATAGGGTTTGAATATTG   1123
+
+VANDAL11        3444 GACCAGGTCACATTTTGTTGGGAATCGGTACAACTTCATGACGAGTAATA   3493
+                     |||..||||.|||||||||||..|..|||||||..|.|||||.||.||  
+AT4TE10185      1124 GACACGGTCTCATTTTGTTGGCGAGAGGTACAATGTGATGACAAGCAA--   1171
+
+VANDAL11        3494 TTGTCGAGTCGC--------TAAACAATGTTTT---AACGGCAGCCCGAG   3532
+                           .|||||        |.|||||||||||   ||.|.||   .|.|
+AT4TE10185      1172 ------CGTCGCGGAATGTTTGAACAATGTTTTGACAATGACA---AGGG   1212
+
+VANDAL11        3533 ATTATCCGGTAATCTCAATCTTAGAATCTATCCAG-ACAACCCTCGTATC   3581
+                     |||||||.||.||.||.|||.|||||||| |..|| |||||..|.|||.|
+AT4TE10185      1213 ATTATCCAGTGATATCGATCCTAGAATCT-TGGAGAACAACATTGGTAAC   1261
+
+VANDAL11        3582 ATGGTTTGCGTTTCGTAGGC---AGGCAGCCCAGTTAGAAGACAATATCT   3628
+                     .||||||||   ||..||||   |.|||||.||..|.||||||||.||.|
+AT4TE10185      1262 GTGGTTTGC---TCTGAGGCGAGAAGCAGCTCAAATGGAAGACAACATAT   1308
+
+VANDAL11        3629 TGCCGCCTAAAGTACATAAC---ATGGTTATCGAGAATTTTGAGAAGGGG   3675
+                     ||||.||.||.||   ||||   ||||||||||||||.|||||.||||||
+AT4TE10185      1309 TGCCTCCCAAGGT---TAACGAAATGGTTATCGAGAACTTTGAAAAGGGG   1355
+
+VANDAL11        3676 GCGGGTTTTGTTGTGATAAAGATTGGGGATGGTCTCTATGAGGTTAGAGA   3725
+                     .|..|||.||..||..|.||.||.|||||||||||.||||||||.||.||
+AT4TE10185      1356 TCAAGTTATGCAGTCTTGAAAATCGGGGATGGTCTATATGAGGTAAGGGA   1405
+
+VANDAL11        3726 CAAAA---GAGGCGGAGGGTTTGTAGTTAACCTATTGGAGAGAACATGTA   3772
+                     .|..|   .|.|||||   |..|.||||||.||.|.|||.||||.|||.|
+AT4TE10185      1406 TATGATGGAATGCGGA---TACGCAGTTAATCTGTGGGAAAGAATATGCA   1452
+
+VANDAL11        3773 CATGCAGAGAGTTTAAGCTTCTAACGATTCCTTGCTCTCACGCAATAGTG   3822
+                     |.||||||.|||||.||||.||.||.||.||.||.||.||.||||||...
+AT4TE10185      1453 CCTGCAGACAGTTTCAGCTCCTCACAATACCATGTTCACATGCAATATCC   1502
+
+VANDAL11        3823 GCGGCCATACA-AGAAGGACTCCGAGTGGACACACTGGTTGGGGTTCATC   3871
+                     |||||.|| || ||||||..|..|.||.||||||.|.|||||.||.||.|
+AT4TE10185      1503 GCGGCAAT-CAGAGAAGGCGTAAGGGTTGACACATTTGTTGGAGTACAGC   1551
+
+VANDAL11        3872 ACACCACGCCACAGCTACGGTTGTGTTACCAAGCCCTA----------AT   3911
+                     |||||..||||||.||||     |||||.||     ||          ||
+AT4TE10185      1552 ACACCGTGCCACAACTAC-----TGTTAGCA-----TATAAGGAATTGAT   1591
+
+VANDAL11        3912 AATGCCGGTGCCTGACACGGAGACTCTTACTCCGTCACCAAACGATGTAG   3961
+                     .||||||||.|||||.|.||..||.||..|.||.||||||||.|||||.|
+AT4TE10185      1592 TATGCCGGTACCTGATATGGCTACACTAGCACCATCACCAAATGATGTCG   1641
+
+VANDAL11        3962 G-GGGGGGAGAACTGGCTCCACCGTATGTTTCAAGGCCTCCGGGAAGACC   4010
+                     | ||.|||| |.||.||.||.||.|||||...||||||..|.||..|.||
+AT4TE10185      1642 GAGGAGGGA-AGCTAGCCCCGCCATATGTGAAAAGGCCAGCAGGCCGCCC   1690
+
+VANDAL11        4011 AAGGAAGCGATGTGAAAGCTTTAAATTATTGAACGCTAATCAGGATATCT   4060
+                     |||||                 ||||     ||.||||.||      |||
+AT4TE10185      1691 AAGGA-----------------AAAT-----AAGGCTATTC------TCT   1712
+
+VANDAL11        4061 ------GATATACAATAACTATACAATAATAACTTCTGTTACTTTTGTAA   4104
+                           || ||.|||         |.|||||       |||         
+AT4TE10185      1713 CGGGGAGA-ATTCAA---------AGTAATA-------TTA---------   1736
+
+VANDAL11        4105 AAGACTTCAAGGAAAAGATGTTCGCGCTGCAAGTCGTTGGGCCATAACAG   4154
+                                                   ||||..||.||   |||   
+AT4TE10185      1737 ------------------------------AAGTTATTTGG---TAA---   1750
+
+VANDAL11        4155 GGTAACCTGCAATGGACCAATAACGGTAAGAATTATAATATCGCGATTA-   4203
+                      ||||                     |..||||.|||||||   .|||| 
+AT4TE10185      1751 -GTAA---------------------TGTGAATGATAATAT---TATTAT   1775
+
+VANDAL11        4204 CATATATGTTACTTGATATTTAAAGGGTGGAATT----GTACTGCAGGAG   4249
+                     |||   .|||| .||||.|.||     |||||||    |||.|.|||   
+AT4TE10185      1776 CAT---GGTTA-GTGATTTGTA-----TGGAATTTATGGTAATTCAG---   1813
+
+VANDAL11        4250 ACATAAGAGAAG--GGGAGGA------TCACGTTTTTTTGCGCTGAAAGT   4291
+                          ||| |||  ||||.||      .||||.|       ||.|||   
+AT4TE10185      1814 -----AGA-AAGTCGGGAAGACGGTGCACACGCT-------GCCGAA---   1847
+
+VANDAL11        4292 TGTGGGATGGATGTTGCCAGGATTAA--CAGAATCTGGCATGG---CGAT   4336
+                         ..||||     ||||..||.||  ||    |..|||.||   ||||
+AT4TE10185      1848 ----CCATGG-----GCCACAATCAAGCCA----CATGCAAGGGACCGAT   1884
+
+VANDAL11        4337 GTGAAATAAATAATACGGGGGAAGGGTTCAGAAAATTTTCATTGTACATG   4386
+                                  .||||         |.|.||.||.|||||        
+AT4TE10185      1885 -------------CACGG---------TAACAATATCTTCAT--------   1904
+
+VANDAL11        4387 CGTATGACATCTGTTCCCTAAATGTAAAATTATCGGTACGAATCCAACTA   4436
+                           |.||      ||||    |..|||||                 |
+AT4TE10185      1905 ------AAAT------CCTA----TTTAATTA-----------------A   1921
+
+VANDAL11        4437 TCA-TGAAGTAATGTTTCATATAATGGCAGTATGTGGTATGTTTTTGTTT   4485
+                     .|| ||||          |||| ||||.|.|||                 
+AT4TE10185      1922 GCAGTGAA----------ATAT-ATGGAAATAT-----------------   1943
+
+VANDAL11        4486 ACTGAGTTATCTCTGACTTTAACCTACTAACTAAAGAAGATAATACTAAC   4535
+                                             ||.||||      ||| |.|..||||
+AT4TE10185      1944 ------------------------TAATAAC------AGA-ATTGGTAAC   1962
+
+VANDAL11        4536 CGGAAAAAAT--CGCATCGAAATGATATCGTGAT-ACAAATCATGATAAT   4582
+                         |||.||  |.|.|.|||         |||| ||||..||       
+AT4TE10185      1963 ----AAACATGACCCGTAGAA---------TGATGACAAGGCA-------   1992
+
+VANDAL11        4583 CTATTAACTTTAGTTGATAAGCCTAATGTCG--CGAAAATA---ATGTAA   4627
+                                ||||        |..||.||  .||.||||   |||.||
+AT4TE10185      1993 -----------AGTT--------TTTTGGCGGAGGAGAATACAGATGGAA   2023
+
+VANDAL11        4628 CGCCTGTCATTGGTATAATCACGATGTTGGTACTCCTAAAAGAAGACAAG   4677
+                                        .||||||  ||        .|||.|||..||
+AT4TE10185      2024 -------------------GACGATG--GG--------CAAGTAGATCAG   2044
+
+VANDAL11        4678 GACACCTAGTGGGTCGAGTTAT-TAAGGACATCAATCAGAATAATCATAA   4726
+                     ..||.|      ||.|.|||.| ||              ||||||.||.|
+AT4TE10185      2045 CTCAAC------GTGGTGTTTTATA--------------AATAATGATGA   2074
+
+VANDAL11        4727 CGCGTGTTATCTGATAACAAAAAAAAAACATAAATATGTACTTGTCCCCA   4776
+                     .| ||||.||..||               ||||.|.||   ||||    |
+AT4TE10185      2075 TG-GTGTCATTAGA---------------ATAATTTTG---TTGT----A   2101
+
+VANDAL11        4777 TACCGGGATA-----GATTCACTAGTG--AATAT-TAACATAAATTTATT   4818
+                     |      |||     ||||  ||||||  .|||| |   ||||  |||| 
+AT4TE10185      2102 T------ATAAAGCGGATT--CTAGTGGCCATATGT---ATAA--TTAT-   2137
+
+VANDAL11        4819 GCCCGGCTTTGTAGGAGTTGCAATCAAAGCAATAAACACCCG-----AGT   4863
+                        |||      |||||              |||..||.|||     .|.
+AT4TE10185      2138 ---CGG------AGGAG--------------ATACCCATCCGTTAACTGA   2164
+
+VANDAL11        4864 TGT--------TTTTACAAAAAAGTAAA--ACAGCTATATTGTATAACTG   4903
+                     |||        |||||.||||.||||||  |.|||||             
+AT4TE10185      2165 TGTAATGAATGTTTTATAAAACAGTAAAGGATAGCTA-------------   2201
+
+VANDAL11        4904 ATAATAATAACATTACCTATACGCTGAATGTTACATATCTTCGGA-CCGA   4952
+                          |..||||..|.|.|      ||||      |||      | ||||
+AT4TE10185      2202 -----AGGAACACCAGCGA------GAAT------TAT------AGCCGA   2228
+
+VANDAL11        4953 ATCAAGTAAAAGGTTCGCTTTTTTAAATATATATCAGTATATTCATGTAT   5002
+                     |.|||           |||||||            .||   |||||.| |
+AT4TE10185      2229 AACAA-----------GCTTTTT------------GGT---TTCATCT-T   2251
+
+VANDAL11        5003 CGGCTAATTTACGTATCCGAGTTGATAAGAATATTTATAATTGTC-ACAA   5051
+                     |    |||                   .||||...||.|||.||| |||.
+AT4TE10185      2252 C----AAT-------------------GGAATCAATAGAATAGTCAACAC   2278
+
+VANDAL11        5052 CGTCTAATTGTCC---CCA--GATAGATATTACTTCGGTTTGGTTCATGA   5096
+                     .|||     ||||   |||  ||.||         ||    .||.|.|||
+AT4TE10185      2279 AGTC-----GTCCATACCACCGACAG---------CG----TGTGCCTGA   2310
+
+VANDAL11        5097 A-GCCGACAAAGAAACAGTGACCCAGTCACAATGAAACCAAACCAAGCCG   5145
+                     | |       |||||.|||..|                   |.|||||  
+AT4TE10185      2311 ATG-------AGAAAGAGTATC-------------------ATCAAGC--   2332
+
+VANDAL11        5146 TACAGCTACAAATATAACCCGATAATTGCCGTGAGTATTCCAGGGTTATA   5195
+                       ||||..|||        || |.||||  ||.|     ||.|.|..|| 
+AT4TE10185      2333 --CAGCGTCAA--------CG-TGATTG--GTCA-----CCTGTGGGAT-   2363
+
+VANDAL11        5196 ATCCCCCAAATTAAAAACAGAAGA---ACCCTAATTTGGAACCAGAACCC   5242
+                                        |||||   |||    |||    |||      
+AT4TE10185      2364 -------------------GAAGAGAGACC----TTT----CCA------   2380
+
+VANDAL11        5243 GAAATTTGGAACCAAA---ATTCTTCGACAAAGGATGAGCAGTCTATCAT   5289
+                          |||    ||||   |.||...||.|   |.||||       ||||
+AT4TE10185      2381 -----TTG----CAAATGGACTCGGGGATA---GCTGAG-------TCAT   2411
+
+VANDAL11        5290 CAAGTTCGACTGGATCTACAGGGCCGCGGGGTAAAGGTAAAGTTGTAGGA   5339
+                     |  |||.||.||       ||.|||||               .|||..||
+AT4TE10185      2412 C--GTTGGATTG-------AGAGCCGC---------------CTGTTTGA   2437
+
+VANDAL11        5340 ATACCGAAAATATGTTGGTGCGGGGAAGGAGTCGTGTCACTCATTTCAAA   5389
+                     |    ||.||||           |||||.|.|| ||.|||....||||| 
+AT4TE10185      2438 A----GAGAATA-----------GGAAGCATTC-TGGCACCTGGTTCAA-   2470
+
+VANDAL11        5390 ATCGGTTCCGAATCCTTGCCGGACATATTATCGGTGTGATTTTGCTGCAA   5439
+                         |.||||.||...|||.|||      |||.|||         .||||
+AT4TE10185      2471 ----GATCCGTATTGATGCTGGA------ATCTGTG---------CGCAA   2501
+
+VANDAL11        5440 AAAATAGGGTAAATGCTGCTAATCTTGTTCATCTGATTATTCTATTTCTT   5489
+                     |        |.||...|.| |.|||.|..||    ||.|       ||||
+AT4TE10185      2502 A--------TGAACATTAC-AGTCTAGAACA----ATGA-------TCTT   2531
+
+VANDAL11        5490 CAATTGCCATGTTTAATTCGCTGTTAATTTGGAAAATCTATGTTAATACC   5539
+                     .||   .|||||                   ||.|       |.||.|| 
+AT4TE10185      2532 AAA---GCATGT-------------------GAGA-------TCAACAC-   2551
+
+VANDAL11        5540 TAGCTAAGAAACGACGACCACA------CTT-TTAAATTGGTTGACGAAG   5582
+                             |.|.|.|.||| ||      ||| |.|||   ||||      
+AT4TE10185      2552 --------ACAAGGCAACC-CAATGCTTCTTATCAAA---GTTG------   2583
+
+VANDAL11        5583 CTTTGCTCAATG--AGATAGAGACATTGACAGCAAAGACACGAGACATTG   5630
+                             ||||  ||||||||     ||.|.|||           .||.
+AT4TE10185      2584 --------AATGGAAGATAGAG-----GAAATCAA-----------CTTC   2609
+
+VANDAL11        5631 AG-CAAGAGCTGAAAGATCTTCGGGGACAGAGGTCCGAGTTCGAAAAGAT   5679
+                     || .||.||||||           |.||   ||||.||||          
+AT4TE10185      2610 AGTAAACAGCTGA-----------GCAC---GGTCAGAGT----------   2635
+
+VANDAL11        5680 GGTTTACGAGAACG-TGGAAATG-----------AAGATAGAAAAAGAAG   5717
+                           ||..|||| ..||||.|           |||||       ||||
+AT4TE10185      2636 ------CGCCAACGCCAGAAACGGCCTCGACCCAAAGAT-------GAAG   2672
+
+VANDAL11        5718 TGCTTACGAAAGTGGAAGAAGCTGTGTCTCAAACGAAAG---CGAGCAGT   5764
+                                  ||||          |||     ||||   .|||.|.|
+AT4TE10185      2673 -------------GGAA----------CTC-----AAAGTCTTGAGGAAT   2694
+
+VANDAL11        5765 AAGAG-GTTGATGA--TT---GTGATGGTG------TTAGGGTGTATGAT   5802
+                     |.||| .|||||||  ||   ||.|.||.|      ||.||     .|||
+AT4TE10185      2695 AGGAGTTTTGATGAACTTCGGGTAAAGGCGGCACAATTGGG-----AGAT   2739
+
+VANDAL11        5803 CATACTTGG-AT-----ACACCAA-ACTTAAAGGGGAAGTAGTGTAGAAT   5845
+                      |.|||||| ||     |||.||| ||        ||||           
+AT4TE10185      2740 -AAACTTGGTATCAAGCACATCAACAC--------GAAG-----------   2769
+
+VANDAL11        5846 AATATTTACACTTTGTTGTAGT------AGTCAG--CG--GGATAATATT   5885
+                                .||||.|..||      .|||||  ||  |||.|     
+AT4TE10185      2770 -----------CTTGTGGCCGTCGACGACGTCAGTACGGAGGACA-----   2803
+
+VANDAL11        5886 GTGTCTGCTAACCTTCGCTCTAGTAGAATAATATAGGGACTATAGTGTAT   5935
+                      ||.|||||||.|||             |||.|               ||
+AT4TE10185      2804 -TGCCTGCTAAACTT-------------TAACA---------------AT   2824
+
+VANDAL11        5936 CTG---CTAACGCTGCAATATAGACCAACGGTTGGAGTGAGATAAAATCT   5982
+                     |.|   .|.|| ||.|||.|.|||               ||         
+AT4TE10185      2825 CCGTCCATTAC-CTTCAAGAAAGA---------------AG---------   2849
+
+VANDAL11        5983 CGAGAACTTGTTATTA------AGATAAACGTTAGTAAT-TAAAATGTAT   6025
+                      ||.||||..||||||      |.||||  |..|||.|| ||||||.|| 
+AT4TE10185      2850 -GAAAACTAATTATTATTGGGTAAATAA--GGAAGTTATCTAAAATTTA-   2895
+
+VANDAL11        6026 TTGAAAT-CGACGTTGATAATGTAAGATAACAACAAAGTTAGCTAGTAAC   6074
+                     ||||.|| ||                        ||||       |||||
+AT4TE10185      2896 TTGATATGCG------------------------AAAG-------GTAAC   2914
+
+VANDAL11        6075 CTTTACGCTGAAAAGGGATAATATAGTATCTACTACCGCAATCCTAATGC   6124
+                     |||                      ||.||                  .|
+AT4TE10185      2915 CTT----------------------GTTTC------------------CC   2924
+
+VANDAL11        6125 AACGA-----TCCGAGTCTGGTCAAAATCCACGA-ATTTTAAAAACAATG   6168
+                     |||||     |||   |||.|...||.||||.|| ||..|.|..||.|.|
+AT4TE10185      2925 AACGATTTTTTCC---TCTCGATTAACTCCAGGACATCCTTACTACTAAG   2971
+
+VANDAL11        6169 AGTAACAATGAT-AACAAC------AAT--------GTTAGCGAGAAAAT   6203
+                     .|||||    || |.||||      |||        ||.| ||||.||||
+AT4TE10185      2972 CGTAAC----ATCACCAACCAGAGAAATAGAGCTAAGTCA-CGAGTAAAT   3016
+
+VANDAL11        6204 CTCTAATATGGAATAATATT-------GGGATAATAGTTAATCTGCTAAC   6246
+                                 |.||||||       .|||||||..||           
+AT4TE10185      3017 ------------AAAATATTAGACTTCCGGATAATCTTT-----------   3043
+
+VANDAL11        6247 GCGAGTCGAATGCAACGATGATAAATATCCCACAATGCTTACCGAGATAC   6296
+                                      |||||  .|||||                 |||
+AT4TE10185      3044 -----------------ATGAT--CTATCC-----------------TAC   3057
+
+VANDAL11        6297 TGCAACACTAACCATTTAAATCGGCTAATCTAATATCAGATAACTTATTA   6346
+                     |..||.|.|.||||..|||      ||||.|  ||.|.|||..||| |.|
+AT4TE10185      3058 TCAAATAGTTACCACGTAA------TAATTT--TACCTGATGGCTT-TGA   3098
+
+VANDAL11        6347 TTATCTACTACCGCAATCTTAATGCAACG---ATCCAAGGCTGGTCAAAA   6393
+                     .|.|||            |.|||| |.||   ||  ||.|||..|||.||
+AT4TE10185      3099 GTTTCT------------TCAATG-AGCGGTTAT--AACGCTTTTCAGAA   3133
+
+VANDAL11        6394 TCCACGAATTTTAACAACAATGAGAAGCAATGATAACAAAAACGTTAGCG   6443
+                     ||.||                                             
+AT4TE10185      3134 TCTAC---------------------------------------------   3138
+
+VANDAL11        6444 AGGAAAATCTCTAATATAGATTAATATT-GGAATAATAGTATCTCTGCTA   6492
+                          |.||||   |.|.||  |||||| |.||||..||           
+AT4TE10185      3139 -----AGTCTC---TCTCGA--AATATTAGCAATAGGAG-----------   3167
+
+VANDAL11        6493 ACGCGAGTCGAATGCAACGATGATAAATATCCCA----------CAATGC   6532
+                     |||.|.|||     |.||.|  ||||.|.|              ||||| 
+AT4TE10185      3168 ACGTGTGTC-----CTACCA--ATAACTTT----GTTTTCTTGTCAATG-   3205
+
+VANDAL11        6533 AACGATACTGCAAAACTAACCATATATTATTAACTTAGTAGATAACTTAT   6582
+                              |||||.|| .||||      ..|||||..|.|||  ||..|
+AT4TE10185      3206 ---------GCAAACCT-TCCAT------CCAACTTGCTTGAT--CTGGT   3237
+
+VANDAL11        6583 TATTAAGTAAATACAAACGTTAGCTGCT   6610
+                     | .||||         .|.||..||.||
+AT4TE10185      3238 T-CTAAG---------CCTTTTACTCCT   3255
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT5TE37245
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 186
+# Identity:     112/186 (60.2%)
+# Similarity:   112/186 (60.2%)
+# Gaps:          41/186 (22.0%)
+# Score: 331.5
+# 
+#
+#=======================================
+
+VANDAL11       13532 TTGGGGAATTCCAACAAGCGACCGAACGAAGATCGAGCAATGAACTGCCG  13581
+                     ||||..||.||||| ||||  ||        ||||||..|.| |||||.|
+AT5TE37245         2 TTGGAAAAATCCAA-AAGC--CC--------ATCGAGAGAAG-ACTGCGG     39
+
+VANDAL11       13582 CTCTCCATCGT------------CTAGGGCATTGA---TAACACACCACA  13616
+                     ...|.||||.|            |.||.||.||||   |     ||||||
+AT5TE37245        40 TGGTTCATCATTTTCATTATCACCAAGTGCGTTGAGGTT-----ACCACA     84
+
+VANDAL11       13617 TAAGGTTTTCATTTTCTGATACACGTTGACCCTCTCGTCGTGTGGTTCTT  13666
+                     .||.||||||||.||||||||.||.|||||||.||||.||...|.|||||
+AT5TE37245        85 CAACGTTTTCATCTTCTGATATACATTGACCCGCTCGCCGCCAGATTCTT    134
+
+VANDAL11       13667 CACGAAACGCAATCAGTCGGGGAGGGAGAGGGAGAG  13702
+                     |.||         |||||||..|.|.||||.||.||
+AT5TE37245       135 CTCG---------CAGTCGGCAAAGAAGAGAGAAAG    161
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT5TE37305
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 215
+# Identity:     109/215 (50.7%)
+# Similarity:   109/215 (50.7%)
+# Gaps:          78/215 (36.3%)
+# Score: 223.0
+# 
+#
+#=======================================
+
+VANDAL11        4333 CGATGTGAAATAAATAATACGGGGGAAGGGTT--CAGAAAATTTTCATTG   4380
+                     ||||               ||||||  .|.||  ||..||| ..||.|||
+AT5TE37305         1 CGAT---------------CGGGGG--CGATTCCCATCAAA-CCTCCTTG     32
+
+VANDAL11        4381 TACATGCGTATGACATCTGTTCCCTAA---ATGTAAAATTATCGG-TACG   4426
+                     |  ||||.|.|||           |||   ||||.|||...|||| ||  
+AT5TE37305        33 T--ATGCATGTGA-----------TAAATTATGTTAAACCTTCGGTTA--     67
+
+VANDAL11        4427 AATCCAACTATCATGAAGTAATGTTTCATATAATGGCAGTATGTGGTATG   4476
+                     |||   .||||     |.||.|||||           ||||         
+AT5TE37305        68 AAT---GCTAT-----AATATTGTTT-----------AGTA---------     89
+
+VANDAL11        4477 TTTTTGTTTACTGA-GTTATCTCTGACTTTAACCTA-CTAACTAAAGAAG   4524
+                     .|||||||||| || ||||..|   |..|.||||.| ||||.|.|     
+AT5TE37305        90 CTTTTGTTTAC-GATGTTAAAT---AGCTAAACCCAGCTAAGTCA-----    130
+
+VANDAL11        4525 ATAATACTAACCGGA   4539
+                     |||.|..||||||||
+AT5TE37305       131 ATATTCGTAACCGGA    145
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT5TE35420
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 974
+# Identity:     585/974 (60.1%)
+# Similarity:   585/974 (60.1%)
+# Gaps:         202/974 (20.7%)
+# Score: 1449.0
+# 
+#
+#=======================================
+
+VANDAL11         153 GCATTTAACGC-CGTAGAGATTTACG----AAGATT-CACTCGCCGATTT    196
+                     |||||.||.|| |||| |.||.|..|    |||||| ||||.||  .||.
+AT5TE35420         1 GCATTAAATGCTCGTA-AAATCTCTGTGGAAAGATTGCACTGGC--GTTA     47
+
+VANDAL11         197 T--GGAAAC-ATAAAATATATTGGGGGAAAATATTGTGATCATTAC--AA    241
+                     |  ||||.| |.|.|||.||     ||||||.|   ..||.|||||  |.
+AT5TE35420        48 TGGGGAAGCGAAAGAATTTA-----GGAAAAGA---AAATGATTACGGAG     89
+
+VANDAL11         242 ATATATTTCGAGTTGCGGGAATATCAGCCATATACATTGGGTT-ATCCTA    290
+                     ||||.|.||||.|||.|||   |..|||..||||||  |.||| || .||
+AT5TE35420        90 ATATTTCTCGATTTGTGGG---AGGAGCTGTATACA--GAGTTCAT-ATA    133
+
+VANDAL11         291 TTTATTACCGTTGTACTAACTT----CAACCAACAAAAAACTAGCAGACT    336
+                     |||||||.||..|||....|.|    |||.||||||||      ||.|| 
+AT5TE35420       134 TTTATTATCGCCGTAGAGGCGTTGCCCAAACAACAAAA------CAAAC-    176
+
+VANDAL11         337 AACAACTTAAA-TTTCCGATA--ATTTTAATG----CAAG--CAAA----    373
+                      |||.|.|||| .|||.||.|  |..||||||    .|||  ||||    
+AT5TE35420       177 -ACACCATAAAGGTTCTGAGACCAAGTTAATGAGACGAAGAACAAAGTAG    225
+
+VANDAL11         374 AGCTAGGAACCCAGAA---------AATTCAA-AGC------AGAGACGT    407
+                     ||.|||||    ||||         .|||.|| |||      |.|.|||.
+AT5TE35420       226 AGATAGGA----AGAATCTGGAGATCATTAAAGAGCATCAATAAATACGA    271
+
+VANDAL11         408 AAAAGTA-----------AAAGATCCAAGTAT-TTTGTAACTGATAGT--    443
+                     .||.|||           |.|.||..|..||| |.|.||..| |||||  
+AT5TE35420       272 GAAGGTATATATATATATATATATATATATATATATATATAT-ATAGTCT    320
+
+VANDAL11         444 ----TAAATGTTTGGAAGCT--ACTTTTTTTACCTTAGGGTTTGCAAGAT    487
+                         .||||.||...||.||  |||.||.|||       |||||      
+AT5TE35420       321 CCCCCAAATCTTCTTAATCTTAACTATTGTTA-------GTTTG------    357
+
+VANDAL11         488 TATAA---TAGAAACCG--ATAACTAACTTGTTATTTCTGAAACT--ATT    530
+                      ||||   |..||.|.|  ||.||.||   |||||      ||||  |||
+AT5TE35420       358 -ATAACCCTTTAATCGGTAATGACGAA---GTTAT------AACTGGATT    397
+
+VANDAL11         531 T----CAGGTACA-AATGG---CGTTCGTG-GTGAGATTGATACCTGGGG    571
+                     |    ||||||.| .||||   .|.|.||| ||.||.|.||       ||
+AT5TE35420       398 TTCTGCAGGTAGATTATGGTTATGATAGTGTGTTAGTTAGA-------GG    440
+
+VANDAL11         572 AG---TG-GAAAAGA-GATGAAAACGGAATTTTCGAACACATCT-CGCAT    615
+                     ||   || ||||||| ||||||   ||...||..|||||..||| |||.|
+AT5TE35420       441 AGAATTGAGAAAAGACGATGAA---GGTTGTTATGAACATGTCTCCGCCT    487
+
+VANDAL11         616 GTAGATGGGTTT--GAATTCGGAGTCCGACTGCGTGAGAGAGATAGTTTT    663
+                      ||||..|.|||  ||  |.|.|||.||..||.|.||||.||||.|.|||
+AT5TE35420       488 -TAGAAAGTTTTACGA--TGGCAGTTCGGGTGAGGGAGATAGATGGATTT    534
+
+VANDAL11         664 GCGAAGATTGTTATGGCGGGAAAAGATAGATTAGCGTTAGGGCCAG---A    710
+                     ...|||.||||||..||||.|||.||.|||||..|||||   ||||   |
+AT5TE35420       535 AATAAGGTTGTTACTGCGGTAAAGGAAAGATTGTCGTTA---CCAGAGAA    581
+
+VANDAL11         711 TGACGATATCGAGTTAACGTACCAGTGGCCACAGTGGATGCTCGGTCCTG    760
+                     .||||||.|||||.|||..||.||||||||.||.||||||.|.||.|..|
+AT5TE35420       582 AGACGATGTCGAGCTAAGTTATCAGTGGCCTCAATGGATGATGGGACTCG    631
+
+VANDAL11         761 ATTGGAAACGAGCGAACCCA-ATTGACATATTGGATGACGAAGATACGAC    809
+                     |.|||||||||||.||||.| ||  ||||..|.|||||.|||||||.|||
+AT5TE35420       632 ACTGGAAACGAGCAAACCGATAT--ACATCCTTGATGATGAAGATATGAC    679
+
+VANDAL11         810 ACTGTTCGTGGCTATTAGGGCATATCTGGATGAAGTGCATCTGCTAGTGA    859
+                     .||.|||.||||.||.||.||..||||.||.||.||.|||||||.|||.|
+AT5TE35420       680 CCTATTCATGGCGATAAGAGCTGATCTTGAAGATGTACATCTGCGAGTAA    729
+
+VANDAL11         860 AGATTATACGAGG-----TGGAAATGTTCGAAACGTTAATAGTTAC----    900
+                     |.||.|||.|.||     |||..|.|     ||.||.|||..||||    
+AT5TE35420       730 AAATGATAAGGGGAGGCCTGGGTAAG-----AATGTAAATTTTTACAAGA    774
+
+VANDAL11         901 -CGCAGTAACAT---GGATCTAAGCGGTTTGAGTTCGAAAGAAATATCGG    946
+                      | ||.|.||||   |||       ||..|||...|..|.||.|||||.|
+AT5TE35420       775 GC-CATTTACATTTGGGA-------GGAATGACAGCAGATGAGATATCTG    816
+
+VANDAL11         947 ATAAATACTAAAATTGTGCGGAAACAAGAGCT-GTATGGGGTACCGCGTT    995
+                     ||||.||||.|||||.|.|||||||.|| |.| ||.||||.||    |.|
+AT5TE35420       817 ATAATTACTGAAATTCTACGGAAACTAG-GTTAGTTTGGGATA----GAT    861
+
+VANDAL11         996 AACCAGAATGCTGTT---GCGTAA   1016
+                     ||||||   |.||||   |||.||
+AT5TE35420       862 AACCAG---GTTGTTAACGCGGAA    882
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT5TE37080
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 33
+# Identity:      19/33 (57.6%)
+# Similarity:    19/33 (57.6%)
+# Gaps:          11/33 (33.3%)
+# Score: 58.5
+# 
+#
+#=======================================
+
+VANDAL11        7119 ACTACGACAAAAGCTTCACGCAAT---TAGAAA   7148
+                     |.||||        ||.||.||||   ||||||
+AT5TE37080         2 AGTACG--------TTAACTCAATGGGTAGAAA     26
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT5TE37290
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 3421
+# Identity:    1912/3421 (55.9%)
+# Similarity:  1912/3421 (55.9%)
+# Gaps:         884/3421 (25.8%)
+# Score: 5079.0
+# 
+#
+#=======================================
+
+VANDAL11        2340 TTTAAGAATAAAGAGGATTGTTCAACTAAGCTCGCTATTCATGCGATCCG   2389
+                     ||.|||||||||.|.||.|||.||||.||.||.||.||.||||||||.||
+AT5TE37290         1 TTCAAGAATAAACAAGACTGTGCAACAAAACTTGCAATACATGCGATACG     50
+
+VANDAL11        2390 GAGGAAGTTCCATTTCATTTACGTAAAGTCCGGGCCAAATGTTGTGGCGG   2439
+                     |.|.|||||.||.||||||..||..|||||..|.||.||..||||....|
+AT5TE37290        51 GCGAAAGTTTCACTTCATTACCGCCAAGTCTTGCCCTAACATTGTCCTCG    100
+
+VANDAL11        2440 CTGTGTGCGTCAGCCATACATGTCCATGGTGGGTTTATGCAACTAAGCTG   2489
+                     ||||||||||.||.||||||||.|..|||.|.||||||||.||.||..||
+AT5TE37290       101 CTGTGTGCGTAAGTCATACATGCCTGTGGCGTGTTTATGCGACAAAATTG    150
+
+VANDAL11        2490 CCAGATAGTGATACGTTCGAGGT--TAGGAGCACGACTTCAACA-CACAC   2536
+                     ...||||||||...||||.||.|  .|.|.|||.|   |||||| |||||
+AT5TE37290       151 GAGGATAGTGACCGGTTCAAGATAAAATGTGCAAG---TCAACATCACAC    197
+
+VANDAL11        2537 GTGTAGCGTGGATGCTAAAGGGGACTTCCACAAGCAAGCATCAACGGCTG   2586
+                     .||.||.||.||..|.|.|||.|||||.|||||.||||||||.||.||||
+AT5TE37290       198 CTGCAGTGTAGACACCAGAGGAGACTTTCACAAACAAGCATCTACAGCTG    247
+
+VANDAL11        2587 TGATTGGGAAGTTGATGGGAACTAAATACATAGGAGTGGGCCGTGGACCT   2636
+                     |||.||||||..|||||.||||.||.||..|.||.||.||..|..|.||.
+AT5TE37290       248 TGACTGGGAAACTGATGAGAACAAAGTATCTTGGGGTTGGTAGGAGGCCA    297
+
+VANDAL11        2637 CGACCTAATGAGCTTA-GAAGAATGTTACGCCAAGAGTTTAACCTCAACG   2685
+                     .|.|||||.|||.|.| |||| |||.|.||..|.|||||.|.|||.||.|
+AT5TE37290       298 AGGCCTAACGAGTTGAGGAAG-ATGCTCCGGGATGAGTTCAGCCTAAATG    346
+
+VANDAL11        2686 TCTCTTATTGGAAGGCATGGAGGACAAGAGAAATAGCGATGGACAATGCA   2735
+                     ||||.||.|||||||||||||||.|..||||||||||.|||||.|||||.
+AT5TE37290       347 TCTCGTACTGGAAGGCATGGAGGGCTCGAGAAATAGCTATGGATAATGCG    396
+
+VANDAL11        2736 ATGGGGTCTGCTATGGGGAGTTACGCTCTAAACCAACCATACTTTAAGCT   2785
+                     ||.|..||.|..|||||.||.||||||.|.|.|||.||.||.||.|.|||
+AT5TE37290       397 ATAGATTCGGTGATGGGCAGCTACGCTTTGATCCAGCCTTATTTCATGCT    446
+
+VANDAL11        2786 GCTTTTGGAGACAAATCCCAACTCACTTGTGGCAATGGAAACTGAAAAGG   2835
+                     .|||.||||.|||||.||.|||||.||.||.||..|.||.||.||.||.|
+AT5TE37290       447 TCTTCTGGAAACAAACCCTAACTCTCTAGTTGCCCTTGATACGGAGAAAG    496
+
+VANDAL11        2836 ATGCTTCAGGGGTAGAGAGATTCAAGTACTTGTTTTTTACCCTTCATGCC   2885
+                     ||.....|||.||.|||..|||||.|||.|||.|||||.||||..||.|.
+AT5TE37290       497 ATAAGAAAGGTGTGGAGCAATTCAGGTAATTGCTTTTTGCCCTAGATACA    546
+
+VANDAL11        2886 TGTGTTCTAGGCTATCCTTACATGAGGAAGGTGATAGTTATCGACGGTAC   2935
+                     ..|||.|.|||.|||.||||.|||||.|||||||||||.||.||.||.||
+AT5TE37290       547 GCTGTACAAGGATATTCTTATATGAGAAAGGTGATAGTGATTGATGGAAC    596
+
+VANDAL11        2936 ACACCTACGGGGACGATATGGGGGATGTTTAGTTGCAGCTAGTGCGCAAG   2985
+                     .||..|..||||.|||||.||.||.||.|||.|||..||.||.||.||||
+AT5TE37290       597 GCATGTGAGGGGCCGATACGGTGGCTGCTTAATTGTTGCAAGCGCTCAAG    646
+
+VANDAL11        2986 ACGCCAATTTCCAAATATTCCCCATTGCATTTGGAATAGTAAACAGCGAG   3035
+                     |.|||||||||.||.|.||.||||||||.|||||.|||||.||||.||||
+AT5TE37290       647 ATGCCAATTTCAAAGTCTTTCCCATTGCTTTTGGGATAGTGAACATCGAG    696
+
+VANDAL11        3036 AACGATGAGGCGTGGACTTGGTTCATGACTAAGCTGACGGAAGCTATTCC   3085
+                     ||.||.||.||||||||.|||||||||...|.|||.|||||.||.||.||
+AT5TE37290       697 AATGACGATGCGTGGACATGGTTCATGGAGAGGCTCACGGACGCCATCCC    746
+
+VANDAL11        3086 AGATGATCCCGAGTTGGTGTTTATGTCAGATAGGCATTCCTCTATTTATG   3135
+                     |||||||||.||.||||||||..|.|.|||.|||||.||.||.|||||||
+AT5TE37290       747 AGATGATCCGGATTTGGTGTTCGTTTTAGACAGGCACTCATCGATTTATG    796
+
+VANDAL11        3136 CCAGCATCCGCAAGGTATG------------------GAATTA-------   3160
+                     |.|||||.|..||||||.|                  .|||||       
+AT5TE37290       797 CAAGCATACAGAAGGTAAGTTATATACCGAACCCCAATAATTATACTATT    846
+
+VANDAL11        3161 --------ATCTCTAT-GTT-ATCCGATAATGTGGGG-------------   3187
+                             ||.|.||| ||| ||||..||||.|.|.|             
+AT5TE37290       847 ACATCGATATATATATAGTTAATCCCCTAATTTCGTGGCTATCTCGTAAA    896
+
+VANDAL11        3188 ------TTTACCATCAGGCTTTTTATGTTTACATAAGCCT------TTTT   3225
+                           ||||||.|.||  |...|||||.| |||||..||      ||.|
+AT5TE37290       897 TGTTACTTTACCTTGAG--TAAGTATGTAT-CATAACACTGATACATTAT    943
+
+VANDAL11        3226 --GTACTGTAACAGGTTTACCCCATGTCATCACATGCTGCTTGCATCGTC   3273
+                       .||.||| |||||||||.||.|||||.||||..||.|..|||.|.|||
+AT5TE37290       944 CGCTAATGT-ACAGGTTTATCCGATGTCTTCACGCGCGGTATGCGTTGTC    992
+
+VANDAL11        3274 CACCT-CAAGAGAAACATTGAGGC---ATACTTTAAAGTC-GAACAGTTA   3318
+                     ||.|| .|||||.|||||  ||.|   |||  ||.||||| |||..|||.
+AT5TE37290       993 CATCTAAAAGAGGAACAT--AGTCTCAATA--TTCAAGTCGGAAGGGTTG   1038
+
+VANDAL11        3319 AGTGCCTTGGTATCAAGTGCAGCTAGAGCTTATCGGCTAACTGACTTCAA   3368
+                     ||....|||||..|.|.||||||...||||||.||||.||..||||||||
+AT5TE37290      1039 AGCTTTTTGGTCGCCACTGCAGCCCAAGCTTACCGGCCAAGCGACTTCAA   1088
+
+VANDAL11        3369 CAAGATTTTTGCTGAAATTAAG-GCTACGC-------ATGGATCGTGCGC   3410
+                     ....||.||||||||.| |||| ||||.||       |||.|       |
+AT5TE37290      1089 TCGCATCTTTGCTGAGA-TAAGAGCTATGCACCCAGAATGTA-------C   1130
+
+VANDAL11        3411 TGAGTACCTGGAAAGTATAGGGTTCGAACATTGGACCAGGTCACATTTTG   3460
+                     |.|.|||||.|||...||..||||.||.||||||||..|.||.||.||||
+AT5TE37290      1131 TAATTACCTCGAAGACATTAGGTTTGAGCATTGGACGCGCTCGCAGTTTG   1180
+
+VANDAL11        3461 TTGGGA-ATCGGTACAACTTCATGACGAGTAATATTGTCGAGTCGCTAAA   3509
+                      ||||| ||.||||.||.||||||||.||.||.||.|..|||||||||||
+AT5TE37290      1181 -TGGGAGATAGGTATAATTTCATGACAAGCAACATAGCAGAGTCGCTAAA   1229
+
+VANDAL11        3510 CAATGTTTTAAC---GGCAGCCCGAGATTATCCGGTAATCTCAATCTTAG   3556
+                     ||||||.|||||   ||||   .|.|.||||||||||||.||..|||||.
+AT5TE37290      1230 CAATGTCTTAACCATGGCA---AGGGGTTATCCGGTAATTTCTCTCTTAA   1276
+
+VANDAL11        3557 AATCTATCCAGACAACCCTCGTATCATGGTTTGCGTTTCGT-AGGC---A   3602
+                     |..||||.|..|..||.||.||..||||||||||    |.| ||||   |
+AT5TE37290      1277 AGACTATGCGAATCACACTTGTTACATGGTTTGC----CCTCAGGCGAAA   1322
+
+VANDAL11        3603 GGCAGCCCAGTTAGAAGACAATATCTTGCCGCCTAAAGTACATAACATGG   3652
+                     .||.||.||....||.|..|||.|.||||| |||||.||..||.|.||||
+AT5TE37290      1323 AGCTGCACAACACGAGGGGAATCTTTTGCC-CCTAAGGTGAATGAGATGG   1371
+
+VANDAL11        3653 TTATCGAGAATTTTGAGAAGGGGGCGGGTTTTGTTGTGATAAAGATTGGG   3702
+                     |.||.||.|||||||| ||.||.||.||.|.|.|.||.||.||.||.||.
+AT5TE37290      1372 TCATTGAAAATTTTGA-AAAGGAGCAGGATATCTCGTAATTAAAATAGGA   1420
+
+VANDAL11        3703 GATGGTCTCTATGAGGT--TAGAGACAAAAGAGGCGGAGGGTTTGTAGTT   3750
+                     ||||...|.|||||.||  .|||||.||||||..|  |..|||||..|||
+AT5TE37290      1421 GATGCATTTTATGAAGTGCAAGAGAGAAAAGATTC--AACGTTTGCGGTT   1468
+
+VANDAL11        3751 AACCTATTGGAGAGAACATGTACATGCAGAGAGTTTAAGCTTCTAACGAT   3800
+                     |||||.|.|||.||.|||.|.||||.||.|||.||..|.||..|||||||
+AT5TE37290      1469 AACCTTTGGGAAAGGACAGGCACATTCATAGAATTCCAACTGTTAACGAT   1518
+
+VANDAL11        3801 TCCTTGCTCTCACGCAATAGTGGCGGCCATACAAGAAGGACTCCGAGTGG   3850
+                     |.|.||.|||||.||.||||..||.|..|||.||||||||.||.|.||.|
+AT5TE37290      1519 TTCGTGTTCTCATGCCATAGCAGCAGTGATAAAAGAAGGAATCTGTGTCG   1568
+
+VANDAL11        3851 ACACACTGGTTGGGGTTCATCACACCACGCCACAGCTACGGTTGTGTTAC   3900
+                     |.|||.||||.||.||.||.||||||...|||.|.||..|.|||...|||
+AT5TE37290      1569 AAACAATGGTAGGCGTCCACCACACCGTCCCATATCTGAGATTGGCGTAC   1618
+
+VANDAL11        3901 CAAGCCCTAATAATGCCGGTGCCTGACACGGAGACTCTTACTCCGTCACC   3950
+                     ..||...||||.|||||.||.|..||||.|||.||.||.|||||.||.||
+AT5TE37290      1619 AGAGGAGTAATCATGCCCGTCCACGACATGGATACACTGACTCCTTCCCC   1668
+
+VANDAL11        3951 AAACGATGTAGGGGGGGGAGAACTGGCTCCACCGTATGTTTCAAGGCCTC   4000
+                     .|...||||..|.||.|||.||||.||.|||||.||.|||...|||||.|
+AT5TE37290      1669 CAGTAATGTCAGAGGCGGAAAACTTGCGCCACCTTACGTTCGTAGGCCAC   1718
+
+VANDAL11        4001 CGGGAAGACC----AAG-GAAG-CGAT------GTGAA-AGCTTTAAA--   4035
+                     |||||||.||    ||| |||| |.||      |.||| ||  ||.||  
+AT5TE37290      1719 CGGGAAGGCCGCGTAAGAGAAGACTATTCTCTAGGGAAGAG--TTCAAGG   1766
+
+VANDAL11        4036 --------TTATTGAACGCTAATCAGGATATCTGATAT-ACAATAA-CTA   4075
+                             ||||| |||        ||||||   |||| ||||||| .||
+AT5TE37290      1767 TAACATTGTTATT-AAC--------GGATAT---ATATAACAATAAGATA   1804
+
+VANDAL11        4076 TACA-ATAAT----AACTTCTGTTACTTTTGT-----AAAAGACTTCAAG   4115
+                     ||.| .||||    |     |||||.||.|||     ||||..|.|||  
+AT5TE37290      1805 TAGAGCTAATGTGGA-----TGTTATTTATGTCCAGAAAAAATCATCA--   1847
+
+VANDAL11        4116 GAAAAGATGTTCGCGCTGCAAGTCGTTGGGCCATAACAGGGTAACCTGCA   4165
+                      |||.|.||.||..|.||||.|.|..||||.|||||.||||.|||.||||
+AT5TE37290      1848 -AAACGTTGCTCCAGATGCAGGACAATGGGACATAATAGGGCAACGTGCA   1896
+
+VANDAL11        4166 ATGGACCAATAACGGTAAGAATTATAATATCGCGATTA-CATATATGTTA   4214
+                     ...||||.||||||||||.|.|.||         .||| ||.|||  |||
+AT5TE37290      1897 GGAGACCGATAACGGTAACATTAAT---------TTTAGCAAATA--TTA   1935
+
+VANDAL11        4215 CTTGATATTTAAAGGGTGGA-----------ATTGTACTGCAGGAGACAT   4253
+                      ||.|||.||    |.||.|           ||.||||  ||    |||.
+AT5TE37290      1936 -TTAATAATT----GATGAACATCTCCATCCATGGTAC--CA----ACAC   1974
+
+VANDAL11        4254 AAGAGAA----GGGGAGGATC----------AC--------GTTTTTTTG   4281
+                     ||| .||    |.|.|||.||          ||        |||||||.|
+AT5TE37290      1975 AAG-TAATTATGTGTAGGGTCCATAGCTACAACTCGGAGTGGTTTTTTGG   2023
+
+VANDAL11        4282 CG-CTGAAAG-----TTGTGGG---ATGGATG-TTGCCAGGAT--TAACA   4319
+                     || |||||||     ||.||.|   |.|||.| |||..|||||  ||.||
+AT5TE37290      2024 CGACTGAAAGAAGTTTTTTGAGTAAAAGGAGGTTTGAAAGGATGGTACCA   2073
+
+VANDAL11        4320 ---------GAATCTG-GCATGGCGATGTGAAATAAATAATACGGGGGAA   4359
+                              |||.||| |.|||    |.||  |||||||||      |||
+AT5TE37290      2074 TGAAAGTTGGAAACTGAGAATG----TATG--ATAAATAAT------GAA   2111
+
+VANDAL11        4360 G--GGTTCAGAAAATTTTCATTGTACATGCGTATGACATCTGTTCCCTA-   4406
+                     |  ||.||||.||||||||..||||.||.||||.|..|||||.| |||| 
+AT5TE37290      2112 GAAGGATCAGGAAATTTTCGCTGTATATACGTACGGAATCTGAT-CCTAA   2160
+
+VANDAL11        4407 -AATGTAAAATTATCGGTACGAATCCAACTATCATGAAGTA--ATGTTTC   4453
+                      |||||||.|||| .|.||.||| .|||| |.||..|||||  |||.|..
+AT5TE37290      2161 GAATGTAATATTA-AGTTATGAA-GCAAC-ACCAACAAGTATTATGGTCG   2207
+
+VANDAL11        4454 ATATAATGGCAGTATGTGGTATGTTTTTGTTTACTGAG-TTATCTCTGAC   4502
+                     |.|.||                      |||| ||.|| ||        |
+AT5TE37290      2208 AGACAA----------------------GTTT-CTTAGCTT--------C   2226
+
+VANDAL11        4503 TTTAACCTACTAACTAAAGAAGATA-ATACTAACCGGAAAAAATCGCA--   4549
+                     ||.|.||        ||.|.||.|| ||         .||||.||.||  
+AT5TE37290      2227 TTGATCC--------AAGGCAGCTACAT---------CAAAATTCACACA   2259
+
+VANDAL11        4550 ----TCGA-------AATGATAT---CGTGATACAAATCATGATAATCTA   4585
+                         ||||       |..|..||   |||||        ||||.||.|  
+AT5TE37290      2260 CTCCTCGATCCCACCAGCGGCATGGGCGTGA--------ATGAGAAAC--   2299
+
+VANDAL11        4586 TTAACTTTAGTTGATAAGCCTAATGTCGCGAAAATAATGTAACGCCTGTC   4635
+                        ||                       |||.||      ||||||||  
+AT5TE37290      2300 ---AC-----------------------CGAGAA------AACGCCTG--   2315
+
+VANDAL11        4636 ATTGGTATAATCACGATGTTGGTACTCCTAAAAGAAGACAAGGACACCTA   4685
+                             ||||                  ||||  |||.|.|..|||| 
+AT5TE37290      2316 --------AATC------------------AAAG--GACGATGTGACCT-   2336
+
+VANDAL11        4686 GTGGGTCGAGTTATTA------AGGACATCAATC-AGAATAATCATAACG   4728
+                            |||.|| ||      |||..||||||| ||         ||.|
+AT5TE37290      2337 -------GAGGTA-TACCATGCAGGCGATCAATCGAG---------AAAG   2369
+
+VANDAL11        4729 CGTGTTATCTGATAACAAAAAAAAAACATAAATATGTACTTGTCCCCATA   4778
+                     .|||        ||||.|.|                    ||   ..||.
+AT5TE37290      2370 GGTG--------TAACGAGA--------------------TG---GGATC   2388
+
+VANDAL11        4779 CCGGGA-TAGATTCACTAG--TGAATA-TTAA-----CATAAATTTATTG   4819
+                     ||.||| .||.||..|| |  ||||.| .|||     ||||        |
+AT5TE37290      2389 CCTGGACGAGTTTGCCT-GCTTGAAGAGGTAAGGGAGCATA--------G   2429
+
+VANDAL11        4820 C-----CCGGCTTTGTAGGAGTT--GCAATCAAAGCAATAAACAC----C   4858
+                     |     .|||||     ||||||  ||              ||||    |
+AT5TE37290      2430 CAGCAAGCGGCT-----GGAGTTCGGC--------------ACACATCGC   2460
+
+VANDAL11        4859 CGAGTTGTTTTTACAAAAAAGTAAAACAGCTATATTGTATAACTGATAAT   4908
+                     .||   ||.|||.|.||                                 
+AT5TE37290      2461 TGA---GTCTTTGCGAA---------------------------------   2474
+
+VANDAL11        4909 AATAACATTACCTATACGCTGAATGTTACATATCTTCGGACCGAATCAAG   4958
+                                      |||||||.|||              ||||||||
+AT5TE37290      2475 -----------------GCTGAATATTA--------------GAATCAAG   2493
+
+VANDAL11        4959 TAAAAG----------GTTCGCTTTTTTAAATATATATCAGTA---TATT   4995
+                         ||          ||.|||.||        .|.||||..|   .||.
+AT5TE37290      2494 ----AGTTGTGATCTTGTGCGCCTT--------GAGATCAACACACAATG   2531
+
+VANDAL11        4996 C------ATGTATCGGCTAATTTACGTATCCGAGTTGATAA--GAAT---   5034
+                     |      ||||.|       |||          ||.|| ||  ||||   
+AT5TE37290      2532 CCACCCAATGTTT-------TTT----------GTCGA-AATTGAATGGC   2563
+
+VANDAL11        5035 ATTTATAATTGTCACAA----CGTCTAATTGTCCCCAGATAGATATTACT   5080
+                     ||.||       |||||    ||.||.||      ||.|.| ||.|||| 
+AT5TE37290      2564 ATGTA-------CACAAAATCCGCCTCAT------CAAACA-ATCTTAC-   2598
+
+VANDAL11        5081 TCGGTTTGGTTCATGAAGCCGACA-----AAG-----AAACAGTGAC-CC   5119
+                     .||.|.||..||     |||||||     |||     .||||..||| .|
+AT5TE37290      2599 ACGATCTGCCTC-----GCCGACACCCATAAGTAGTTCAACAAGGACTGC   2643
+
+VANDAL11        5120 AGTCACAATGAAACCAAACCAAGCCGTACAGCTACAAATATAACCCGATA   5169
+                     .|..|.|||||||.|                                   
+AT5TE37290      2644 GGGGAAAATGAAATC-----------------------------------   2658
+
+VANDAL11        5170 ATT---GCCGTGA-GTATTCCAGGGTTATAATCCCCCAAA---TTAAAAA   5212
+                      ||   ||.|.|| ||.||    ||            |||   |||||||
+AT5TE37290      2659 -TTCGGGCGGGGATGTTTT----GG------------AAAACTTTAAAAA   2691
+
+VANDAL11        5213 CAGAAGAACCCTA---ATTTG-GAACCAGAACCCGAAATTTGGAACCAAA   5258
+                     .||      ||||   |.||| |||.|        |||.|||||||||  
+AT5TE37290      2692 GAG------CCTAGTCAGTTGTGAAAC--------AAACTTGGAACCA--   2725
+
+VANDAL11        5259 ATTCTTCGACAAAGGATGAGCA-GTCTATCATCAAGTTCGACTGGATCTA   5307
+                                       |||| .||||.|.|.|..|||       ||  
+AT5TE37290      2726 ------------------AGCACATCTACCCTTAGCTTC-------TC--   2748
+
+VANDAL11        5308 CAGGGCCGCGGGGTAAAGGTAAAGTTGTAGGAATACCGAAAATATGTTGG   5357
+                                                       |||...|||||     
+AT5TE37290      2749 ----------------------------------ACCATCAATAT-----   2759
+
+VANDAL11        5358 TGCGGGGAAGGAGTCGTGTCACTCATTTCAAAATCGGTTCCGAATCCTTG   5407
+                                     .||||.||.||  ||||        ||     ||
+AT5TE37290      2760 ----------------CGTCAGTCCTT--AAAA--------GA-----TG   2778
+
+VANDAL11        5408 CCGGACATATTATCGGTGTGATTTTGCTGCAAAAAATAGGGTAAATGCTG   5457
+                     ||     ||.||        |.|||      ||.||.||.||..|||   
+AT5TE37290      2779 CC-----TACTA--------AATTT------AATAAGAGCGTCCATG---   2806
+
+VANDAL11        5458 CTAATCTTGTTCATCTGATTA   5478
+                        |.||||     |||.|.|
+AT5TE37290      2807 ---ACCTTG-----CTGGTGA   2819
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: VANDAL11
+# 2: AT5TE39905
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 3313
+# Identity:    1927/3313 (58.2%)
+# Similarity:  1927/3313 (58.2%)
+# Gaps:         760/3313 (22.9%)
+# Score: 5288.0
+# 
+#
+#=======================================
+
+VANDAL11        1949 TAAAGGATATAGCGGTTGCGACGGTCTTGTATGACCGAGATGCTCCGCCA   1998
+                     |.||.||.|.|.|.||..|.|..||.|||||||||...||.||.||.|||
+AT5TE39905         1 TGAAAGAAACACCAGTACCAATAGTGTTGTATGACAAGGACGCCCCACCA     50
+
+VANDAL11        1999 TATTTTGACGATCAAGGGA-AGGAAGGTAAAAAAAAAAATCAACTTGCTA   2047
+                     |||||.||||||| .|||| |.||||||||||.|                
+AT5TE39905        51 TATTTCGACGATC-CGGGAGAAGAAGGTAAAACA----------------     83
+
+VANDAL11        2048 AATATATTGTTA-GATAGCTACAACTGTTGTTATCGTCAGGAAAGCAAGA   2096
+                            ||||| |||  |||           ||  |||          |
+AT5TE39905        84 -------TGTTAGGAT--CTA-----------AT--TCA----------A    101
+
+VANDAL11        2097 AGTTAAAAGTATATCTATATATTATCATACATATAGAAGAGTATGTGTTT   2146
+                     ||||.|.|    |.|||.||           |.|||...||.||||||||
+AT5TE39905       102 AGTTTAGA----AACTAAAT-----------TTTAGTGTAGCATGTGTTT    136
+
+VANDAL11        2147 ATC-GTTAGCGACAGATAACAACATTAATAAAAGAAAACTT-----TATC   2190
+                     .|| |.||  .||..||.|..|.||||.|...|..||.|||     ||||
+AT5TE39905       137 TTCTGGTA--TACTTATGAATATATTATTGTTATGAATCTTGTAGCTATC    184
+
+VANDAL11        2191 TT----CAACT-TTCTATATCTCTCTAGTAA-----TAATAT-TATCGAA   2229
+                     .|    |.||| |||  |||.||.|||||||     |||.|| ||.|.||
+AT5TE39905       185 ATGTAGCTACTATTC--TATTTCGCTAGTAAAAGGTTAACATGTAACAAA    232
+
+VANDAL11        2230 TGCAT----TAACATATCGTTAACGCCTGATTCGTTGATTGACTTGCAGA   2275
+                     ..|.|    |||||.||.||  ||.|||              .|||||||
+AT5TE39905       233 AACTTTATCTAACAAATAGT--ACACCT--------------ATTGCAGA    266
+
+VANDAL11        2276 TGCCCTTCAGCGAGCCCTGAAGGATGCTGATTACGAGGGGGGTGACATTT   2325
+                     |..|.|.||||||||||||||.|||||.||.|||||.||.|.|||..|.|
+AT5TE39905       267 TTACTTGCAGCGAGCCCTGAAAGATGCCGACTACGAAGGAGATGATCTAT    316
+
+VANDAL11        2326 ACATCAGCCGCATT-TTTAAGAATAAAGAGGATTGTTCAACTAAGCTCGC   2374
+                     .|||..||.| ||| ||.||.||||||||.||||||.|.|||||.||..|
+AT5TE39905       317 TCATTGGCAG-ATTGTTAAAAAATAAAGAAGATTGTGCGACTAAACTGAC    365
+
+VANDAL11        2375 TATTCATGCGATCCGGAGGAAGTTCCATTTCATTTACGTAAAGTCCGGGC   2424
+                     .||.|||||.||.|||||.|||||.|||||||||||||..||.||....|
+AT5TE39905       366 AATCCATGCAATACGGAGAAAGTTTCATTTCATTTACGCCAAATCTTACC    415
+
+VANDAL11        2425 CAAATGTTGTGGCGGCTGTGTGCGTCAGCCATACATGTCCATGGTGGGTT   2474
+                     ||||..||.|...|||.|||||||||||||||||.|..||||||.|.|||
+AT5TE39905       416 CAAACATTCTCCTGGCCGTGTGCGTCAGCCATACTTTCCCATGGCGTGTT    465
+
+VANDAL11        2475 TATGCAACTAAGCTG----CCAGATAGTGATACG-TTCGAGG--TTAGGA   2517
+                     ||||||.|.||.|||    ||||..||     || ||.||||  ..|.|.
+AT5TE39905       466 TATGCACCAAAACTGGAGACCAGTGAG-----CGTTTTGAGGCAAAATGT    510
+
+VANDAL11        2518 GCACGACTTCAAC-ACACACGTGTAGCGTGGATGCTAAAGGG-GACTTCC   2565
+                     |||  || .|||| ||||||.|||||.||.||.| |.||||| |||||.|
+AT5TE39905       511 GCA--AC-CCAACAACACACTTGTAGTGTAGACG-TCAAGGGAGACTTTC    556
+
+VANDAL11        2566 ACAAGCAAGCATCAACGGCTGTGATTGGGAAGTTGATGGGAACTAAATAC   2615
+                     |||||||.||.||.|..||||||||||.|||.||.|.|.||||.||.|||
+AT5TE39905       557 ACAAGCAGGCGTCTATAGCTGTGATTGTGAAATTAAGGAGAACAAAGTAC    606
+
+VANDAL11        2616 ATAGGAGTGGGCCGTGGACCTCGACCTAATGAGCTTA-GAAGAATGTTAC   2664
+                     .|.|||||.||..| ||.||..|.||.||||||.|.| |||| ||..|.|
+AT5TE39905       607 TTGGGAGTTGGTAG-GGGCCAAGGCCAAATGAGTTGAGGAAG-ATAATCC    654
+
+VANDAL11        2665 GCCAAGAGTTTAACCTCAACGTCTCTTATTGGAAGGCATGGAGGACAAGA   2714
+                     |..|.||.||.|||||.||.|||||.||.||||||||.||||||.|..||
+AT5TE39905       655 GTAATGAATTCAACCTAAATGTCTCGTACTGGAAGGCGTGGAGGGCTCGA    704
+
+VANDAL11        2715 GAAATAGCGATGGACAATGCAATGGGGTCTGCTATGGGGAGTTACGCTCT   2764
+                     ||||||||.|||||||||||.|||||.|||||||||||.||.|||.||.|
+AT5TE39905       705 GAAATAGCTATGGACAATGCCATGGGTTCTGCTATGGGAAGCTACACTTT    754
+
+VANDAL11        2765 AAACCAACCATACTTTAAGCTGCTTTTGGAGACAAATCCCAACTCACTTG   2814
+                     .|..||.||.||.||.||.||.||..|.||.|||||..|.|||||.||.|
+AT5TE39905       755 GATTCAGCCTTATTTCAAACTTCTGCTAGAAACAAACTCTAACTCGCTAG    804
+
+VANDAL11        2815 TGGCAATGGAAACTGAAAAG-----GATGCTTCAGGGGTAGAGAGATTCA   2859
+                     ||||..|.||.||.||||||     .||      ||.||.|||.|.||.|
+AT5TE39905       805 TGGCCCTTGATACAGAAAAGATAACAAT------GGTGTGGAGCGGTTTA    848
+
+VANDAL11        2860 AGTACTTGTTTTTTACCCTTCATGCCTGT-GTTCTAGGCTATCCTTACAT   2908
+                     .||||||||||||..||||..||| .||| ||...|||.|||.||||.||
+AT5TE39905       849 GGTACTTGTTTTTCGCCCTAGATG-TTGTAGTCAAAGGTTATGCTTAAAT    897
+
+VANDAL11        2909 GAGGAAGGTGATAGTTATCGACGGTACACACCTACGGGGACGATATGGGG   2958
+                     |||||||||||||.|.||.||.||.||.||.||..||||.|||||.||.|
+AT5TE39905       898 GAGGAAGGTGATATTGATTGATGGGACTCATCTGAGGGGGCGATACGGCG    947
+
+VANDAL11        2959 GATGTTTAGTTGCAGCTAGTGCGCAAGACGCCAATTTCCAAATATTCCCC   3008
+                     |.||.|||.||||.||.||.||.||.||.||||||||||||.|.|||||.
+AT5TE39905       948 GGTGCTTAATTGCTGCAAGCGCTCAGGATGCCAATTTCCAAGTTTTCCCT    997
+
+VANDAL11        3009 ATTGCATTTGGAATAGTAAACAGCGAGAACGATGAGGCGTGGACTTGGTT   3058
+                     |||||.|||||||||||.|||||.|||||.||.||.||.|||||.|||||
+AT5TE39905       998 ATTGCGTTTGGAATAGTGAACAGTGAGAATGACGATGCTTGGACATGGTT   1047
+
+VANDAL11        3059 CATGACTAAGCTGACGGAAGCTATTCCAGATGATCCCGAGTTGGTGTTTA   3108
+                     ||||...|.|||.||.||.|||||.|||||||||||..|.|||||.|||.
+AT5TE39905      1048 CATGGAGAGGCTAACAGACGCTATACCAGATGATCCAAATTTGGTCTTTG   1097
+
+VANDAL11        3109 TGTCAGATAGGCATTCCTCTATTTATGCCAGCATCCGCAAGGTATGGAAT   3158
+                     |.|||||.||.||.|..||.||.|||||.|||||.||||.||||   |||
+AT5TE39905      1098 TTTCAGAAAGACACTTGTCAATATATGCAAGCATACGCATGGTA---AAT   1144
+
+VANDAL11        3159 TAATCTC-----------TATGTTATC--CGATAATGTGGGGTTTACCAT   3195
+                     ||   ||           .||||||||  | ||||       |||||.||
+AT5TE39905      1145 TA---TCGACATAAAAGTAATGTTATCTTC-ATAA-------TTTACAAT   1183
+
+VANDAL11        3196 CAGG-------------------CTT------------TTTATGTT--TA   3212
+                     .|.|                   |||            .||| |||  ||
+AT5TE39905      1184 TATGAAAATGATAACACTAGTATCTTGCTAATAGTTAGATTA-GTTGATA   1232
+
+VANDAL11        3213 CATAAGCCTTTTTGTACTGTAA----------------------------   3234
+                     |||.|    ||.|.||.|.|.|                            
+AT5TE39905      1233 CATGA----TTATCTATTATTAATAAACCCTAACACATGGTCATGCATCT   1278
+
+VANDAL11        3235 -CAGGTTTACCCCATGTCATCACATGCTGCTTGCATCGTCCACCTCAAGA   3283
+                      |||||.||.|.||||||.|||||.||.||||||.|.|||||.||.||||
+AT5TE39905      1279 CCAGGTCTATCACATGTCTTCACACGCCGCTTGCGTTGTCCATCTTAAGA   1328
+
+VANDAL11        3284 GAAACATTGAGGCATACT-----TTAAAGTCGAACAG---TTAAGTGCCT   3325
+                     ||||..||      |.||     ||.|||||  |.||   ||.||| ..|
+AT5TE39905      1329 GAAATTTT------TTCTTAATATTCAAGTC--AGAGGGTTTGAGT-TTT   1369
+
+VANDAL11        3326 TGGTATCAAGTGCAGCTAGAGCTTATCGGCTAACTGACTTCAACAAGATT   3375
+                     |||||.|.|||||.||..|.|||||.|||||||..||||||||....||.
+AT5TE39905      1370 TGGTAGCCAGTGCGGCCTGGGCTTACCGGCTAAACGACTTCAATCGCATA   1419
+
+VANDAL11        3376 TTTGCTGAAATTAAGGCTACGCATGGATCGTGCGCTGAGTACCTGGAAAG   3425
+                     ||||||||.||||..||.|.|||.||..||||.|||||.|||||...|.|
+AT5TE39905      1420 TTTGCTGAGATTAGAGCAATGCACGGCCCGTGTGCTGATTACCTTACATG   1469
+
+VANDAL11        3426 TATAGGGTTCGAACATTGGACCAGGTCACATTTTGTTGGGA-ATCGGTAC   3474
+                     .||.||||||.||||||||||..|.|||||||||| |||.| ||.|||||
+AT5TE39905      1470 CATTGGGTTCAAACATTGGACGCGCTCACATTTTG-TGGTAGATAGGTAC   1518
+
+VANDAL11        3475 AACTTCATGACGAGTAATATTGTCGAGTCGCTAAACAATGTTTTAAC---   3521
+                     ||||||||||||||.||.||.|..|||||||||||||||||.|||||   
+AT5TE39905      1519 AACTTCATGACGAGCAACATAGCGGAGTCGCTAAACAATGTCTTAACAAT   1568
+
+VANDAL11        3522 GGCAGCCCGAGATTATCCGGTAATCTCAATCTTAGAATCTATCCAGACAA   3571
+                     ||||   .|.||||||||.|||||.|||.|..||||..||.|.|..||||
+AT5TE39905      1569 GGCA---AGGGATTATCCAGTAATATCACTACTAGAGACTCTTCGAACAA   1615
+
+VANDAL11        3572 CCCTCGTAT--CATGGTTTGCGTTTCGTAGGC---AGGCAGCCCAGTTAG   3616
+                       |||.|||  ||||||||   |.||.|||||   |.||.||.|||.|.|
+AT5TE39905      1616 --CTCTTATTACATGGTTT---TCTCTTAGGCGAGAAGCTGCACAGCTCG   1660
+
+VANDAL11        3617 AAGACAAT-ATCTTGCCGCCTAAAGTACATAACATGGTTATCGAGAATTT   3665
+                     |.|..||| || |..||.||.||.||..||.|.|||||.|..||.|||||
+AT5TE39905      1661 AGGGGAATCAT-TAACCTCCAAAGGTGAATGAGATGGTCACAGAAAATTT   1709
+
+VANDAL11        3666 TGAGAAGGGGGCGGGTTTTGTTGTGATAAAGATTGGGGATGGTCTCTATG   3715
+                     ||| ||.|||||.||||.||||||..|.||||||||.||||...|.||||
+AT5TE39905      1710 TGA-AAAGGGGCAGGTTATGTTGTACTTAAGATTGGTGATGTATTTTATG   1758
+
+VANDAL11        3716 AGGTTAGAGACAA--AAGAGGCGG-AGGGTTTGTAGTTAACCTATTGGAG   3762
+                     |.||..|||||||  ||||..||| |   |||...||.|||||.|.||||
+AT5TE39905      1759 AAGTGCGAGACAAAGAAGATTCGGCA---TTTACGGTAAACCTTTGGGAG   1805
+
+VANDAL11        3763 AGAACATGTACATGCAGAGAGTTTAAGCTTCTAACGATTCCTTGCTCTCA   3812
+                     .|||||||.||.||||||||.|||.||||.||.||.|||||.||.||.||
+AT5TE39905      1806 CGAACATGCACCTGCAGAGAATTTCAGCTCCTTACAATTCCATGTTCCCA   1855
+
+VANDAL11        3813 CGCAATAGTGGCGGCCATACAAG-AAGGACTCCGAGTGGACACACTGGTT   3861
+                     .||.||||..||..|.||..||| ||||| |..|.||.||.||..|||||
+AT5TE39905      1856 TGCTATAGAAGCCACGATCAAAGAAAGGA-TATGTGTAGAGACGATGGTT   1904
+
+VANDAL11        3862 GGGGTTCATCACACCACGCCACAGCTACGGTTGTGTTACCAAGCCCTAAT   3911
+                     ||.||..|.||||.....|||.|.||..|.|||...|||.|||...|.||
+AT5TE39905      1905 GGCGTCTACCACATAGTTCCATATCTGAGATTGGCGTACAAAGGTGTTAT   1954
+
+VANDAL11        3912 AATGCCGGT-GCCTGACACGGAGACTCTTACTCCGTCACCAAACGATGTA   3960
+                     .|||||..| ||| ||||.||..||.||..|.||.||.|||||.|||||.
+AT5TE39905      1955 CATGCCTATCGCC-GACATGGTTACACTGGCACCTTCCCCAAATGATGTC   2003
+
+VANDAL11        3961 GG-GGGGGGAGAACTGGCTCCACCGTATGTTTCAAGGCCTCCGGGAAGAC   4009
+                     || ||.|||| |..|.||.|||||.||.||....|||||.||.|||.|.|
+AT5TE39905      2004 GGAGGTGGGA-AGGTTGCACCACCTTAGGTGCGTAGGCCACCTGGATGGC   2052
+
+VANDAL11        4010 C-----AAGGAAG--------CGATGTGAAAGCTTTAAATTATTGAACGC   4046
+                     |     ||.||||        |.|.|.||.|| ||.||..||.||..|||
+AT5TE39905      2053 CACAGAAAAGAAGACTTTTCTCAAGGGGAGAG-TTCAAGGTAATGTTCGC   2101
+
+VANDAL11        4047 TA--------ATCAG----------GATATCTGATAT-----------AC   4067
+                     ||        ||.||          |.||.|.|||||           |.
+AT5TE39905      2102 TATAATGTTTATTAGTAACGTTATCGTTAACGGATATTCGTCATGTAAAG   2151
+
+VANDAL11        4068 AAT---AACTATACAATAATAACTTCTGTTACTTTTGTAAAAG---ACTT   4111
+                     |||   |.||| ||.|.|.||       ||| ||.|.|.|.||   ||.|
+AT5TE39905      2152 AATTCGATCTA-ACGAAATTA-------TTA-TTCTTTCAGAGAGAACAT   2192
+
+VANDAL11        4112 CAAGGAAAAGATGTTCGCGCTGCAAGTCGTTGGGCCATAACAGGGTAACC   4161
+                     |.|..|||.|.||.|...|.||||.|.||.|..|.|||||.||.|.|||.
+AT5TE39905      2193 CTACCAAACGTTGCTGAAGATGCAGGGCGATATGGCATAATAGCGCAACA   2242
+
+VANDAL11        4162 TGCAATGGACCAATAACGGTAAGAATTATAATATCGCGATTACATATATG   4211
+                     ||.|..|||||.||..||||||.|  |||||..|.||.||||   |.|..
+AT5TE39905      2243 TGTAGAGGACCCATCGCGGTAACA--TATAAGTTAGCAATTA---ACAAC   2287
+
+VANDAL11        4212 TTACT-------TGATATT--------------TAAAGGGTGGAATTGTA   4240
+                     ||.||       |.|||||              ||||..||.|.|..||.
+AT5TE39905      2288 TTCCTTAACAAGTAATATTAATTTACAACCAAGTAAATTGTTGTAGGGTC   2337
+
+VANDAL11        4241 CT--GC-------AGGAGACAT--------AAGAGAAGGGGAGGATCACG   4273
+                     ||  ||       |||||||||        .||.||||||       || 
+AT5TE39905      2338 CTTAGCTGGGATAAGGAGACATTTTCCGGCGAGTGAAGGG-------AC-   2379
+
+VANDAL11        4274 TTTTTTTGCGCTGAAAGTTGTGGGAT-GGATGTTGCCAGGATTAAC---A   4319
+                     ||||||.|...||.|||  ||..||| |||||.|||||||   |||   |
+AT5TE39905      2380 TTTTTTGGTAATGGAAG--GTTTGATAGGATGGTGCCAGG---AACGTTA   2424
+
+VANDAL11        4320 GA-ATCTGGCATGGCGATGTGAAATAAATAATACGGGGGAAGG--GTTCA   4366
+                     || .|.|||.|||    |||||   |||||||   |..|||||  |.|||
+AT5TE39905      2425 GACCTTTGGAATG----TGTGA---AAATAAT---GAAGAAGGATGATCA   2464
+
+VANDAL11        4367 G-AAAATTTTCATTG----TACATGCG---TATGACATCTGTTCCCT--A   4406
+                     | ||||.|||||.||    |||||.||   |||||        .|||  |
+AT5TE39905      2465 GAAAAAATTTCAATGTATATACATACGGACTATGA--------TCCTACA   2506
+
+VANDAL11        4407 AATGTAAAATT---ATCGGTACGAATCCAACTATCATGAAGTAATGTTTC   4453
+                     |||.|||.|||   |||||.|| ||.||.|       ||  .|||.|   
+AT5TE39905      2507 AATATAATATTACAATCGGGAC-AACCCTA-------GA--CAATAT---   2543
+
+VANDAL11        4454 ATATAATGGCAGTATGTGGTATGTTTTTGTTTACTGAGTTATCTCTGACT   4503
+                      ||||.||| ||        |.|.||||.||.|||            .||
+AT5TE39905      2544 -TATAGTGG-AG--------ACGATTTTTTTAACT------------TCT   2571
+
+VANDAL11        4504 TTAACCTACTAACTAAAG----AAGATAATACTAACCGGAAAAAAT---C   4546
+                     |.|.||        ||||    ||.||        ||     ||||   |
+AT5TE39905      2572 TGATCC--------AAAGTGGCAACAT--------CC-----AAATTCAC   2600
+
+VANDAL11        4547 GCATCGAAATGATATCGTGATACAA----------ATCATGATAATCTAT   4586
+                     ||||          ||    |.|||          |.|||||..||.|||
+AT5TE39905      2601 GCAT----------TC----TTCAACCTCACCGGCAGCATGAGCATGTAT   2636
+
+VANDAL11        4587 TAACTTTAGTTGATAAGCCTAATGTCGCGAAAATA-ATGTAACGCCTGTC   4635
+                     .|                         .|||||.| |...|||.|     
+AT5TE39905      2637 GA-------------------------GGAAAACAGAGAGAACAC-----   2656
+
+VANDAL11        4636 ATTGGTATAATCACGATGTTGGTACTCCTAAAAGAAGACAAGGACACCTA   4685
+                           |.||||                 |||.|.||   ||||.|||| 
+AT5TE39905      2657 ------AAAATC-----------------AAAGGGAG---AGGAGACCT-   2679
+
+VANDAL11        4686 GTGGGTCGA-GTTATTAAGGACATCAATCAGAATAATCATAACGCGTGTT   4734
+                     |.||   || |.|||..|||..|||||.|.|        .||.|.||||.
+AT5TE39905      2680 GAGG---GATGCTATGCAGGCGATCAAGCGG--------GAAAGGGTGTA   2718
+
+VANDAL11        4735 ATCTGATAACAAAAAAAAAACATAAATATGTACTTGTCCCCATAC---CG   4781
+                     .|..||||..|                            ||| ||   ||
+AT5TE39905      2719 GTAAGATAGGA----------------------------CCA-ACTGACG   2739
+
+VANDAL11        4782 GGATAGA---TTCACTAGTGAATA-TTAA-----CAT---AAATTTATTG   4819
+                     .|.||||   ||      ||||.| .|||     |||   |        |
+AT5TE39905      2740 AGTTAGACTGTT------TGAAGAGGTAAGGGAGCATGGCA--------G   2775
+
+VANDAL11        4820 CC--CGGCTTTGTAGGAGTT--GCAATCAAAGCAATAAACACCCGAGTTG   4865
+                     ||  |||||     ||||||  |||                         
+AT5TE39905      2776 CCAACGGCT-----GGAGTTTGGCA-------------------------   2795
+
+VANDAL11        4866 TTTTTACAAAAAAGTAAAACAGCTATATTGTATAA--CTGATAATAATAA   4913
+                                                   |||||  ||||         
+AT5TE39905      2796 ------------------------------TATAACGCTGA---------   2806
+
+VANDAL11        4914 CATTACCTAT-------ACGCTGAATGTTACATATCTTCGGACCGAATCA   4956
+                             ||       |.||||||||||              .|||||.
+AT5TE39905      2807 --------ATCTCGGCGAAGCTGAATGTT--------------GGAATCG   2834
+
+VANDAL11        4957 AGTAAAAG-GTTC   4968
+                     || ||.|| |.||
+AT5TE39905      2835 AG-AATAGTGATC   2846
+
+
+#---------------------------------------
+#---------------------------------------

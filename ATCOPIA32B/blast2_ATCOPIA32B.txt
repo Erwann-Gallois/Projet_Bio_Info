@@ -1,0 +1,7 @@
+# BLASTN 2.12.0+
+# Query: ATCOPIA32B_I AC006570 Internal region of the ATCOPIA32B LTR retrotransposon.
+# Database: seq_ET_ATCOPIA32B.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ATCOPIA32B_I	AT2TE17870	99.976	4239	1	0	1	4239	767	5005	0.0	7823
+# BLAST processed 1 queries

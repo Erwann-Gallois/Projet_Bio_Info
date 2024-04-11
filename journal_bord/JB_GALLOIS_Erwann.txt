@@ -468,3 +468,24 @@ done < $fichier
 ./script/blast_cmd.sh id_ATLINE1_1.txt > seq_ET_ATLINE1_1.fasta
 ./script/blast_cmd.sh id_VANDAL11.txt > seq_ET_VANDAL11.fasta
 
+# ---------------------------------------------------------------------------- #
+#                              Jeudi 11 avril 2024                             #
+# ---------------------------------------------------------------------------- #
+
+# ---------------------- Creation BD pour chaque famille --------------------- #
+makeblastdb -in seq_ET_ATLINE1_1.fasta -parse_seqids -dbtype nucl
+makeblastdb -in seq_ET_VANDAL11.fasta -parse_seqids -dbtype nucl
+makeblastdb -in seq_ET_ATCOPIA32B.fasta -parse_seqids -dbtype nucl
+
+# ----------------------------- Réaisation blastn ---------------------------- #
+blastn -db seq_ET_VANDAL11.fasta -query ref_VANDAL11.fasta -out blast_Vandal11.txt
+blastn -db seq_ET_ATLINE1_1.fasta -query ref_ATLINE1_1.fasta -out blast_ATLINE1_1.txt
+blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPIA32B.txt
+
+# ------------------- Réalisation blastn avec fichier tabulé ----------------- #
+blastn -db seq_ET_VANDAL11.fasta -query ref_VANDAL11.fasta -out blast_Vandal11.txt -outfmt 7
+blastn -db seq_ET_ATLINE1_1.fasta -query ref_ATLINE1_1.fasta -out blast_ATLINE1_1.txt -outfmt 7
+blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPIA32B.txt -outfmt 7
+
+Ensuite réalisation d'un alignement de Water, obtention des scores d'alignements de séquence et des pourcentages d'identité
+ainsi que les scores de similarité.
