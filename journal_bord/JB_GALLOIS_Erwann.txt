@@ -517,4 +517,6 @@ régulatrice fonctionnelle "à coté" des gènes
 # ---------------------------------------------------------------------------- #
 #                            Vendredi 26 avril 2024                            #
 # ---------------------------------------------------------------------------- #
+Creation de la BD
+- Code des tables dans code_create_bd.sql
 
