@@ -477,4 +477,45 @@ done < $fichier
 
 Commande blast pour aligner les séquences de référence avec les séquences d'éléments transposables :
 
-blastn -db seq_ET_VANDAL11.fasta -query ref_VANDAL11.fasta -out blast_Vandal11
+makeblastdb -in seq_ET_ATLINE1_1.fasta -parse_seqids -dbtype nucl
+makeblastdb -in seq_ET_VANDAL11.fasta -parse_seqids -dbtype nucl
+makeblastdb -in seq_ET_ATCOPIA32B.fasta -parse_seqids -dbtype nucl
+
+# ----------------------------- Réalisation blastn ---------------------------- #
+
+Nous avons réalisé un blastn avec les séquences de référence et les séquences d'éléments transposables.
+
+blastn -db seq_ET_VANDAL11.fasta -query ref_VANDAL11.fasta -out blast_Vandal11.txt
+blastn -db seq_ET_ATLINE1_1.fasta -query ref_ATLINE1_1.fasta -out blast_ATLINE1_1.txt
+blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPIA32B.txt
+
+# ------------------- Réalisation blastn avec fichier tabulé ----------------- #
+
+Nous avons réalisé un blastn avec les séquences de référence et les séquences d'éléments transposables en format tabulé afin que les 
+résultats soient plus lisibles.
+
+blastn -db seq_ET_VANDAL11.fasta -query ref_VANDAL11.fasta -out blast_Vandal11.txt -outfmt 7
+blastn -db seq_ET_ATLINE1_1.fasta -query ref_ATLINE1_1.fasta -out blast_ATLINE1_1.txt -outfmt 7
+blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPIA32B.txt -outfmt 7
+
+Ensuite réalisation d'un alignement de Water, obtention des scores d'alignements de séquence et des pourcentages d'identité
+ainsi que les scores de similarité.
+
+# ---------------------------------------------------------------------------- #
+#                               Vendredi 12 avril                              #
+# ---------------------------------------------------------------------------- #
+
+Aujourd'hui nous allons annoter les éléments transposables dans les génomes de référence. C'est à dire, expliquer les scores des séquences
+grâce aux résultats obtenus lors du blastn.
+Chaque ET est placé sur un chromosome, on a des infos sur l'orientation, le début et la fin, la famille, la classe et la taille de 
+l'élément transposable.
+Nous allons créer un modèle conceptuel de données E/A qui nous permettra d'établir un modèle relationnel.
+On fera attention aux clés étrangères puis on créera les tables dans SQL. On intègrera les données et on proposera des requêtes SQL
+intéressantes.
+
+# ---------------------------------------------------------------------------- #
+#                               Vendredi 26 Avril                              #
+# ---------------------------------------------------------------------------- #
+
+Aujourd'hui nous allons essayer de créer la base de données et de répondre à la question biologique en 
+se penchant sur les éléments transposables et ce qu'il y a à coté des gènes. 

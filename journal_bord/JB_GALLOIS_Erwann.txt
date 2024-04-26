@@ -489,3 +489,32 @@ blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPI
 
 Ensuite réalisation d'un alignement de Water, obtention des scores d'alignements de séquence et des pourcentages d'identité
 ainsi que les scores de similarité.
+
+# ---------------------------------------------------------------------------- #
+#                            Vendredi 12 avril 2024                            #
+# ---------------------------------------------------------------------------- #
+Creation de la base de données :
+Spécificités : 
+    Pour chaque copie ET:
+        - Chromosomes
+        - Orientation
+        - debut
+        - Fin
+        - famille
+        - Classes
+        - Taille
+    Données à integrer
+        - Blast résultats
+        - Gènes : 
+            - Chromosomes
+            - debut
+            - Fin
+            - Orientation
+
+Répondre a la question : Est ce qu'il y a des ET fonctionnels ou susceptibles d'apporter des régions
+régulatrice fonctionnelle "à coté" des gènes
+
+# ---------------------------------------------------------------------------- #
+#                            Vendredi 26 avril 2024                            #
+# ---------------------------------------------------------------------------- #
+
