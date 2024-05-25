@@ -5,6 +5,7 @@ CREATE TABLE chromosome (
     CONSTRAINT num_k PRIMARY KEY (num_k)
 );
 
+
 CREATE TABLE famille_ET (
     nom_famille varchar(50),
     type_famille varchar(50),

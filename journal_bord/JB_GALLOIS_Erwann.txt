@@ -483,9 +483,9 @@ blastn -db seq_ET_ATLINE1_1.fasta -query ref_ATLINE1_1.fasta -out blast_ATLINE1_
 blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPIA32B.txt
 
 # ------------------- Réalisation blastn avec fichier tabulé ----------------- #
-blastn -db seq_ET_VANDAL11.fasta -query ref_VANDAL11.fasta -out blast_Vandal11.txt -outfmt 7
-blastn -db seq_ET_ATLINE1_1.fasta -query ref_ATLINE1_1.fasta -out blast_ATLINE1_1.txt -outfmt 7
-blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPIA32B.txt -outfmt 7
+blastn -db seq_ET_VANDAL11.fasta -query ref_VANDAL11.fasta -out blast_Vandal11.txt -outfmt 6
+blastn -db seq_ET_ATLINE1_1.fasta -query ref_ATLINE1_1.fasta -out blast_ATLINE1_1.txt -outfmt 6
+blastn -db seq_ET_ATCOPIA32B.fasta -query ref_ATCOPIA32B.fasta -out blast_ATCOPIA32B.txt -outfmt 6
 
 Ensuite réalisation d'un alignement de Water, obtention des scores d'alignements de séquence et des pourcentages d'identité
 ainsi que les scores de similarité.
@@ -519,4 +519,11 @@ régulatrice fonctionnelle "à coté" des gènes
 # ---------------------------------------------------------------------------- #
 Creation de la BD
 - Code des tables dans code_create_bd.sql
+- Code pour l'insertion des valeurs dans la BDD 
+
+# ---------------------------------------------------------------------------- #
+#                              Samedi 25 mai 2024                              #
+# ---------------------------------------------------------------------------- #
+Creation d'un script python pour réalisé l'histogramme
+Creation d'un script sh pour lancer le script python sur chaque fichier des résultats Fasta
 
