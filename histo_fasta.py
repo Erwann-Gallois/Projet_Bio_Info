@@ -17,12 +17,12 @@ def extract_sequence_lengths(fasta_file):
 def plot_histogram(lengths, family_name):
     plt.figure(figsize=(10, 6))
     plt.hist(lengths, bins=20, alpha=0.7, color='blue')
-    plt.xlabel('Sequence Length (bp)')
-    plt.ylabel('Frequency')
-    plt.title(f'Histogram of Sequence Lengths for Family {family_name}')
-    plt.axvline(x=sum(lengths)/len(lengths), color='r', linestyle='dashed', linewidth=2, label='Mean size')
+    plt.xlabel('Taille de la séquence (bp)')
+    plt.ylabel('Frequence')
+    plt.title(f'Histogramme de la taille des séquences de la famille {family_name}')
+    plt.axvline(x=sum(lengths)/len(lengths), color='r', linestyle='dashed', linewidth=2, label='Taille moyenne')
     plt.legend()
-    plt.savefig(f'histogramme_{family_name}.png')
+    plt.savefig(f'histogramme_fasta_{family_name}.png')
     plt.show()
 
 # Exemple d'utilisation

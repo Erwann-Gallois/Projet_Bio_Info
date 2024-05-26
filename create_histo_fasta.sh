@@ -14,7 +14,7 @@ FAMILY_NAME=$2
 # source /path/to/your/venv/bin/activate
 
 # Exécuter le script Python avec les arguments fournis
-python3 histo.py "$FASTA_FILE" "$FAMILY_NAME"
+python3 histo_fasta.py "$FASTA_FILE" "$FAMILY_NAME"
 
 # Désactiver l'environnement virtuel si nécessaire (optionnel)
 # deactivate

@@ -1,3 +1,4 @@
+query	subject	identity	length	mismatches	gaps	q_start	q_end	s_start	s_end	evalue	bit_score
 ATLINE1_1	AT1TE70805	99.590	5851	22	2	1	5851	1	5849	0.0	10671
 ATLINE1_1	AT4TE50995	100.000	2666	0	0	3186	5851	1	2666	0.0	4924
 ATLINE1_1	AT1TE83175	97.243	544	7	1	5316	5851	67	610	0.0	915
